@@ -139,10 +139,9 @@ collections:
               config:
                 multiple: false
             default: "/uploads/background.jpeg"
-          - label: "Embed Google Maps"
+          - label: "Embed Google Maps (HTML)"
             name: "maps_embed"
-            widget: "code"
-            output_code_only: true
+            widget: "text"
           - label: "Meta Image"
             name: "meta_image"
             widget: "image"
@@ -306,7 +305,6 @@ collections:
           - label: "Tombol"
             name: "text"
             widget: "string"
-          - label: "Potongan Sejarah"
+          - label: "Potongan Sejarah (HTML)"
             name: "content"
-            widget: "code"
-            output_code_only: true
+            widget: "text"
