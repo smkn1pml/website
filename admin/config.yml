@@ -286,3 +286,22 @@ collections:
               - label: "Judul"
                 name: "title"
                 widget: "string"
+  - name: "other"
+    label: "Lain-Lain"
+    editor:
+      preview: false
+    files:
+      - label: "Preview Sejarah"
+        name: "history"
+        file: "_data/landing/history.yml"
+        fields:
+          - label: "URL Halaman"
+            name: "page"
+            widget: "string"
+          - label: "Tombol"
+            name: "text"
+            widget: "string"
+          - label: "Potongan Sejarah"
+            name: "content"
+            widget: "code"
+            output_code_only: true
