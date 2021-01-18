@@ -1,0 +1,169 @@
+<!-- Hero Start -->
+<section class="bg-half bg-light d-table w-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+                <div class="page-next-level">
+                    <h4 class="title">{{ page.title }}</h4>
+                    <div class="page-next">
+                        <nav aria-label="breadcrumb" class="d-inline-block">
+                            <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+</section>
+<!--end section-->
+<!-- Hero End -->
+
+<!-- Shape Start -->
+<div class="position-relative">
+    <div class="shape overflow-hidden text-white">
+        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+        </svg>
+    </div>
+</div>
+<!--Shape End-->
+
+<!-- Start Contact -->
+<section class="section pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card contact-detail text-center border-0">
+                    <div class="card-body p-0">
+                        <div class="icon">
+                            <img src="{{ '/assets/images/icon/call.svg' | relative_url }}" class="avatar avatar-small" alt="">
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="title font-weight-bold">Telepon</h4>
+                            <p class="text-muted">Silahkan hubungi kami untuk pertanyaan, keluhan, dan informasi terkait {{ site.data.settings.school.name }} menggunakan nomor telepon berikut</p>
+                            <a href="tel:{{ site.data.settings.school.phone }}" class="text-primary">{{ site.data.settings.school.phone }}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                <div class="card contact-detail text-center border-0">
+                    <div class="card-body p-0">
+                        <div class="icon">
+                            <img src="{{ '/assets/images/icon/email.svg' | relative_url }}" class="avatar avatar-small" alt="">
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="title font-weight-bold">Email</h4>
+                            <p class="text-muted">Hubungi kami kapan saja untuk pertanyaan, keluhan, dan informasi terkait {{ site.data.settings.school.name }} melalui alamat email dibawah ini</p>
+                            <a href="mailto:{{ site.data.settings.school.email }}" class="text-primary">{{ site.data.settings.school.email }}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-md-4 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                <div class="card contact-detail text-center border-0">
+                    <div class="card-body p-0">
+                        <div class="icon">
+                            <img src="{{ '/assets/images/icon/location.svg' | relative_url }}" class="avatar avatar-small" alt="">
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="title font-weight-bold">Lokasi</h4>
+                            <p class="text-muted">{{ site.data.settings.school.address.address }}</p>
+                            <a href="{{ site.data.settings.school.address.google_maps }}" class="video-play-icon h6 text-primary">Lihat di Google Maps</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+
+    <!-- <div class="container mt-100 mt-60">
+        <div class="row align-items-center">
+            <div class="col-lg-5 col-md-6 pt-2 pt-sm-0 order-2 order-md-1">
+                <div class="card shadow rounded border-0">
+                    <div class="card-body">
+                        <h4 class="card-title">Formulir Kontak</h4>
+                        <div class="custom-form mt-4">
+                            <div id="message"></div>
+                            <form method="post" action="php/contact.php" name="contact-form" id="contact-form">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group position-relative">
+                                            <label>Nama Lengkap <span class="text-danger">*</span></label>
+                                            <i data-feather="user" class="fea icon-sm icons"></i>
+                                            <input id="comment_author" name="comment_author" type="text" class="form-control pl-5" placeholder="Masukkan nama lengkap Anda">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group position-relative">
+                                            <label>Email <span class="text-danger">*</span></label>
+                                            <i data-feather="mail" class="fea icon-sm icons"></i>
+                                            <input id="comment_email" name="comment_email" type="email" class="form-control pl-5" placeholder="Masukkan alamat email aktif Anda">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group position-relative">
+                                            <label>URL</label>
+                                            <i data-feather="link" class="fea icon-sm icons"></i>
+                                            <input id="comment_url" name="comment_url" type="text" class="form-control pl-5" placeholder="Masukkan alamat website yang valid">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group position-relative">
+                                            <label>Pesan <span class="text-danger">*</span></label>
+                                            <i data-feather="message-circle" class="fea icon-sm icons"></i>
+                                            <textarea id="comment_content" name="comment_content" rows="4" class="form-control pl-5" placeholder="Deskripsikan pesan Anda"></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12 text-center">
+                                        <input type="button" class="submitBnt btn btn-primary btn-block" value="Send Message" onclick="send_message(); return false;">
+                                        <div id="simple-msg"></div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-6 order-1 order-md-2">
+                <div class="card border-0">
+                    <div class="card-body p-0">
+                        <img src="{{ '/assets/images/contact.svg' | relative_url }}" class="img-fluid" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+    <div class="container-fluid mt-100 mt-60">
+        <div class="row">
+            <div class="col-12 p-0">
+                <div class="card map border-0">
+                    <div class="card-body p-0">
+                        {{ site.data.settings.general.maps_embed }}
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+</section>
+<!--end section-->
+<!-- End contact -->

@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /api/categories.json
+---
+{
+    "total": {{ site.categories.size }},
+    "data": [
+        {% for category in site.categories %}
+            "{{ category | first }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}

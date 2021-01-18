@@ -1,0 +1,25 @@
+- title: "Beranda"
+  url: "/"
+
+- title: "Artikel"
+  url: "/articles/"
+
+- title: "Profil"
+  url: "#"
+  children:
+    - title: "Sejarah Sekolah"
+      url: "/p/sejarah/"
+    - title: "Visi & Misi"
+      url: "/p/visi-misi"
+    - title: "Fasilitas Sekolah"
+      url: "/p/fasilitas/"
+    - title: "Profil Sekolah"
+      url: "/p/profil"
+    - title: "Struktur Organisasi"
+      url: "/p/struktur-organisasi"
+
+- title: "Galeri"
+  url: "/gallery/"
+
+- title: "Hubungi Kami"
+  url: "/contact/"

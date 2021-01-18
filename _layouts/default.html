@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include layout/head.html %}
+
+<body>
+    {% include layout/noscript.html %}
+    {% include layout/loader.html %}
+    {% include layout/navbar.html %}
+
+    {{ content }}
+
+    {% include layout/footer.html %}
+    {% include layout/analytics.html %}
+    {% include layout/scripts.html %}
+</body>
+
+</html>

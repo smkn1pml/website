@@ -1,0 +1,110 @@
+# Site Settings
+title: "SMK Negeri 1 Pemalang"
+description: >-
+  SMK Negeri 1 Pemalang adalah satu-satunya Lembaga Pendidikan Menengah Kejuruan Negeri yang ada di Pemalang, Jawa Tengah
+url: "http://localhost:4000"
+baseurl: ""
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-minifier
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+
+# Author
+author:
+  name: "Administrator"
+  website: "https://smkn1pml.sch.id"
+  email: "smkn1pml@gmail.com"
+
+# Posts
+permalink: "/read/:title/"
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: "/page/:title/"
+  majors:
+    output: true
+    permalink: "/major/:title/"
+  gallery:
+    output: false
+
+# Disqus
+disqus:
+  shortname: "smkn1pml"
+
+# Paginate
+paginate: 4
+paginate_path: "/articles/:num/"
+
+# Analytics
+analytics:
+  enabled: false
+  google:
+    tracking_id: "your-google-tracking-id"
+
+# Defaults for Collections
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "majors"
+    values:
+      layout: "major"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      thumbnail: "/uploads/images/no_image.png"
+      comments: false # Set to true to enable disqus comments
+
+# Jekyll Minifier
+jekyll-minifier:
+  exclude:
+    - robots.txt
+  preserve_php: true
+  remove_intertag_spaces: true
+  uglifier_args:
+    harmony: true
+  compress_css: true
+  compress_javascript: true
+
+# Jekyll Archives
+jekyll-archives:
+  enabled: "all"
+  layout: "archive"
+  permalinks:
+    year: "/:year/"
+    month: "/:year/:month/"
+    day: "/:year/:month/:day/"
+    tag: "/tag/:name/"
+    category: "/category/:name/"
+
+# Include from processing
+include:
+  - robots.txt
+
+# Exclude from processing
+exclude:
+  - README.md
+  - "*.log"
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

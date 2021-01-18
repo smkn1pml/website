@@ -1,0 +1,70 @@
+{% if paginator.posts.size > 0 %}
+    {% for post in paginator.posts %}
+    <div class="col-lg-6 col-md-12 mb-4 pb-2 post-item">
+        <div class="card blog rounded border-0 shadow">
+            <div class="position-relative">
+                <img src="{{ post.thumbnail }}" class="card-img-top rounded-top" alt="{{ post.title | escape }}">
+                <div class="overlay rounded-top bg-dark"></div>
+            </div>
+            <div class="card-body content">
+                <h5><a href="{{ post.url }}" class="card-title title text-dark">{{ post.title | escape }}</a></h5>
+                <p class="text-muted">
+                    {% if post.description %}
+                        {{ post.description | strip_html }}
+                    {% else %}
+                        {{ post.content | truncatewords: 15, "..." | strip_html }}
+                    {% endif %}
+                </p>
+                <div class="post-meta d-flex justify-content-between mt-3">
+                    <ul class="list-unstyled mb-0">
+                        <li class="list-inline-item">
+                            <a href="javascript:void(0)" class="text-muted comments">
+                                <i class="mdi mdi-comment-outline mr-1"></i>
+                                <span class="disqus-comment-count" data-disqus-url="{{ post.url | relative_url }}">0</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <a href="{{ post.url }}" class="text-muted readmore">Baca <i class="mdi mdi-chevron-right"></i></a>
+                </div>
+            </div>
+            <div class="author">
+                <small class="text-light user d-block"><i class="mdi mdi-account"></i> {{ post.author | default: site.author.name | escape }}</small>
+                <small class="text-light date"><i class="mdi mdi-calendar-check"></i> {{ post.date | date: "%d/%m/%Y %H:%M" }}</small>
+            </div>
+        </div>
+    </div>
+    <!--end col-->
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+    <!-- PAGINATION START -->
+    <div class="col-12">
+        <ul class="pagination justify-content-center mb-0">
+            {% if paginator.previous_page %}
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" aria-label="Previous">Prev</a></li>
+            {% else %}
+                <li class="page-item"><a class="page-link" href="javascript:void(0)" aria-label="Previous">Prev</a></li>
+            {% endif %}
+
+            {% for page in (1..paginator.total_pages) %}
+                {% if page == paginator.page %}
+                    <li class="page-item active"><a class="page-link" href="javascript:void(0)">{{ page }}</a></li>
+                {% elsif page == 1 %}
+                    <li class="page-item"><a class="page-link" href="{{ '/articles/' | relative_url }}">{{ page }}</a></li>
+                {% else %}
+                    <li class="page-item"><a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+                {% endif %}
+            {% endfor %}
+
+            {% if paginator.next_page %}
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | relative_url }}" aria-label="Next">Next</a></li>
+            {% else %}
+                <li class="page-item"><a class="page-link" href="javascript:void(0)" aria-label="Next">Next</a></li>
+            {% endif %}
+        </ul>
+    </div><!--end col-->
+    <!-- PAGINATION END -->
+    {% endif %}
+{% else %}
+    {% include element/404_article.html %}
+{% endif %}

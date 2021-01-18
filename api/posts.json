@@ -1,0 +1,22 @@
+---
+layout: null
+permalink: /api/posts.json
+---
+{
+    "total": {{ site.posts.size }},
+    "data": [
+        {% for post in site.posts %}
+        {
+            "title": "{{ post.title | xml_escape }}",
+            "date": "{{ post.date }}",
+            "date_parse": "{{ post.date | date: "%d/%m/%Y %H:%M" }}",
+            "category": "{{ post.category | xml_escape }}",
+            "tags": {{ post.tags | jsonify }},
+            "thumbnail": "{{ post.thumbnail | absolute_url }}",
+            "summary": "{{ post.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
+            "author": "{{ post.author | xml_escape }}",
+            "url": "{{ post.url | absolute_url }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}

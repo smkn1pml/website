@@ -1,0 +1,74 @@
+<!-- Hero Start -->
+<section class="bg-half-260 d-table w-100 d-none d-md-block" style="background: url('/assets/images/author.png'); background-size: cover; background-position: center;">
+    <div class="bg-overlay"></div>
+</section>
+<!--end section-->
+<!-- Hero End -->
+
+<!-- Candidate Detail Start -->
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-5 col-12">
+                <div class="card job-profile shadow border-0">
+                    <div class="text-center py-5 border-bottom rounded-top">
+                        <img src="{{ site.data.author.picture }}" class="avatar avatar-medium mx-auto rounded-circle shadow d-block" alt="">
+                        <h5 class="mt-3 mb-0">{{ site.data.author.name }}</h5>
+                        <p class="text-muted mb-0">{{ site.data.author.as }}</p>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Data Pribadi</h5>
+
+                        <ul class="list-unstyled">
+                            <li class="h6"><i data-feather="mail" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Email :</span> {{ site.data.author.email }}</li>
+                            <li class="h6"><i data-feather="gift" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Tanggal Lahir :</span> {{ site.data.author.dob }}</li>
+                            <li class="h6"><i data-feather="home" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Alamat :</span> {{ site.data.author.address }}</li>
+                            <li class="h6"><i data-feather="map-pin" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Desa :</span> {{ site.data.author.village }}</li>
+                            <!-- <li class="h6"><i data-feather="globe" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Country :</span> </li> -->
+                            <!-- <li class="h6"><i data-feather="server" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Postal Code :</span> </li> -->
+                            <li class="h6"><i data-feather="phone" class="fea icon-sm text-warning mr-2"></i><span class="text-muted">Telepon :</span> {{ site.data.author.phone }}</li>
+
+                            <li>
+                                <ul class="list-unstyled social-icon mb-0 mt-4">
+                                    <li class="list-inline-item"><a href="https://www.facebook.com/{{ site.data.author.social.facebook }}" class="rounded" target="_blank"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                                    &nbsp;
+                                    <li class="list-inline-item"><a href="https://www.instagram.com/{{ site.data.author.social.instagram }}" class="rounded" target="_blank"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                                    &nbsp;
+                                    <li class="list-inline-item"><a href="https://www.twitter.com/{{ site.data.author.social.twitter }}" class="rounded" target="_blank"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
+                                    &nbsp;
+                                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ site.data.author.social.linkedin }}" class="rounded" target="_blank"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                                    &nbsp;
+                                    <li class="list-inline-item"><a href="https://www.github.com/{{ site.data.author.social.github }}" class="rounded" target="_blank"><i data-feather="github" class="fea icon-sm fea-social"></i></a></li>
+                                    &nbsp;
+                                    <li class="list-inline-item"><a href="https://www.youtube.com/{{ site.data.author.social.youtube }}" class="rounded" target="_blank"><i data-feather="youtube" class="fea icon-sm fea-social"></i></a></li>
+                                    &nbsp;
+                                    <li class="list-inline-item"><a href="https://www.gitlab.com/{{ site.data.author.social.gitlab }}" class="rounded" target="_blank"><i data-feather="gitlab" class="fea icon-sm fea-social"></i></a></li>
+                                </ul>
+                                <!--end icon-->
+                            </li>
+                        </ul>
+                        <a href="{{ site.data.author.website }}" target="_blank" class="btn btn-block btn-primary"><i class="mdi mdi-web"></i> Website</a>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-lg-8 col-md-7 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                <div class="ml-lg-4">
+                    <h4>Tentang Saya</h4>
+                    {{ site.data.author.description }}
+
+                    <div class="mt-3 pt-2">
+                        <a href="{{ site.data.author.website }}" target="_blank" class="btn btn-primary mr-2"><i class="mdi mdi-web"></i> Website</a>
+                        <a href="mailto:{{ site.data.author.email }}" class="btn btn-outline-primary"><i class="mdi mdi-mail"></i> Kirim Email</a>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--enn row-->
+    </div>
+    <!--end container-->
+</section>
+<!--end section-->
+<!-- Candidate Detail End -->

@@ -1,0 +1,26 @@
+# Jangan diubah-ubah ya :)
+# Perjuangan bos, hehe
+
+name: "Suluh Sulistiawan"
+as: "Junior Web Developer"
+picture: "https://github.com/sProDev.png"
+email: "kuy@suluh.my.id"
+website: "https://suluh.my.id"
+dob: "22 Juni 2004"
+address: "Jl. Elang No. 45"
+village: "Danasari"
+phone: "+62 838-6141-5641"
+description: >-
+  <p class="text-muted">Hai, perkenalkan nama saya Suluh Sulistiawan, saya adalah salah satu siswa SMK Negeri 1 Pemalang jurusan Teknik Komputer & Jaringan angkatan 53. Saya mulai mempelajari bahasa pemrograman sejak tahun 2015 tepatnya saat saya berada dibangku SMP kelas 1. Awalnya saya hanya ingin tahu bagaimana sebuah game bekerja dan berjalan, namun karena keterbatasan perangkat (komputer) yang saya punya pada saat itu, saya mengubah haluan dan tertarik pada dunia blogging hingga pada suatu saat dimana saya merasa fitur-fitur yang tersedia pada platform blogger terbatas, akhirnya saya mencoba mengembangkan sebuah website dan menyesuaikan fitur-fitur yang saya butuhkan sendiri. Dari situlah saya memulai karir sebagai pengembang website.</p>
+  <p class="text-muted">Tentu saja saya memilih SMK Negeri 1 Pemalang dan jurusan TKJ, selain satu-satunya SMK Negeri yang ada di kecamatan Pemalang, hobi saya yang terletak dibidang komputer pun membuat saya memilih untuk melanjutkan pendidikan disini. Saya mulai aktif berpastisipasi dalam lomba untuk mewakili SMK sejak bulan Agustus tahun 2019, tepatnya pada tanggal 18 saya mengikuti Pekan Ilmiah STMIK Widya Pratama Pekalongan pada bidang Web Design. Alhamdulillah pada kesempatan yang pertama itu, saya berhasil mendapatkan peringkat 1.</p>
+  <p class="text-muted">Setelah itu, saya mengikuti Lomba Kompetensi Siswa ditingkat Kabupaten tahun 2019 mata lomba Web Technology dan alhamdulillah, walaupun kurang memuaskan :) saya mendapatkan juara ke-3. Dan yang terakhir, saya bersama 2 orang lainnya (Wardah Nur Abiyyah & Ivan Rizkya Susanto) mewakili sekolah untuk mengikuti Kamp Kreatif SMK Indonesia tahun 2020 pada mata lomba Smart Apps for School dan berhasil mendapatkan juara 3 ditingkat Nasional.</p>
+  <p class="text-muted">Website SMK Negeri 1 Pemalang ini dibangun tidak menggunakan backend dan tentunya sangat sederhana. Saya mempertimbangkan betul-betul tentang kebutuhan dan kegunaan website sekolah ini sendiri, dimana yang utama adalah informasi penting dari sekolah bisa sampai ke pengunjung dengan baik dan benar. Statis adalah pilihan yang tepat untuk website yang mengutamakan kecepatan, juga website yang tidak setiap saat harus diupdate. Yang terpenting website ini masih bisa dikelola kontennya dengan mudah. Saya memilih Jekyll sebagai <i>Static Page Generator</i>, Github sebagai <i>File Hosting</i>, Netlify sebagai CDN-nya, dan Netlify CMS sebagai <i>Content Management System</i>.</p>
+  <p class="text-muted mb-0">Informasi lebih lanjut, bisa kunjungi halaman profil pribadi saya :D</p>
+social:
+  facebook: "suluh.sulistiawan"
+  instagram: "suluh_s"
+  twitter: "suluh_s"
+  linkedin: "suluh-sulistiawan"
+  github: "sProDev"
+  youtube: "SDeveloper"
+  gitlab: "SLuh"

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include layout/head.html %}
+
+<body>
+    {% include layout/noscript.html %}
+    {% include layout/loader.html %}
+    {% include layout/navbar.html %}
+
+    <!-- Hero Start -->
+    <section class="bg-half bg-light d-table w-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12 text-center">
+                    <div class="page-next-level">
+                        {% if page.type == 'tag' %}
+                        <h4 class="title">Tag: {{ page.title | capitalize }}</h4>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    <li class="breadcrumb-item"><a href="javascript:void(0)">Tag</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ page.title | upcase | escape }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                        {% elsif page.type == 'category' %}
+                        <h4 class="title">Kategori: {{ page.title | capitalize }}</h4>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    <li class="breadcrumb-item"><a href="javascript:void(0)">Kategori</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ page.title | upcase | escape }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                        {% elsif page.type == 'year' %}
+                        <h4 class="title">Arsip {{ page.date | date: "%Y" }}</h4>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ page.date | date: "%Y" }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                        {% elsif page.type == 'month' %}
+                        <h4 class="title">{{ archive_month_name }} {{ page.date | date: "%Y" }}</h4>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    {% assign archive_year = page.date | date: "%Y" %}
+                                    <li class="breadcrumb-item"><a href="{{ site.jekyll-archives.permalinks.year | relative_url | replace: ':year', archive_year }}">{{ archive_year }}</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ archive_month_name }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                        {% elsif page.type == 'day' %}
+                        <h4 class="title">{{ page.date | date: "%-d" }} {{ archive_month_name }} {{ page.date | date: "%Y" }}</h4>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    {% assign archive_year = page.date | date: "%Y" %}
+                                    {% assign archive_month = page.date | date: "%m" %}
+                                    <li class="breadcrumb-item"><a href="{{ site.jekyll-archives.permalinks.year | relative_url | replace: ':year', archive_year }}">{{ archive_year }}</a></li>
+                                    <li class="breadcrumb-item"><a href="{{ site.jekyll-archives.permalinks.month | relative_url | replace: ':year', archive_year | replace: ':month', archive_month }}">{{ archive_month_name }}</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ page.date | date: "%d" }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- Hero End -->
+
+    <!-- Shape Start -->
+    <div class="position-relative">
+        <div class="shape overflow-hidden text-white">
+            <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+            </svg>
+        </div>
+    </div>
+    <!--Shape End-->
+
+    <!-- Blog Start -->
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <!-- Blog Start -->
+                <div class="col-lg-8 col-md-6">
+                    <input type="hidden" id="current_page">
+                    <input type="hidden" id="show_per_page">
+
+                    <div class="row" id="pagingBox">
+                        {% include element/archive.html %}
+                    </div>
+                    <!--end row-->
+                </div>
+                <!--end col-->
+                <!-- Blog End -->
+
+                {% include layout/sidebar.html %}
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- Blog End -->
+
+    {% include layout/footer.html %}
+    {% include layout/analytics.html %}
+    {% include layout/scripts.html %}
+</body>
+
+</html>

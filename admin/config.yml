@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "uploads"
+collections:
+  - name: "blog"
+    label: "Artikel"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Tanggal Penerbitan", name: "date", widget: "datetime" }
+      - { label: "Kategori", name: "category", widget: "string" }
+      - { label: "Tag", name: "tags", widget: "list" }
+      - label: "Thumbnail"
+        name: "thumbnail"
+        widget: "image"
+        default: "/uploads/iamges/no_image.png"
+        media_library:
+          config:
+            multiple: false
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

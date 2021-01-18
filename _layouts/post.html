@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include layout/head.html %}
+
+<body>
+    {% include layout/noscript.html %}
+    {% include layout/loader.html %}
+    {% include layout/navbar.html %}
+
+    <!-- Hero Start -->
+    <section class="bg-half bg-light d-table w-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12 text-center">
+                    <div class="page-next-level">
+                        <h2>{{ page.title | escape }}</h2>
+                        <ul class="list-unstyled mt-4">
+                            <li class="list-inline-item h6 user text-muted mr-2"><i class="mdi mdi-account"></i> {{ page.author | default: site.author.name }}</li>
+                            <li class="list-inline-item h6 date text-muted"><i class="mdi mdi-calendar-check"></i> {{ page.date | date: "%d/%m/%Y %H:%M" }}</li>
+                        </ul>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    {% assign category_parse = page.category | escape | downcase %}
+                                    <li class="breadcrumb-item"><a href="{{ site.jekyll-archives.permalinks.category | relative_url | replace: ':name', category_parse }}">{{ category_parse | capitalize }}</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ page.title | escape }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- Hero End -->
+
+    <!-- Shape Start -->
+    <div class="position-relative">
+        <div class="shape overflow-hidden text-white">
+            <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+            </svg>
+        </div>
+    </div>
+    <!--Shape End-->
+
+    <!-- Blog Start -->
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <!-- Blog Start -->
+                <div class="col-lg-8 col-md-6">
+                    <div class="card blog blog-detail border-0 shadow rounded">
+                        {% if page.thumbnail != site.defaults[2].values.thumbnail %}
+                            <img src="{{ page.thumbnail }}" class="img-fluid rounded-top" alt="Sample Post 1">
+                        {% endif %}
+
+                        <div class="card-body content">
+                            {% if page.tags.size %}
+                            <h6>
+                                <i class="mdi mdi-tag text-primary mr-1"></i>
+                                {% for tag in page.tags %}
+                                    {% assign tag_parse = tag | escape | downcase %}
+
+                                    <a href="{{ site.jekyll-archives.permalinks.tag | relative_url | replace: ':name', tag_parse }}" class="text-primary">{{ tag_parse }}</a>{% unless forloop.last %}, {% endunless %}
+                                {% endfor %}
+                            </h6>
+                            {% endif %}
+
+                            {{ content }}
+
+                            {%- assign words = content | number_of_words -%}
+                            {% capture read_time %}
+                                {% if words < 360 %}
+                                    less than 1 min read time
+                                {% else %}
+                                    {{ words | divided_by: 180 }} mins read time
+                                {% endif %}
+                            {% endcapture %}
+
+                            <div class="post-meta mt-3">
+                                <ul class="list-unstyled mb-0">
+                                    <!-- <li class="list-inline-item mr-2">
+                                        <a href="javascript:void(0)" class="text-muted like">
+                                            <i class="mdi mdi-clock mr-1"></i>
+                                            {{ read_time }}
+                                        </a>
+                                    </li> -->
+                                    <li class="list-inline-item">
+                                        <a href="javascript:void(0)" class="text-muted comments">
+                                            <i class="mdi mdi-comment-outline mr-1"></i>
+                                            <span class="disqus-comment-count" data-disqus-url="{{ page.url | relative_url }}">0</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% if page.comments %}
+                        <div class="card shadow rounded border-0 mt-4">
+                            <div class="card-body">
+                                {% include layout/disqus.html %}
+                            </div>
+                        </div>
+                    {% endif %}
+
+                    {% assign num_post = site.posts | size %}
+                    {% assign shuffle_post = site.posts | sample: num_post %}
+                    {% if shuffle_post.size > 0 %}
+                        <div class="card shadow rounded border-0 mt-4">
+                            <div class="card-body">
+                                <h5 class="card-title mb-0">Artikel Lainnya</h5>
+                                <div class="row">
+                                    {% for post in shuffle_post limit: 2 %}
+                                        <div class="col-lg-6 mt-4 pt-2">
+                                            <div class="card blog rounded border-0 shadow">
+                                                <div class="position-relative">
+                                                    <img src="{{ post.thumbnail }}" class="card-img-top rounded-top" alt="{{ post.title }}">
+                                                    <div class="overlay rounded-top bg-dark"></div>
+                                                </div>
+                                                <div class="card-body content">
+                                                    <h5><a href="{{ post.url }}" class="card-title title text-dark">{{ post.title }}</a></h5>
+                                                    <div class="post-meta d-flex justify-content-between mt-3">
+                                                        <ul class="list-unstyled mb-0">
+                                                            <li class="list-inline-item">
+                                                                <a href="javascript:void(0)" class="text-muted comments">
+                                                                    <i class="mdi mdi-comment-outline mr-1"></i>
+                                                                    <span class="disqus-comment-count" data-disqus-url="{{ post.url | relative_url }}">0</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                        <a href="{{ post.url }}" class="text-muted readmore">Baca <i class="mdi mdi-chevron-right"></i></a>
+                                                    </div>
+                                                </div>
+                                                <div class="author">
+                                                    <small class="text-light user d-block"><i class="mdi mdi-account"></i> {{ post.author | default: site.author.name | escape }}</small>
+                                                    <small class="text-light date"><i class="mdi mdi-calendar-check"></i> {{ post.date | date: "%d/%m/%Y %H:%M" }}</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--end col-->
+                                    {% endfor %}
+                                </div>
+                                <!--end row-->
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+                <!-- Blog End -->
+
+                {% include layout/sidebar.html %}
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- Blog End -->
+
+    {% include layout/footer.html %}
+    {% include layout/analytics.html %}
+    {% include layout/scripts.html %}
+</body>
+
+</html>

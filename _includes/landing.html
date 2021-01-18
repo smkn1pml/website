@@ -1,0 +1,211 @@
+<!-- Hero Start -->
+<section class="bg-half-170 d-table w-100" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('{{ site.data.settings.general.hero_background }}'); background-position: center center; background-size: cover;"  id="home">
+    <div class="container">
+        <div class="row position-relative align-items-center pt-4">
+            <div class="col-lg-7 offset-lg-5">
+                <div class="title-heading studio-home rounded bg-white shadow mt-5">
+                    <h1 class="heading mb-3">{{ site.data.settings.school.name }}</h1>
+                    <p class="para-desc text-muted">{{ site.data.settings.school.slogan }}</p>
+                    <div class="mt-4">
+                        <a href="{{ site.data.menus.hero.primary_button.url }}" class="btn btn-primary mt-2 mr-2">
+                            <i class="mdi mdi-handshake"></i> {{ site.data.menus.hero.primary_button.title }}
+                        </a>
+                        <a href="{{ site.data.menus.hero.secondary_button.url }}" class="btn btn-outline-primary mt-2">
+                            <i class="mdi mdi-book-outline"></i> {{ site.data.menus.hero.secondary_button.title }}
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+</section>
+<!--end section-->
+<!-- Hero End -->
+
+<!-- About Start -->
+<section class="section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5 col-md-6 col-12">
+                <img src="{{ site.data.settings.general.history_image }}" class="img-fluid rounded" alt="">
+            </div>
+            <!--end col-->
+
+            <div class="col-lg-7 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                <div class="section-title ml-lg-4">
+                    <h4 class="title mb-4">Sejarah Singkat</h4>
+                    <p class="text-muted">{{ site.data.landing.history.content }}</p>
+                    <a href="{{ site.data.landing.history.page }}" class="btn btn-primary mt-3">{{ site.data.landing.history.text }}</a>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--enc container-->
+
+    <div class="container mt-100 mt-60">
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="card features fea-primary rounded p-4 position-relative overflow-hidden border-0 shadow">
+                    <span class="h1 icon2 text-primary">
+                        <i class="uil uil-briefcase"></i>
+                    </span>
+                    <div class="card-body p-0 content">
+                        <h5>Visi</h5>
+                        <p class="para text-muted mb-0">{{ site.data.settings.school.vision }}</p>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-lg-4 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                <div class="card features fea-primary rounded p-4 position-relative overflow-hidden border-0 shadow">
+                    <span class="h1 icon2 text-primary">
+                        <i class="uil uil-rocket"></i>
+                    </span>
+                    <div class="card-body p-0 content">
+                        <h5>Misi</h5>
+                        <!-- <p class="para text-muted mb-0"></p> -->
+                        <ol class="para text-muted mb-0 pl-3">
+                            {% assign mission = site.data.settings.school.mission | split: "," %}
+                            {% for misi in mission %}
+                                <li>{{ misi | strip }}.</li>
+                            {% endfor %}
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+
+            <div class="col-lg-4 col-md-6 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
+                <div class="card features fea-primary rounded p-4 position-relative overflow-hidden border-0 shadow">
+                    <span class="h1 icon2 text-primary">
+                        <i class="uil uil-crosshairs"></i>
+                    </span>
+                    <div class="card-body p-0 content">
+                        <h5>Tujuan</h5>
+                        <p class="para text-muted mb-0">{{ site.data.settings.school.goal }}</p>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+</section>
+<!--end section-->
+<!-- Vision Mission End -->
+
+{% if site.majors.size > 0 %}
+<!-- Major Start -->
+<section class="section bg-light">
+    <!-- Companies Start -->
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <div class="section-title mb-0 pb-2">
+                    <h4 class="title mb-0">Kompetensi Keahlian</h4>
+                    <p class="text-muted para-desc mx-auto mb-0">{{ site.data.settings.school.name }} memiliki <span class="text-primary font-weight-bold">{{ site.majors.size }}</span> Kompetensi Keahlian, antara lain</p>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+
+        <div class="row">
+            {% for major in site.majors %}
+                <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
+                    <a href="{{ major.url }}">
+                        <div class="media key-feature align-items-center p-3 rounded shadow bg-white">
+                            <!-- <img src="" class="avatar avatar-ex-sm" alt=""> -->
+                            <div class="media-body ml-3">
+                                <h4 class="title mb-0 text-dark">{{ major.slug | upcase }}</h4>
+                                <p class="text-muted mb-0">{{ major.title }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <!--end col-->
+            {% endfor %}
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+    <!-- Companies End -->
+</section>
+<!--end section-->
+<!-- Major End -->
+{% endif %}
+
+{% if site.posts.size > 0 %}
+<!-- Blog Start -->
+<section class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <div class="section-title mb-0 pb-2">
+                    <h4 class="title mb-0">Berita Terbaru</h4>
+                    <p class="text-muted para-desc mb-0">
+                        Berita terbaru seputar Bursa Kerja Khusus (BKK) dan Kegiatan <span class="text-primary font-weight-bold">{{ site.data.settings.school.name }}</span>.
+                    </p>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+
+        <div class="row">
+            {% for post in site.posts limit: 3 %}
+                <div class="col-lg-4 col-md-6 mt-4 pt-2">
+                    <div class="card blog rounded border-0 shadow">
+                        <div class="position-relative">
+                            <img src="{{ post.thumbnail }}" class="card-img-top rounded-top" alt="{{ post.title | escape }}">
+                            <div class="overlay rounded-top bg-dark"></div>
+                        </div>
+                        <div class="card-body content">
+                            <h5><a href="{{ post.url }}" class="card-title title text-dark">{{ post.title | escape }}</a></h5>
+                            <p class="text-muted">
+                                {% if post.description %}
+                                    {{ post.description | strip_html }}
+                                {% else %}
+                                    {{ post.content | truncatewords: 15, "..." | strip_html }}
+                                {% endif %}
+                            </p>
+                            <div class="post-meta d-flex justify-content-between mt-3">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="list-inline-item">
+                                        <a href="javascript:void(0)" class="text-muted comments">
+                                            <i class="mdi mdi-comment-outline mr-1"></i>
+                                            <span class="disqus-comment-count" data-disqus-url="{{ post.url | relative_url }}">0</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                                <a href="{{ post.url }}" class="text-muted readmore">Baca <i class="mdi mdi-chevron-right"></i></a>
+                            </div>
+                        </div>
+                        <div class="author">
+                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> {{ post.author | default: site.author.name | escape }}</small>
+                            <small class="text-light date"><i class="mdi mdi-calendar-check"></i> {{ post.date | date: "%d/%m/%Y %H:%M" }}</small>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+            {% endfor %}
+
+            <div class="col-12 mt-4 pt-2">
+                <a href="{{ '/articles/' | relative_url }}" class="btn btn-primary">Selengkapnya <i class="mdi mdi-chevron-right"></i></a>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+    </div>
+    <!--end container-->
+</section>
+<!--end section-->
+<!-- Blog End -->
+{% endif %}

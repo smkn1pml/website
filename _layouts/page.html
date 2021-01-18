@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include layout/head.html %}
+
+<body>
+    {% include layout/noscript.html %}
+    {% include layout/loader.html %}
+    {% include layout/navbar.html %}
+
+    <!-- Hero Start -->
+    <section class="bg-half bg-light d-table w-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12 text-center">
+                    <div class="page-next-level">
+                        <h4 class="title">{{ page.title | escape }}</h4>
+                        <ul class="list-unstyled mt-4">
+                            <li class="list-inline-item h6 date text-muted"><i class="mdi mdi-calendar-check"></i> {{ page.date | date: "%d/%m/%Y %H:%M" }}</li>
+                        </ul>
+                        <div class="page-next">
+                            <nav aria-label="breadcrumb" class="d-inline-block">
+                                <ul class="breadcrumb bg-white rounded shadow mb-0">
+                                    <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Beranda</a></li>
+                                    <li class="breadcrumb-item"><a href="javascript:void(0)">Halaman</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">{{ page.title | escape }}</li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- Hero End -->
+
+    <!-- Shape Start -->
+    <div class="position-relative">
+        <div class="shape overflow-hidden text-white">
+            <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 48H1437.5H2880V0H2160C1442.5 52 720 0 720 0H0V48Z" fill="currentColor"></path>
+            </svg>
+        </div>
+    </div>
+    <!--Shape End-->
+
+    <!-- Start {{ page.title }} -->
+    <section class="section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="card shadow border-0 rounded">
+                        <div class="card-body">
+                            {{ content }}
+                        </div>
+                    </div>
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end container-->
+    </section>
+    <!--end section-->
+    <!-- End {{ page.title }} -->
+
+    {% include layout/footer.html %}
+    {% include layout/analytics.html %}
+    {% include layout/scripts.html %}
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+---
+layout: null
+---
+User-agent: *
+Disallow: /uploads/
+Disallow: /assets/
+Disallow: /api/
+Disallow: /author/
+Disallow: {{ site.jekyll-archives.permalinks.tag | replace: ':name/', '' }}
+Disallow: {{ site.jekyll-archives.permalinks.category | replace: ':name/', '' }}
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}{% for year in posts_by_year %}Disallow: /{{ year.name }}/
+{% endfor %}
+Sitemap: {{ '/sitemap.xml' | absolute_url }}

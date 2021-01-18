@@ -1,0 +1,64 @@
+<!-- Navbar Start -->
+<header id="topnav" class="defaultscroll sticky bg-white">
+    <div class="container">
+        <!-- Logo container-->
+        <div>
+            <a class="logo" href="{{ '/' | relative_url }}" title="{{ site.data.settings.school.name }}">
+                <img src="{{ site.data.settings.general.logo }}" height="45" alt="{{ site.data.settings.school.name }}">
+            </a>
+        </div>
+        <div class="buy-button">
+            {% capture login_button_rel %}
+                {% if site.data.menus.login.robots %}
+                    rel="{{ site.data.menus.login.robots }}"
+                {% endif %}
+            {% endcapture %}
+
+            <a href="{{ site.data.menus.login.url }}" {{ login_button_rel | strip }} target="_blank" class="btn btn-primary">{{ site.data.menus.login.title }}</a>
+        </div>
+        <!--end login button-->
+        <!-- End Logo container-->
+        <div class="menu-extras">
+            <div class="menu-item">
+                <!-- Mobile menu toggle-->
+                <a class="navbar-toggle">
+                    <div class="lines">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </a>
+                <!-- End mobile menu toggle-->
+            </div>
+        </div>
+
+        <div id="navigation">
+            <!-- Navigation Menu-->
+            <ul class="navigation-menu">
+                {% for item in site.data.menus.navbar %}
+                    {% if item.children %}
+                        <li class="has-submenu">
+                            <a href="javascript:void(0)">{{ item.title }}</a><span class="menu-arrow"></span>
+                            <ul class="submenu">
+                                {% for item in item.children %}
+                                    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                    {% else %}
+                        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <!--end navigation menu-->
+            <div class="buy-menu-btn d-none">
+                <a href="{{ site.data.menus.login.url }}" {{ login_button_rel | strip }} target="_blank" class="btn btn-primary">{{ site.data.menus.login.title }}</a>
+            </div>
+            <!--end login button-->
+        </div>
+        <!--end navigation-->
+    </div>
+    <!--end container-->
+</header>
+<!--end header-->
+<!-- Navbar End -->

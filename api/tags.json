@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /api/tags.json
+---
+{
+    "total": {{ site.tags.size }},
+    "data": [
+        {% for tag in site.tags %}
+            "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}
