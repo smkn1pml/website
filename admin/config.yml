@@ -3,6 +3,7 @@ backend:
   branch: main
   repo: sProDev/smkn1pml
 media_folder: "uploads"
+logo_url: "/uploads/images/logo.png"
 collections:
   - name: "posts"
     label: "Artikel"
