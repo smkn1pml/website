@@ -1,11 +1,11 @@
 general:
-  favicon: "/uploads/images/favicon.png"
-  logo: "/uploads/images/logo.png"
-  hero_background: "/uploads/images/background.jpeg"
-  history_image: "/uploads/images/background.jpeg"
+  favicon: "/uploads/favicon.png"
+  logo: "/uploads/logo.png"
+  hero_background: "/uploads/background.jpeg"
+  history_image: "/uploads/background.jpeg"
   maps_embed: >-
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15843.4279461962!2d109.3821713!3d-6.907699!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9d97605a0532c7cc!2sSMK%20Negeri%201%20Pemalang!5e0!3m2!1sid!2sid!4v1609641432496!5m2!1sid!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-  meta_image: "/uploads/images/background.jpeg"
+  meta_image: "/uploads/background.jpeg"
   meta_description: >-
     SMK Negeri 1 Pemalang adalah satu-satunya Lembaga Pendidikan Menengah Kejuruan Negeri yang ada di Pemalang, Jawa Tengah
   meta_keywords: >-

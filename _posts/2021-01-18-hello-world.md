@@ -4,7 +4,7 @@ date: 2021-01-18T05:43:54.336Z
 category: Uncategorized
 tags:
   - first
-thumbnail: /uploads/images/no_image.png
+thumbnail: /uploads/no_image.png
 author: Administrator
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis adipisci voluptatem minus eos consequatur? Aliquam, ducimus? Illum, cumque, dignissimos minima sunt consequuntur voluptatum et perspiciatis amet quis aperiam rem distinctio.

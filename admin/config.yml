@@ -3,7 +3,7 @@ backend:
   branch: main
   repo: smkn1pml/website
 media_folder: "uploads"
-logo_url: "/uploads/images/logo.png"
+logo_url: "/uploads/logo.png"
 collections:
   - name: "posts"
     label: "Artikel"
@@ -31,7 +31,7 @@ collections:
       - label: "Thumbnail"
         name: "thumbnail"
         widget: "image"
-        default: "/uploads/images/no_image.png"
+        default: "/uploads/no_image.png"
         media_library:
           config:
             multiple: false
@@ -117,28 +117,28 @@ collections:
             media_library:
               config:
                 multiple: false
-            default: "/uploads/images/favicon.png"
+            default: "/uploads/favicon.png"
           - label: "Logo"
             name: "logo"
             widget: "image"
             media_library:
               config:
                 multiple: false
-            default: "/uploads/images/logo.png"
+            default: "/uploads/logo.png"
           - label: "Background Header"
             name: "hero_background"
             widget: "image"
             media_library:
               config:
                 multiple: false
-            default: "/uploads/images/background.jpeg"
+            default: "/uploads/background.jpeg"
           - label: "Thumbnail Sejarah"
             name: "history_image"
             widget: "image"
             media_library:
               config:
                 multiple: false
-            default: "/uploads/images/background.jpeg"
+            default: "/uploads/background.jpeg"
           - label: "Embed Google Maps"
             name: "maps_embed"
             widget: "code"
@@ -149,7 +149,7 @@ collections:
             media_library:
               config:
                 multiple: false
-            default: "/uploads/images/background.jpeg"
+            default: "/uploads/background.jpeg"
       - label: "Sekolah"
         name: "school"
         file: "_data/settings/school.yml"

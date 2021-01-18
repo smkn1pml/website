@@ -2,5 +2,5 @@
 title: "Foto Bersama"
 subtitle: "Anjay"
 category: smk
-image: "/uploads/images/background.jpeg"
+image: "/uploads/background.jpeg"
 ---
