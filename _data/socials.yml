@@ -1,16 +1,17 @@
-- name: "Facebook"
-  url: "https://www.facebook.com/SMKN1Pemalang/"
-  icon: >-
-    <i data-feather="facebook" class="fea icon-sm fea-social"></i>
-- name: "Instagram"
-  url: "https://www.instagram.com/smkn1pml/"
-  icon: >-
-    <i data-feather="instagram" class="fea icon-sm fea-social"></i>
-- name: "Twitter"
-  url: "https://twitter.com/smkn1pemalang"
-  icon: >-
-    <i data-feather="twitter" class="fea icon-sm fea-social"></i>
-- name: "YouTube"
-  url: "https://www.youtube.com/channel/UCuhDOTp4aWqHYZ6O0GRmRuQ"
-  icon: >-
-    <i data-feather="youtube" class="fea icon-sm fea-social"></i>
+items:
+  - name: "Facebook"
+    url: "https://www.facebook.com/SMKN1Pemalang/"
+    icon: >-
+      <i data-feather="facebook" class="fea icon-sm fea-social"></i>
+  - name: "Instagram"
+    url: "https://www.instagram.com/smkn1pml/"
+    icon: >-
+      <i data-feather="instagram" class="fea icon-sm fea-social"></i>
+  - name: "Twitter"
+    url: "https://twitter.com/smkn1pemalang"
+    icon: >-
+      <i data-feather="twitter" class="fea icon-sm fea-social"></i>
+  - name: "YouTube"
+    url: "https://www.youtube.com/channel/UCuhDOTp4aWqHYZ6O0GRmRuQ"
+    icon: >-
+      <i data-feather="youtube" class="fea icon-sm fea-social"></i>

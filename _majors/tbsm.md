@@ -1,5 +1,6 @@
 ---
 title: "Teknik dan Bisnis Sepeda Motor"
+slug: "tbsm"
 ---
 ### Visi
 

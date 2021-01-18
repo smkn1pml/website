@@ -1,5 +1,6 @@
 ---
 title: "Bisnis Daring Pemasaran"
+slug: "bdp"
 ---
 ### Visi
 

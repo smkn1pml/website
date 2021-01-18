@@ -4,7 +4,7 @@ backend:
   repo: sProDev/smkn1pml
 media_folder: "uploads"
 collections:
-  - name: "blog"
+  - name: "posts"
     label: "Artikel"
     folder: "_posts/"
     create: true
@@ -12,11 +12,21 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Judul", name: "title", widget: "string" }
-      - { label: "Tanggal Penerbitan", name: "date", widget: "datetime" }
-      - { label: "Kategori", name: "category", widget: "string" }
-      - { label: "Tag", name: "tags", widget: "list" }
+      - label: "Judul Artikel"
+        name: "title"
+        widget: "string"
+      - label: "Tanggal Penerbitan"
+        name: "date"
+        widget: "datetime"
+      - label: "Kategori"
+        name: "category"
+        widget: "string"
+        default: "Berita"
+      - label: "Tag"
+        name: "tags"
+        widget: "list"
+        allow_add: true
+        default: ["bkk", "tkj"]
       - label: "Thumbnail"
         name: "thumbnail"
         widget: "image"
@@ -24,5 +34,255 @@ collections:
         media_library:
           config:
             multiple: false
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        default: "Administrator"
+      - label: "Konten"
+        name: "body"
+        widget: "markdown"
+  - name: "pages"
+    label: "Halaman"
+    folder: "_pages/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Judul Halaman"
+        name: "title"
+        widget: "string"
+      - label: "Tanggal Penerbitan"
+        name: "date"
+        widget: "datetime"
+      - label: "Konten"
+        name: "body"
+        widget: "markdown"
+  - name: "majors"
+    label: "Jurusan"
+    folder: "_majors/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Nama Jurusan"
+        name: "title"
+        widget: "string"
+      - label: "Singkatan"
+        name: "slug"
+        widget: "string"
+      - label: "Deskripsi"
+        name: "body"
+        widget: "markdown"
+  - name: "gallery"
+    label: "Galeri"
+    folder: "_gallery/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Judul"
+        name: "title"
+        widget: "string"
+      - label: "Sub Judul"
+        name: "subtitle"
+        widget: "string"
+      - label: "Kategori"
+        name: "category"
+        widget: "list"
+        allow_add: true
+        default: ["fotbar", "contoh"]
+      - label: "Foto"
+        name: "image"
+        widget: "image"
+        media_library:
+          config:
+            multiple: false
+  - name: "settings"
+    label: "Pengaturan"
+    editor:
+      preview: false
+    files:
+      - label: "Umum"
+        name: "general"
+        file: "_data/settings/general.yml"
+        fields:
+          - label: "Deskripsi Situs"
+            name: "meta_description"
+            widget: "text"
+          - label: "Kata Kunci Situs"
+            name: "meta_keywords"
+            widget: "text"
+          - label: "Favicon"
+            name: "favicon"
+            widget: "image"
+            media_library:
+              config:
+                multiple: false
+            default: "/uploads/images/favicon.png"
+          - label: "Logo"
+            name: "logo"
+            widget: "image"
+            media_library:
+              config:
+                multiple: false
+            default: "/uploads/images/logo.png"
+          - label: "Background Header"
+            name: "hero_background"
+            widget: "image"
+            media_library:
+              config:
+                multiple: false
+            default: "/uploads/images/background.jpeg"
+          - label: "Thumbnail Sejarah"
+            name: "history_image"
+            widget: "image"
+            media_library:
+              config:
+                multiple: false
+            default: "/uploads/images/background.jpeg"
+          - label: "Embed Google Maps"
+            name: "maps_embed"
+            widget: "code"
+            output_code_only: true
+          - label: "Meta Image"
+            name: "meta_image"
+            widget: "image"
+            media_library:
+              config:
+                multiple: false
+            default: "/uploads/images/background.jpeg"
+      - label: "Sekolah"
+        name: "school"
+        file: "_data/settings/school.yml"
+        fields:
+          - label: "Nama Sekolah"
+            name: "name"
+            widget: "string"
+          - label: "Slogan Sekolah"
+            name: "slogan"
+            widget: "text"
+          - label: "Visi Sekolah"
+            name: "vision"
+            widget: "text"
+          - label: "Misi Sekolah"
+            name: "mission"
+            widget: "text"
+          - label: "Tujuan Sekolah"
+            name: "goal"
+            widget: "text"
+          - label: "Alamat"
+            name: "address"
+            widget: "object"
+            collapsed: false
+            allow_add: false
+            fields:
+              - label: "Link Google Maps"
+                name: "google_maps"
+                widget: "string"
+              - label: "Alamat Lengkap"
+                name: "address"
+                widget: "text"
+          - label: "Nomor Telepon"
+            name: "phone"
+            widget: "string"
+          - label: "Nomor Fax"
+            name: "fax"
+            widget: "string"
+          - label: "Alamat Email"
+            name: "email"
+            widget: "string"
+      - label: "Media Sosial"
+        name: "socials"
+        file: "_data/socials.yml"
+        fields:
+          - label: "Sosmed"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "Nama"
+                name: "name"
+                widget: "string"
+              - label: "URL"
+                name: "url"
+                widget: "string"
+              - label: "Icon (HTML)"
+                name: "icon"
+                widget: "code"
+                output_code_only: true
+  - name: "menus"
+    label: "Menu Navigasi"
+    editor:
+      preview: false
+    files:
+      - label: "Navbar"
+        name: "navbar"
+        file: "_data/menus/navbar.yml"
+        fields:
+          - label: "Menu"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "Judul"
+                name: "title"
+                widget: "string"
+              - label: "URL"
+                name: "url"
+                widget: "string"
+              - label: "Turunan"
+                name: "children"
+                widget: "list"
+      - label: "Login Button"
+        name: "login"
+        file: "_data/menus/login.yml"
+        fields:
+          - label: "URL"
+            name: "url"
+            widget: "string"
+          - label: "Judul"
+            name: "title"
+            widget: "string"
+          - label: "Rel Robots"
+            name: "robots"
+            widget: "string"
+      - label: "Hero Button"
+        name: "hero"
+        file: "_data/menus/hero.yml"
+        fields:
+          - label: "Tombol 1"
+            name: "primary_button"
+            widget: "object"
+            collapsed: false
+            allow_add: false
+            fields:
+              - label: "URL"
+                name: "url"
+                widget: "string"
+              - label: "Judul"
+                name: "title"
+                widget: "string"
+          - label: "Tombol 2"
+            name: "secondary_button"
+            widget: "object"
+            collapsed: false
+            allow_add: false
+            fields:
+              - label: "URL"
+                name: "url"
+                widget: "string"
+              - label: "Judul"
+                name: "title"
+                widget: "string"
+      - label: "Tautan Eksternal"
+        name: "links"
+        file: "_data/links.yml"
+        fields:
+          - label: "Tautan"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "URL"
+                name: "URL"
+                widget: "string"
+              - label: "Judul"
+                name: "title"
+                widget: "string"

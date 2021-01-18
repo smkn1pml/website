@@ -1,5 +1,6 @@
 ---
 title: "Teknik Komputer dan Jaringan"
+slug: "tkj"
 ---
 ### Visi
 

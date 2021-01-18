@@ -1,5 +1,6 @@
-- name: "Suluh Sulistiawan"
-  now_on: "TeknoWebApp"
-  content: >-
-    Saya suka SpongeBob, karena SpongeBob warnanya kuning :D
-  star: 4
+items:
+  - name: "Suluh Sulistiawan"
+    now_on: "TeknoWebApp"
+    content: >-
+      Saya suka SpongeBob, karena SpongeBob warnanya kuning :D
+    star: 4

@@ -1,5 +1,6 @@
 ---
 title: "Otomatisasi dan Tata Kelola Perkantoran"
+slug: "otkp"
 ---
 ### Visi
 

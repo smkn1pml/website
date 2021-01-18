@@ -1,4 +1,4 @@
-items:
+navbar:
   - title: "Beranda"
     url: "/"
     children:
@@ -9,18 +9,33 @@ items:
     url: "#"
     children:
       - title: "Sejarah Sekolah"
-        url: "/page/sejarah/"
+        url: "/p/sejarah/"
       - title: "Visi & Misi"
-        url: "/page/visi-misi"
+        url: "/p/visi-misi"
       - title: "Fasilitas Sekolah"
-        url: "/page/fasilitas/"
+        url: "/p/fasilitas/"
       - title: "Profil Sekolah"
-        url: "/page/profil"
+        url: "/p/profil"
       - title: "Struktur Organisasi"
-        url: "/page/struktur-organisasi"
+        url: "/p/struktur-organisasi"
   - title: "Galeri"
     url: "/gallery/"
     children:
   - title: "Hubungi Kami"
     url: "/contact/"
     children:
+
+hero:
+  primary_button:
+    url: "/page/ppdb"
+    title: "PPDB"
+
+  secondary_button:
+    url: "/page/profil"
+    title: "Selengkapnya"
+
+login:
+  url: "http://elearning.smkn1pml.sch.id/"
+  title: "E-Learning"
+  robots: >-
+    noindex, nofollow

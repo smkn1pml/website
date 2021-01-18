@@ -35,7 +35,7 @@
         <div id="navigation">
             <!-- Navigation Menu-->
             <ul class="navigation-menu">
-                {% for item in site.data.menus.navbar %}
+                {% for item in site.data.menus.navbar.items %}
                     {% if item.children %}
                         <li class="has-submenu">
                             <a href="javascript:void(0)">{{ item.title }}</a><span class="menu-arrow"></span>

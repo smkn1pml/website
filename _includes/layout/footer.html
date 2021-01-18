@@ -9,7 +9,7 @@
                 <p class="mt-4">{{ site.data.settings.school.slogan }}</p>
                 <ul class="list-unstyled social-icon social mb-0 mt-4">
                     <li class="list-inline-item">
-                        {% for item in site.data.socials %}
+                        {% for item in site.data.socials.items %}
                             <a href="{{ item.url }}" class="rounded" target="_blank">{{ item.icon }}</a>
                             {% unless forloop.last %}
                                 &#xA0;
@@ -24,7 +24,7 @@
             <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                 <h4 class="text-light footer-head">Tautan</h4>
                 <ul class="list-unstyled footer-list mt-4">
-                    {% for item in site.data.links %}
+                    {% for item in site.data.links.items %}
                         <li>
                             <a href="{{ item.url }}" rel="noindex, nofollow" class="text-foot" target="_blank"><i class="mdi mdi-chevron-right mr-1"></i> {{ item.title }}</a>
                         </li>

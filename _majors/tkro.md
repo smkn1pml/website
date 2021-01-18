@@ -1,5 +1,6 @@
 ---
 title: "Teknik Kendaraan Ringan Otomotif"
+slug: "tkro"
 ---
 ### Visi
 
