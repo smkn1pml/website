@@ -2,7 +2,7 @@
 title: "SMK Negeri 1 Pemalang"
 description: >-
   SMK Negeri 1 Pemalang adalah satu-satunya Lembaga Pendidikan Menengah Kejuruan Negeri yang ada di Pemalang, Jawa Tengah
-url: "http://localhost:4000"
+url: "https://smkn1pml.netlify.app"
 baseurl: ""
 
 # Plugins
