@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  repo: sProDev/smkn1pml
+  repo: smkn1pml/website
 media_folder: "uploads"
 logo_url: "/uploads/images/logo.png"
 collections:
