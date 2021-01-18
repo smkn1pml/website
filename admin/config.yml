@@ -88,9 +88,7 @@ collections:
         widget: "string"
       - label: "Kategori"
         name: "category"
-        widget: "list"
-        allow_add: true
-        default: ["fotbar", "contoh"]
+        widget: "string"
       - label: "Foto"
         name: "image"
         widget: "image"
@@ -207,8 +205,7 @@ collections:
                 widget: "string"
               - label: "Icon (HTML)"
                 name: "icon"
-                widget: "code"
-                output_code_only: true
+                widget: "text"
   - name: "menus"
     label: "Menu Navigasi"
     editor:
@@ -231,15 +228,22 @@ collections:
               - label: "Turunan"
                 name: "children"
                 widget: "list"
+                fields:
+                  - label: "Judul"
+                    name: "title"
+                    widget: "string"
+                  - label: "URL"
+                    name: "url"
+                    widget: "string"
       - label: "Login Button"
         name: "login"
         file: "_data/menus/login.yml"
         fields:
-          - label: "URL"
-            name: "url"
-            widget: "string"
           - label: "Judul"
             name: "title"
+            widget: "string"
+          - label: "URL"
+            name: "url"
             widget: "string"
           - label: "Rel Robots"
             name: "robots"
@@ -254,11 +258,11 @@ collections:
             collapsed: false
             allow_add: false
             fields:
-              - label: "URL"
-                name: "url"
-                widget: "string"
               - label: "Judul"
                 name: "title"
+                widget: "string"
+              - label: "URL"
+                name: "url"
                 widget: "string"
           - label: "Tombol 2"
             name: "secondary_button"
@@ -266,11 +270,11 @@ collections:
             collapsed: false
             allow_add: false
             fields:
-              - label: "URL"
-                name: "url"
-                widget: "string"
               - label: "Judul"
                 name: "title"
+                widget: "string"
+              - label: "URL"
+                name: "url"
                 widget: "string"
       - label: "Tautan Eksternal"
         name: "links"
@@ -280,11 +284,11 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - label: "URL"
-                name: "URL"
-                widget: "string"
               - label: "Judul"
                 name: "title"
+                widget: "string"
+              - label: "URL"
+                name: "url"
                 widget: "string"
   - name: "other"
     label: "Lain-Lain"
