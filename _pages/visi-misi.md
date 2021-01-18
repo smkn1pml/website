@@ -1,6 +1,6 @@
 ---
-title: "Visi & Misi"
-date: 2021-01-12 11:29:14 +0700
+title: Visi & Misi
+date: 2021-01-18T05:43:43.960Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices ex nec urna consectetur pretium. Suspendisse consequat, mi ac mattis sagittis, justo ante pulvinar elit, vitae dignissim ipsum turpis a nulla. Duis venenatis ipsum arcu. Vestibulum lobortis, ante cursus semper fermentum, arcu sapien feugiat risus, ac fermentum quam libero vel justo. Nam rhoncus arcu tempor, finibus libero quis, consequat ligula. Donec leo massa, tincidunt ultricies dui sed, consequat feugiat lectus. Sed fringilla luctus quam at mollis. Sed egestas lectus ligula, vel fringilla nisi dapibus in. In cursus, velit sit amet ultrices maximus, enim enim pellentesque orci, interdum tristique tortor nunc vel augue.
 
