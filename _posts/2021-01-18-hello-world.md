@@ -5,7 +5,7 @@ category: Uncategorized
 tags:
   - first
   - perdana
-thumbnail: /uploads/no_image.png
+thumbnail: /uploads/background.jpeg
 author: Administrator
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis adipisci voluptatem minus eos consequatur? Aliquam, ducimus? Illum, cumque, dignissimos minima sunt consequuntur voluptatum et perspiciatis amet quis aperiam rem distinctio.
