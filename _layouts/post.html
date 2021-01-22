@@ -73,7 +73,9 @@
                             </h6>
                             {% endif %}
 
-                            {{ content }}
+                            <div class="article-style">
+                                {{ content }}
+                            </div>
 
                             {%- assign words = content | number_of_words -%}
                             {% capture read_time %}

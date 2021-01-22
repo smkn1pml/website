@@ -12,10 +12,8 @@ $(document).ready(function () {
     $('#show_per_page').val(show_per_page);
 
     // validate whether pagination should be displayed or not
-    if (number_of_pages > 0) {
+    if (number_of_pages > 1) {
         $('#parrent_pagination').removeAttr('style');
-    } else {
-        $('#parrent_pagination').css('display', 'none');
     }
 
     // now when we got all we need for the navigation let's make it '

@@ -99,3 +99,8 @@ footer .tagcloud > a {
         margin-top: -378px;
     }
 }
+
+.article-style img {
+    max-width: 100%;
+    height: auto;
+}

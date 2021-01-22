@@ -2,53 +2,25 @@
 title: "Otomatisasi dan Tata Kelola Perkantoran"
 slug: "otkp"
 ---
-### Visi
+Merupakan Kristalisasi Dari Program Keahlian Yang Harus Dikuasai Oleh Peserta Didik Untuk Dapat Bekerja Sesuai Dengan Standart Kompetensi Kerja Nasional Indonesia (SKKNI) Atau Standart Paket Keahlian : ADMINISTRASI PERKANTORAN.
 
-> Waw
+### Kompetensi/Materi yang Diajarkan
 
-### Misi
+1. Pengantar Ekonomi Bisnis
+2. Pengantar Administrasi Perkantoran
+3. Pengantar Akuntansi
+4. Otomatisasi Perkantoran
+5. Korespondensi
+6. Kearsipan
+7. Simulasi Digital
+8. Administrasi Kepegawaian
+9. Administrasi Keuangan
+10. Administrasi Sarana Prasarana
+11. Administrasi Humas dan Keprotokolan
 
-1. Engga ngerti
-2. Sama kaya nomer 1
-3. Sumpah sama kek nomer 2
-4. Gataudah coba baca lagi nomer 3
-5. hehe udah ah
+### Profesi/Bidang Pekerjaan
 
-### Tujuan
-
-> Emejing
-
-### Struktur Kurikulum
-
-Gambar disini om
-
-### Struktur Organisasi
-
-Gambar juga nih disini
-
-### Prestasi
-
-Banyak kan?
-
-1. Lomba
-2. Lomba juga
-3. Lomba dong pastinya
-
-### Kerja Sama DuDi
-
-Untuk mendukung kegiatan pembelajaran pihak sekolah mengadakan kerjasama dengan Dunia Usaha dan Dunia Industri (DUDI). Kerjasama dengan DUDI dimaksudkan untuk memberikan motivasi kepada siswa untuk bekerja, menambah wawasan, dan pengetahuan. Selain itu setelah siswa menempuh kegiatan ini diharapkan siswa dapat lebih terampil dalam bekerja dan membentuk karakter, mandiri, percaya diri, serta mampu berkomunikasi yang baik.
-
-- Aqioo
-- Lenovo
-- Apple
-
-### Prospek (Potensi Lulusan)
-
-Ruang lingkup pekerjaan atau prospek kerja untuk alumni TKJ antara lain:
-
-1. OP Warnet
-2. Kang gali kabel
-3. Benerin AC
-4. Benerin Radio
-5. Konter pulsa
-6. Dll.
+1. Tenaga Administrasi di kantor
+2. Tenaga Resepsionis
+3. Sekretaris muda
+4. DLL
