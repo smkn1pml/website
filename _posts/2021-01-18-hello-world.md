@@ -8,6 +8,8 @@ tags:
 thumbnail: /uploads/background.jpeg
 author: Administrator
 ---
-Selamat datang di Website SMK Negeri 1 Pemalang.
+Selamat datang di Website baru SMK Negeri 1 Pemalang.
 
-Dibangun dengan &hearts; di Pemalang, oleh Suluh Sulistiawan.
+
+
+:3
