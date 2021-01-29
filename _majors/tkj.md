@@ -1,6 +1,7 @@
 ---
 title: Teknik Komputer dan Jaringan
-slug: tkj
+slug: "tkj"
+color: "orange"
 ---
 ### Tujuan
 

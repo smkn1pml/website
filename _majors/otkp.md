@@ -1,6 +1,7 @@
 ---
 title: "Otomatisasi dan Tata Kelola Perkantoran"
 slug: "otkp"
+color: "blue"
 ---
 Merupakan Kristalisasi Dari Program Keahlian Yang Harus Dikuasai Oleh Peserta Didik Untuk Dapat Bekerja Sesuai Dengan Standart Kompetensi Kerja Nasional Indonesia (SKKNI) Atau Standart Paket Keahlian : ADMINISTRASI PERKANTORAN.
 

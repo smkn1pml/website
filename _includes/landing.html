@@ -121,7 +121,7 @@
             {% for major in site.majors %}
                 <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                     <a href="{{ major.url }}">
-                        <div class="media key-feature align-items-center p-3 rounded shadow bg-white">
+                        <div class="media key-feature align-items-center p-3 rounded shadow bg-white" style="border: 1px solid {{ major.color }}">
                             <!-- <img src="" class="avatar avatar-ex-sm" alt=""> -->
                             <div class="media-body ml-3">
                                 <h4 class="title mb-0 text-dark">{{ major.slug | upcase }}</h4>
@@ -151,7 +151,7 @@
                 <div class="section-title mb-0 pb-2">
                     <h4 class="title mb-0">Berita Terbaru</h4>
                     <p class="text-muted para-desc mb-0">
-                        Berita terbaru seputar Bursa Kerja Khusus (BKK) dan Kegiatan <span class="text-primary font-weight-bold">{{ site.data.settings.school.name }}</span>.
+                        Berita terbaru seputar Bursa Kerja Khusus (BKK) dan Kegiatan di <span class="text-primary font-weight-bold">{{ site.data.settings.school.name }}</span>.
                     </p>
                 </div>
             </div>
