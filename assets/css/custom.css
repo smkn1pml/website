@@ -126,3 +126,10 @@ iframe#st_gdpr_iframe {
         display: none !important;
     }
 }
+
+a,
+a:hover,
+a:active,
+a:focus {
+    outline: none;
+}
