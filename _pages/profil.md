@@ -2,13 +2,13 @@
 title: Profil Sekolah
 date: 2021-01-18T05:43:02.885Z
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -47,9 +47,9 @@ date: 2021-01-18T05:43:02.885Z
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -618,9 +618,9 @@ date: 2021-01-18T05:43:02.885Z
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -646,7 +646,7 @@ date: 2021-01-18T05:43:02.885Z
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -659,8 +659,6 @@ Di SMEA Negeri pernah untuk mendirikan SMA PGRI Pemalang (Tahun 1981) dan SMEA P
 Tahun 1996 SMEA Negeri Pemalang menjadi SMK Negeri 1 Pemalang sampai sekarang. Tahun 2020 SMK Negeri 1 Pemalang sudah mempunyai 6 program studi atau program keahlian yaitu Akuntansi dan Keuangan Lembaga (AKL), Otomatisasi dan Tata Kelola Perkantoran (OTKP), Bisnis Daring Pemasaran (BDP), Teknik Komputer dan Jaringan (TKJ), Teknik Kendaraan Ringan Otomotif (TKRO), dan Teknik dan Bisnis Sepeda Motor (TBSM).
 
                Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
-
- 
 
 Lokasi                         :  Jalan Gatot Subroto No. 31 Pemalang
 
@@ -688,9 +686,7 @@ Faximile                      :  (0284) 323376
 
 Plt. Kepala Sekolah     :  Dra. Lutfah Barliana, M.Pd
 
- 
-
-<!--\[if !supportLists]-->1.       <!--\[endif]-->**Lembaga:**
+<!--\\[if !supportLists]-->1.       <!--\\[endif]-->\*\*Lembaga:\*\*
 
 Nama Lembaga                                                    : SMK Negeri 1 Pemalang
 
@@ -710,87 +706,55 @@ Lembaga Kena Pajak                               
 
 Nomor Pokok Wajib Pajak (**NPWP**)                   : 000053835502000
 
-<!--\[if !supportLists]-->2.        <!--\[endif]-->**Bidang kegiatan/ usaha:**
+<!--\\[if !supportLists]-->2.        <!--\\[endif]-->\*\*Bidang kegiatan/ usaha:\*\*
 
 Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lanjutan Tingkat Atas (SLTA) dengan lama pendidikan selama 3 (*tiga*) tahun.
 
- 
+<!--\\[if !supportLists]-->3.        <!--\\[endif]-->\*\*Tujuan SMK Negeri 1 Pemalang:\*\*
 
- 
+<!--\\[if !supportLists]-->1.         <!--\\[endif]-->Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
 
- 
+<!--\\[if !supportLists]-->2.         <!--\\[endif]-->Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
 
- 
+<!--\\[if !supportLists]-->3.         <!--\\[endif]-->Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
 
- 
+<!--\\[if !supportLists]-->4.         <!--\\[endif]-->Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
 
- 
-
- 
-
- 
-
-<!--\[if !supportLists]-->3.        <!--\[endif]-->**Tujuan SMK Negeri 1 Pemalang:**
-
-<!--\[if !supportLists]-->1.         <!--\[endif]-->Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
-
-<!--\[if !supportLists]-->2.         <!--\[endif]-->Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
-
-<!--\[if !supportLists]-->3.         <!--\[endif]-->Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
-
-<!--\[if !supportLists]-->4.         <!--\[endif]-->Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
-
-  
-
-<!--\[if !supportLists]-->4.        <!--\[endif]-->**VISI Sekolah**
+<!--\\[if !supportLists]-->4.        <!--\\[endif]-->\*\*VISI Sekolah\*\*
 
 Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
- 
+<!--\\[if !supportLists]-->5.        <!--\\[endif]-->\*\*MISI Sekolah\*\*
 
-<!--\[if !supportLists]-->5.        <!--\[endif]-->**MISI Sekolah**
+<!--\\[if !supportLists]-->1.         <!--\\[endif]-->Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
 
-<!--\[if !supportLists]-->1.         <!--\[endif]-->Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
+<!--\\[if !supportLists]-->2.         <!--\\[endif]-->Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
 
-<!--\[if !supportLists]-->2.         <!--\[endif]-->Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
+<!--\\[if !supportLists]-->3.         <!--\\[endif]-->Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri
 
-<!--\[if !supportLists]-->3.         <!--\[endif]-->Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri
+<!--\\[if !supportLists]-->4.         <!--\\[endif]-->Mewujudkan sekolah sebagai wadah kreasi dan inovasi
 
-<!--\[if !supportLists]-->4.         <!--\[endif]-->Mewujudkan sekolah sebagai wadah kreasi dan inovasi
-
- 
-
-<!--\[if !supportLists]-->6.        <!--\[endif]-->**Tenaga Pendidik/ Sumber Daya Manusia (SDM) Guru :**
-
- 
+<!--\\[if !supportLists]-->6.        <!--\\[endif]-->\*\*Tenaga Pendidik/ Sumber Daya Manusia (SDM) Guru :\*\*
 
 **A.   Plt. Kepala Sekolah** 
 
- Nama                                     :  Dra. Lutfah Barliana, M.Pd
+ Nama                                    :  Dra. Lutfah Barliana, M.Pd
 
  NIP                                        :  19701127 199802 2 005
 
-   Tempat Tgl Lahir                  :  Tegal, 27 Nopember 1970
+   Tempat Tgl Lahir                 :  Tegal, 27 Nopember 1970
 
-   Pangkat/ Jabatan                    :   Pembina Tingkat I (IV B) / Guru Madya
+   Pangkat/ Jabatan                :   Pembina Tingkat I (IV B) / Guru Madya
 
 Pendidikan                             :  S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015.
 
- 
-
 **B.   Tenaga Pendidik/ Guru yang mengajar**
-
-
 
 Guru PNS                             :  82 Orang
 
        GTT                                      :  25 Orang
 
- 
-
 **C.   Tenaga Kependidkan**
-
-
 
 Tata Usaha PNS                   :  7 Orang
 
