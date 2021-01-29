@@ -7277,12 +7277,12 @@ Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, ko
 
 Guru PNS                             :  82 Orang
 
-       GTT                                      :  25 Orang
+GTT                                      :  25 Orang
 
 **C.   Tenaga Kependidkan**
 
 Tata Usaha PNS                   :  7 Orang
 
-       PTT                                      :  19 Orang
+ PTT                                      :  19 Orang
 
 <!--EndFragment-->
