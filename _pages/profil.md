@@ -4631,7 +4631,7 @@ Nomor Pokok Wajib Pajak (**NPWP**)                      : 000
 
 <!--StartFragment-->
 
-<!--\\[if !supportLists]-->.2        <!--\\[endif]-->\*\*Bidang kegiatan/ usaha:\*\*
+<!--\\[if !supportLists]-->**.2        <!--\\[endif]-->Bidang kegiatan/ usaha:**
 
 Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lanjutan Tingkat Atas (SLTA) dengan lama pendidikan selama 3 (*tiga*) tahun.
 
@@ -5931,7 +5931,7 @@ Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lan
 
 <!--StartFragment-->
 
-<!--\[if !supportLists]-->3.        <!--\[endif]-->**Tujuan SMK Negeri 1 Pemalang:**
+<!--\[if !supportLists]-->**3.**        <!--\[endif]-->**Tujuan SMK Negeri 1 Pemalang:**
 
 <!--\[if !supportLists]-->1.         <!--\[endif]-->Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
 
@@ -5945,11 +5945,11 @@ Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lan
 
 <!--StartFragment-->
 
-<!--\\[if !supportLists]-->4.        <!--\\[endif]-->\*\*VISI Sekolah\*\*
+<!--\\[if !supportLists]-->**4.        <!--\\[endif]-->\*\*VISI Sekolah\*\***
 
 Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
-<!--\\[if !supportLists]-->5.        <!--\\[endif]-->\*\*MISI Sekolah\*\*
+<!--\\[if !supportLists]-->**5.        <!--\\[endif]-->\*\*MISI Sekolah\*\***
 
 <!--\\[if !supportLists]-->1.         <!--\\[endif]-->Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
 
