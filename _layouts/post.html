@@ -68,7 +68,7 @@
                                 {% for tag in page.tags %}
                                     {% assign tag_parse = tag | escape | downcase %}
 
-                                    <a href="{{ site.jekyll-archives.permalinks.tag | relative_url | replace: ':name', tag_parse }}" class="text-primary">{{ tag_parse }}</a>{% unless forloop.last %}, {% endunless %}
+                                    <a href="{{ site.jekyll-archives.permalinks.tag | relative_url | replace: ':name', tag_parse }}" class="text-primary">{{ tag_parse | capitalize }}</a>{% unless forloop.last %}, {% endunless %}
                                 {% endfor %}
                             </h6>
                             {% endif %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /gallery/
-title: "Galeri Kegiatan"
+title: "Galeri"
 ---
 
 {% include page/gallery.html %}
