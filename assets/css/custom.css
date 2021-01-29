@@ -108,3 +108,21 @@ footer .tagcloud > a {
 iframe#st_gdpr_iframe {
     display: none;
 }
+
+.about-author {
+    margin-top: unset;
+}
+
+.header-author {
+    display: block;
+}
+
+@media(max-width: 768px) {
+    .about-author {
+        margin-top: 3.5rem !important;
+    }
+
+    .header-author {
+        display: none !important;
+    }
+}
