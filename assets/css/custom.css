@@ -104,3 +104,7 @@ footer .tagcloud > a {
     max-width: 100%;
     height: auto;
 }
+
+iframe#st_gdpr_iframe {
+    display: none;
+}
