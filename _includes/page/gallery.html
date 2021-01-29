@@ -48,7 +48,7 @@
             <ul class="col container-filter list-unstyled categories-filter text-center" id="filter">
                 <li class="list-inline-item"><a class="categories border d-block text-dark rounded active" data-filter="*">All</a></li>
                 {% for category in categories %}
-                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded" data-filter=".{{ category | downcase }}">{{ category | upcase }}</a></li>
+                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded" data-filter=".{{ category | escape | downcase }}">{{ category | upcase }}</a></li>
                 {% endfor %}
             </ul>
         </div>
@@ -59,7 +59,7 @@
     <div class="container-fluid">
         <div class="row container-grid projects-wrapper">
             {% for gallery in site.gallery %}
-                <div class="col-lg-3 col-md-6 col-12 spacing mt-3 {{ gallery.category | escape }}">
+                <div class="col-lg-3 col-md-6 col-12 spacing mt-3 {{ gallery.category | escape | downcase }}">
                     <div class="card border-0 work-container work-grid position-relative d-block overflow-hidden rounded">
                         <div class="card-body p-0">
                             <a class="mfp-image d-inline-block" href="{{ gallery.image }}" title="{{ gallery.title | escape }}">
