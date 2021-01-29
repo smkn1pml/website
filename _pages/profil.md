@@ -5293,7 +5293,7 @@ Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lan
 
 Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
- 
+
 
 <!--\[if !supportLists]-->5.        <!--\[endif]-->**MISI Sekolah**
 
@@ -6605,19 +6605,17 @@ Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, ko
 
 <!--\[if !supportLists]-->6.        <!--\[endif]-->**Tenaga Pendidik/ Sumber Daya Manusia (SDM) Guru :**
 
- 
-
 **A.   Plt. Kepala Sekolah** 
 
- Nama                                     :  Dra. Lutfah Barliana, M.Pd
+ Nama                                    :  Dra. Lutfah Barliana, M.Pd
 
  NIP                                        :  19701127 199802 2 005
 
-   Tempat Tgl Lahir                  :  Tegal, 27 Nopember 1970
+ Tempat Tgl Lahir                    :  Tegal, 27 Nopember 1970
 
-   Pangkat/ Jabatan                    :   Pembina Tingkat I (IV B) / Guru Madya
+ Pangkat/ Jabatan                   :   Pembina Tingkat I (IV B) / Guru Madya
 
-Pendidikan                             :  S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015.
+ Pendidikan                             :  S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015.
 
 <!--EndFragment-->
 
@@ -6626,8 +6624,6 @@ Pendidikan                             :  S2 (UNNES
 Guru PNS                             :  82 Orang
 
        GTT                                      :  25 Orang
-
- 
 
 **C.   Tenaga Kependidkan**
 
