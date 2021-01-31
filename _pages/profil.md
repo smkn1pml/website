@@ -36,94 +36,94 @@ Di SMEA Negeri pernah untuk mendirikan SMA PGRI Pemalang (Tahun 1981) dan SMEA P
 Tahun 1996 SMEA Negeri Pemalang menjadi SMK Negeri 1 Pemalang sampai sekarang. Tahun 2020 SMK Negeri 1 Pemalang sudah mempunyai 6 program studi atau program keahlian yaitu Akuntansi dan Keuangan Lembaga (AKL), Otomatisasi dan Tata Kelola Perkantoran (OTKP), Bisnis Daring Pemasaran (BDP), Teknik Komputer dan Jaringan (TKJ), Teknik Kendaraan Ringan Otomotif (TKRO), dan Teknik dan Bisnis Sepeda Motor (TBSM).
 
 Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
-<table>
+<table style="width: 100%;margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Lokasi</td>
-        <td>Jalan Gatot Subroto No. 31</td>
+        <td>&nbsp; : &nbsp; Jalan Gatot Subroto No. 31</td>
     </tr>
     <tr>
         <td>Desa / Kelurahan</td>
-        <td>Bojongbata</td>
+        <td>&nbsp; : &nbsp; Bojongbata</td>
     </tr>
     <tr>
         <td>Kecamatan</td>
-        <td>Pemalang</td>
+        <td>&nbsp; : &nbsp; Pemalang</td>
     </tr>
     <tr>
         <td>Kabupaten</td>
-        <td>Pemalang</td>
+        <td>&nbsp; : &nbsp; Pemalang</td>
     </tr>
     <tr>
         <td>Kode Pos</td>
-        <td>52319</td>
+        <td>&nbsp; : &nbsp; 52319</td>
     </tr>
     <tr>
         <td>Alamat Surat</td>
-        <td>SMK Negeri 1 Pemalang, Jl. Gatot Subroto No. 31</td>
+        <td>&nbsp; : &nbsp; SMK Negeri 1 Pemalang, Jl. Gatot Subroto No. 31</td>
     </tr>
     <tr>
         <td>Provinsi</td>
-        <td>Jawa Tengah</td>
+        <td>&nbsp; : &nbsp; Jawa Tengah</td>
     </tr>
     <tr>
         <td>Website</td>
-        <td><a href="https://smkn1pml.sch.id" target="_blank">smkn1pml.sch.id</a></td>
+        <td>&nbsp; : &nbsp; <a href="https://smkn1pml.sch.id" target="_blank">smkn1pml.sch.id</a></td>
     </tr>
     <tr>
         <td>E-Mail</td>
-        <td>smkn1pml@gmail.com</td>
+        <td>&nbsp; : &nbsp; smkn1pml@gmail.com</td>
     </tr>
     <tr>
         <td>Telepon</td>
-        <td>(0284) 321386</td>
+        <td>&nbsp; : &nbsp; (0284) 321386</td>
     </tr>
     <tr>
         <td>Faximile</td>
-        <td>(0284) 323376</td>
+        <td>&nbsp; : &nbsp; (0284) 323376</td>
     </tr>
     <tr>
         <td>Plt. Kepala Sekolah</td>
-        <td>Dra. Lutfah Barliana, M.Pd</td>
+        <td>&nbsp; : &nbsp; Dra. Lutfah Barliana, M.Pd</td>
     </tr>
 </table>
 
 1\. <b>Lembaga :</b>
-<table>
+<table style="width: 100%;margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Nama Lembaga</td>
-        <td>SMK Negeri 1 Pemalang</td>
+        <td>&nbsp; : &nbsp; SMK Negeri 1 Pemalang</td>
     </tr>
     <tr>
         <td>Nomor Pokok Sekolah Nasional (NPSN)</td>
-        <td><b>20324238</b></td>
+        <td>&nbsp; : &nbsp; <b>20324238</b></td>
     </tr>
     <tr>
         <td>Nomor Statistik Sekolah (<b>NSS</b>)</td>
-        <td>3410 3270 8001</td>
+        <td>&nbsp; : &nbsp; 3410 3270 8001</td>
     </tr>
     <tr>
         <td>Penyelenggara</td>
-        <td>Provinsi Jawa Tengah</td>
+        <td>&nbsp; : &nbsp; Provinsi Jawa Tengah</td>
     </tr>
     <tr>
         <td>SK Pendirian Sekolah</td>
-        <td>36/UK.3/1968</td>
+        <td>&nbsp; : &nbsp; 36/UK.3/1968</td>
     </tr>
     <tr>
         <td>Tanggal SK Pendirian</td>
-        <td>12 Februari 1968</td>
+        <td>&nbsp; : &nbsp; 12 Februari 1968</td>
     </tr>
     <tr>
         <td>Status Kepemilikan</td>
-        <td>Pemerintah Daerah</td>
+        <td>&nbsp; : &nbsp; Pemerintah Daerah</td>
     </tr>
     <tr>
         <td>Lembaga Kena Pajak</td>
-        <td>SMK Negeri 1 Pemalang</td>
+        <td>&nbsp; : &nbsp; SMK Negeri 1 Pemalang</td>
     </tr>
     <tr>
         <td>Nomor Pokok Wajib Pajak (NPWP)</td>
-        <td>000053835502000</td>
+        <td>&nbsp; : &nbsp; 000053835502000</td>
     </tr>
 </table>
 
@@ -152,49 +152,49 @@ Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, ko
 **Tenaga Pendidik / Sumber Daya Manusia (SDM) Guru :**
 
 A. <b>Plt. Kepala Sekolah</b>
-<table>
+<table style="width: 100%;margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Nama</td>
-        <td>Dra. Lutfah Barliana, M.Pd</td>
+        <td>&nbsp; : &nbsp; Dra. Lutfah Barliana, M.Pd</td>
     </tr>
     <tr>
         <td>NIP</td>
-        <td>19701127 199802 2 005</td>
+        <td>&nbsp; : &nbsp; 19701127 199802 2 005</td>
     </tr>
     <tr>
         <td>Tempat, Tanggal Lahir</td>
-        <td>Tegal, 27 Nopember 1970</td>
+        <td>&nbsp; : &nbsp; Tegal, 27 Nopember 1970</td>
     </tr>
     <tr>
         <td>Pangkat / Jabatan</td>
-        <td>Pembina Tingkat I (IV B) / Guru Madya</td>
+        <td>&nbsp; : &nbsp; Pembina Tingkat I (IV B) / Guru Madya</td>
     </tr>
     <tr>
         <td>Pendidikan</td>
-        <td>S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015</td>
+        <td>&nbsp; : &nbsp; S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015</td>
     </tr>
 </table>
 
 B. <b>Tenaga Pendidik / Guru yang mengajar</b>
-<table>
+<table style="width: 100%;margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Guru PNS</td>
-        <td>82 Orang</td>
+        <td>&nbsp; : &nbsp; 82 Orang</td>
     </tr>
     <tr>
         <td>GTT</td>
-        <td>25 Orang</td>
+        <td>&nbsp; : &nbsp; 25 Orang</td>
     </tr>
 </table>
 
 C. <b>Tenaga Kependidikan</b>
-<table>
+<table style="width: 100%;margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Tata Usaha PNS</td>
-        <td>7 Orang</td>
+        <td>&nbsp; : &nbsp; 7 Orang</td>
     </tr>
     <tr>
         <td>PTT</td>
-        <td>19 Orang</td>
+        <td>&nbsp; : &nbsp; 19 Orang</td>
     </tr>
 </table>
