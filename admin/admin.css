@@ -43,6 +43,11 @@
         justify-content: space-evenly;
     }
 
+    .css-5wgw3f-ListCard-card,
+    .css-p5sjac-CollectionControlsContainer {
+        width: 100%
+    }
+
     /* Media */
     .css-1cx9csd,
     .css-1ztge6 {
