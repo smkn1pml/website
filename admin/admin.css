@@ -11,6 +11,19 @@
         min-width: 0;
     }
 
+    .css-1lv5pus-SidebarNavList {
+        margin-top: 0;
+    }
+
+    .css-12zz42a-AppHeaderNavList > li:last-child {
+        margin-left: 10px;
+    }
+
+    .css-6fxb8u-SearchContainer,
+    .css-1cqqs5t-ViewControlsSection {
+        display: none;
+    }
+
     .css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton,
     .css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton {
         margin: 0;
@@ -31,9 +44,22 @@
     }
 
     /* Media */
+    .css-1cx9csd,
+    .css-1ztge6 {
+        display: unset;
+        padding: 30px;
+    }
+
     .css-1f3mf5k-StyledModal {
-        padding: 15px;
-        grid-template-rows: 190px auto;
+        width: 100%;
+        height: calc(100vh - 60px);
+        /* padding: 15px; */
+        /* grid-template-rows: 190px auto; */
+    }
+
+    .css-1tn57mp-UploadButton-button-default-disabled-button-gray,
+    .css-1hpjyse-DeleteButton-button-default-disabled-button-lightRed {
+        margin-left: 10px;
     }
 
     .css-svjxk-SearchContainer {
@@ -65,8 +91,8 @@
     }
 
     .css-1hpjyse-DeleteButton-button-default-disabled-button-lightRed {
-        margin-top: 10px;
-        margin-left: 0;
+        margin-top: 0;
+        margin-left: 10px;
         margin-right: 0;
     }
 
@@ -81,10 +107,10 @@
     }
 
     .css-stmjdx-CardGridContainer {
-        position: static;
+        position: relative;
         overflow: visible;
         width: 100%;
-        padding-top: 20px;
+        /* padding-top: 20px; */
     }
     /* End Media */
 
