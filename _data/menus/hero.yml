@@ -1,7 +1,6 @@
 primary_button:
-  url: "/page/ppdb"
-  title: "PPDB"
-
+  url: /page/ppdb/
+  title: PPDB
 secondary_button:
-  url: "/page/profil"
-  title: "Selengkapnya"
+  url: /page/profil/
+  title: Profil
