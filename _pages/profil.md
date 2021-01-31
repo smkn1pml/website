@@ -2,7 +2,7 @@
 title: Profil Sekolah
 date: 2021-01-18T05:43:02.885Z
 ---
-<center><b>KATA PENGANTAR</b></center>
+<p><center><b>KATA PENGANTAR</b></center></p>
 
 Puji syukur kami panjatkan kehadirat Allah SWT karena atas kehendak-Nya kami bisa menyusun buku profil SMK Negeri 1 Pemalang.
 
@@ -23,7 +23,7 @@ Menyadari bahwa dalam pembuatan profil sekolah ini sesuai dengan pemahaman dan k
 
 Akhirnya Penyusun mohon maaf, apabila profil ini jauh dari kesesuaian dan harapan dari Dinas Pendidikan dan Kebudayaan Provinsi Jawa Tengah, untuk itu kami sangat mengharapkan bimbingan, arahan, saran, dan kritiknya demi kesempurnaan pemenuhan data Profil Sekola dari SMK Negeri 1 Pemalang, Kabupaten Pemalang.
 
-<center><b>PROFIL SEKOLAH</b></center>
+<p><center><b>PROFIL SEKOLAH</b></center></p>
 
 **SEJARAH  SINGKAT  SEKOLAH**
 
@@ -36,35 +36,96 @@ Di SMEA Negeri pernah untuk mendirikan SMA PGRI Pemalang (Tahun 1981) dan SMEA P
 Tahun 1996 SMEA Negeri Pemalang menjadi SMK Negeri 1 Pemalang sampai sekarang. Tahun 2020 SMK Negeri 1 Pemalang sudah mempunyai 6 program studi atau program keahlian yaitu Akuntansi dan Keuangan Lembaga (AKL), Otomatisasi dan Tata Kelola Perkantoran (OTKP), Bisnis Daring Pemasaran (BDP), Teknik Komputer dan Jaringan (TKJ), Teknik Kendaraan Ringan Otomotif (TKRO), dan Teknik dan Bisnis Sepeda Motor (TBSM).
 
 Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
-
-|                     |                                                 |
-| ------------------- | ----------------------------------------------- |
-| Lokasi              | Jalan Gatot Subroto No. 31                      |
-| Desa / Kelurahan    | Bojongbata                                      |
-| Kecamatan           | Pemalang                                        |
-| Kabupaten           | Pemalang                                        |
-| Kode Pos            | 52319                                           |
-| Alamat Surat        | SMK Negeri 1 Pemalang, Jl. Gatot Subroto No. 31 |
-| Provinsi            | Jawa Tengah                                     |
-| Website             | [smkn1pml.sch.id](https://smkn1pml.sch.id)      |
-| E-Mail              | smkn1pml@gmail.com                              |
-| Telepon             | (0284) 321386                                   |
-| Faximile            | (0284) 323376                                   |
-| Plt. Kepala Sekolah | Dra. Lutfah Barliana, M.Pd                      |
+<table>
+    <tr>
+        <td>Lokasi</td>
+        <td>Jalan Gatot Subroto No. 31</td>
+    </tr>
+    <tr>
+        <td>Desa / Kelurahan</td>
+        <td>Bojongbata</td>
+    </tr>
+    <tr>
+        <td>Kecamatan</td>
+        <td>Pemalang</td>
+    </tr>
+    <tr>
+        <td>Kabupaten</td>
+        <td>Pemalang</td>
+    </tr>
+    <tr>
+        <td>Kode Pos</td>
+        <td>52319</td>
+    </tr>
+    <tr>
+        <td>Alamat Surat</td>
+        <td>SMK Negeri 1 Pemalang, Jl. Gatot Subroto No. 31</td>
+    </tr>
+    <tr>
+        <td>Provinsi</td>
+        <td>Jawa Tengah</td>
+    </tr>
+    <tr>
+        <td>Website</td>
+        <td><a href="https://smkn1pml.sch.id" target="_blank">smkn1pml.sch.id</a></td>
+    </tr>
+    <tr>
+        <td>E-Mail</td>
+        <td>smkn1pml@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Telepon</td>
+        <td>(0284) 321386</td>
+    </tr>
+    <tr>
+        <td>Faximile</td>
+        <td>(0284) 323376</td>
+    </tr>
+    <tr>
+        <td>Plt. Kepala Sekolah</td>
+        <td>Dra. Lutfah Barliana, M.Pd</td>
+    </tr>
+</table>
 
 1\. <b>Lembaga :</b>
-
-|                                     |                       |
-| ----------------------------------- | --------------------- |
-| Nama Lembaga                        | SMK Negeri 1 Pemalang |
-| Nomor Pokok Sekolah Nasional (NPSN) | **20324238**          |
-| Nomor Statistik Sekolah (**NSS**)   | 3410 3270 8001        |
-| Penyelenggara                       | Provinsi Jawa Tengah  |
-| SK Pendirian Sekolah                | 36/UK.3/1968          |
-| Tanggal SK Pendirian                | 12 Februari 1968      |
-| Status Kepemilikan                  | Pemerintah Daerah     |
-| Lembaga Kena Pajak                  | SMK Negeri 1 Pemalang |
-| Nomor Pokok Wajib Pajak (NPWP)      | 000053835502000       |
+<table>
+    <tr>
+        <td>Nama Lembaga</td>
+        <td>SMK Negeri 1 Pemalang</td>
+    </tr>
+    <tr>
+        <td>Nomor Pokok Sekolah Nasional (NPSN)</td>
+        <td><b>20324238</b></td>
+    </tr>
+    <tr>
+        <td>Nomor Statistik Sekolah (<b>NSS</b>)</td>
+        <td>3410 3270 8001</td>
+    </tr>
+    <tr>
+        <td>Penyelenggara</td>
+        <td>Provinsi Jawa Tengah</td>
+    </tr>
+    <tr>
+        <td>SK Pendirian Sekolah</td>
+        <td>36/UK.3/1968</td>
+    </tr>
+    <tr>
+        <td>Tanggal SK Pendirian</td>
+        <td>12 Februari 1968</td>
+    </tr>
+    <tr>
+        <td>Status Kepemilikan</td>
+        <td>Pemerintah Daerah</td>
+    </tr>
+    <tr>
+        <td>Lembaga Kena Pajak</td>
+        <td>SMK Negeri 1 Pemalang</td>
+    </tr>
+    <tr>
+        <td>Nomor Pokok Wajib Pajak (NPWP)</td>
+        <td>000053835502000</td>
+    </tr>
+</table>
 
 2\. <b>Bidang kegiatan/usaha :</b>
 
@@ -91,25 +152,49 @@ Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, ko
 **Tenaga Pendidik / Sumber Daya Manusia (SDM) Guru :**
 
 A. <b>Plt. Kepala Sekolah</b>
-
-|                       |                                                            |
-| --------------------- | ---------------------------------------------------------- |
-| Nama                  | Dra. Lutfah Barliana, M.Pd                                 |
-| NIP                   | 19701127 199802 2 005                                      |
-| Tempat, Tanggal Lahir | Tegal, 27 Nopember 1970                                    |
-| Pangkat / Jabatan     | Pembina Tingkat I (IV B) / Guru Madya                      |
-| Pendidikan            | S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015 |
+<table>
+    <tr>
+        <td>Nama</td>
+        <td>Dra. Lutfah Barliana, M.Pd</td>
+    </tr>
+    <tr>
+        <td>NIP</td>
+        <td>19701127 199802 2 005</td>
+    </tr>
+    <tr>
+        <td>Tempat, Tanggal Lahir</td>
+        <td>Tegal, 27 Nopember 1970</td>
+    </tr>
+    <tr>
+        <td>Pangkat / Jabatan</td>
+        <td>Pembina Tingkat I (IV B) / Guru Madya</td>
+    </tr>
+    <tr>
+        <td>Pendidikan</td>
+        <td>S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015</td>
+    </tr>
+</table>
 
 B. <b>Tenaga Pendidik / Guru yang mengajar</b>
-
-|          |          |
-| -------- | -------- |
-| Guru PNS | 82 Orang |
-| GTT      | 25 Orang |
+<table>
+    <tr>
+        <td>Guru PNS</td>
+        <td>82 Orang</td>
+    </tr>
+    <tr>
+        <td>GTT</td>
+        <td>25 Orang</td>
+    </tr>
+</table>
 
 C. <b>Tenaga Kependidikan</b>
-
-|                |          |
-| -------------- | -------- |
-| Tata Usaha PNS | 7 Orang  |
-| PTT            | 19 Orang |
+<table>
+    <tr>
+        <td>Tata Usaha PNS</td>
+        <td>7 Orang</td>
+    </tr>
+    <tr>
+        <td>PTT</td>
+        <td>19 Orang</td>
+    </tr>
+</table>
