@@ -18,7 +18,7 @@ Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan secara umum mengacu pada
 
 ### Tim Pengajar
 
-![Guru TKJ](/uploads/whatsapp-image-2020-12-16-at-09.27.52.jpeg)
+![Guru TKJ](https://res.cloudinary.com/smkn1pml/image/upload/v1612078632/whatsapp-image-2020-12-16-at-09.27.52_x2d6es.jpg)
 
 Tim Pengajar Kompetensi Keahlian Teknik Komputer Jaringan
 
