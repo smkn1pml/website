@@ -110,13 +110,13 @@ Selain bekerja, lulusan kami juga banyak yang melanjutkan kuliah antara lain di
 
 ### Hasil Karya Siswa TKJ SMK Negeri 1 Pemalang
 
-1. OSEMKA
+1. OSEMKA<br>
    OSEMKA adalah sebuah sistem operasi berbasis linuk yang dikembangkan oleh siswa Jurusan TKJ SMK Negeri 1 Pemalang. dikembangkan oleh Bara Ramadhan, Ahmad Muzaki, Zakki Nur Ali, Safuan Adi Saputra, Ade Fitriadin dengan bimbingan guru-guru TKJ.
-2. Pemalang Guide
+2. Pemalang Guide<br>
    Sebuah aplikasi berbasis android tentang Kabupaten Pemalang. Dibuat Oleh Ahmad Muzaki dengan bimbingan guru-guru TKJ
-3. TOIEC
+3. TOIEC<br>
    Sebuah aplikasi untuk siswa SMK belajar Bahasa Inggris. Dibuat oleh Zakky Nur Ali dengan bimbingan guru-guru TKJ
-4. Teks Lampu Berjalan
+4. Teks Lampu Berjalan<br>
    Perangkat ini dkembangkan oleh Ade Fitriadin dan Bara Ramadhan dengan bimbingan guru-guru TKJ
-5. Lampu LED dari Lampu Bekas
+5. Lampu LED dari Lampu Bekas<br>
    Memanfaatkan lampu bekas yang sudah rusak, siswa tkj membuat lampu LED. dengan bimbingan bapak Suherman, S.Si
