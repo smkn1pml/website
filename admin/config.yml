@@ -2,7 +2,15 @@ backend:
   name: github
   branch: main
   repo: smkn1pml/website
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: smkn1pml
+    api_key: 558871483499323
 media_folder: "uploads"
+public_folder: "/uploads"
+site_url: "https://smkn1pml.sch.id"
+display_url: "https://smkn1pml.sch.id"
 logo_url: "/uploads/logo.png"
 collections:
   - name: "posts"
@@ -46,11 +54,15 @@ collections:
     label: "Halaman"
     folder: "_pages/"
     create: true
+    slug: "{{fields.slug}}"
     editor:
       preview: false
     fields:
       - label: "Judul Halaman"
         name: "title"
+        widget: "string"
+      - label: "Slug"
+        name: "slug"
         widget: "string"
       - label: "Tanggal Penerbitan"
         name: "date"

@@ -1,6 +1,7 @@
 ---
 title: Profil Sekolah
 date: 2021-01-18T05:43:02.885Z
+slug: profil
 ---
 <p><center><b>KATA PENGANTAR</b></center></p>
 

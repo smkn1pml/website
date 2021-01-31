@@ -1,6 +1,7 @@
 ---
 title: Sejarah Sekolah
 date: 2021-01-18T05:43:15.159Z
+slug: sejarah
 ---
 **SMK Negeri 1 Pemalang**, berdiri sejak tahun 1967, di SMA Negeri 1 Pemalang. Persiapan menjadi SMEA Negeri Pemalang selama 1 tahun yaitu tahun 1967, kepala sekolah Bapak Sugiarto BA, guru SMA Negeri 1 Pemalang. Pada tahun 1968, resmi menjadi SMEA Negeri 1 Pemalang dan masih menempati gedung di SMA Negeri 1 Pemalang Jl. A Yani Selatan, sekarang Jl. Gatot Subroto sebelah Timur jalan.
 
