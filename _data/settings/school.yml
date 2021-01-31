@@ -3,10 +3,24 @@ slogan: >-
   Bertaqwa, Profesional, Sesuai Perkembangan IPTEK dan Mampu Bersaing di Dunia Kerja.
 vision: >-
   Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
-mission: >-
-  Membentuk peserta didik yang berkarakter dan beriman kepada tuhan yang maha esa, Menyiapkan peserta didik berkualitas dan mampu bersaing di era global, Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri, Mewujudkan sekolah sebagai wadah kreasi dan inovasi
-goal: >-
-  -
+mission:
+  - content: >-
+      Membentuk peserta didik yang berkarakter dan beriman kepada tuhan yang maha esa.
+  - content: >-
+      Menyiapkan peserta didik berkualitas dan mampu bersaing di era global.
+  - content: >-
+      Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri.
+  - content: >-
+      Mewujudkan sekolah sebagai wadah kreasi dan inovasi.
+goal:
+  - content: >-
+      Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
+  - content: >-
+      Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
+  - content: >-
+      Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
+  - content: >-
+      Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
 address:
   google_maps: "https://goo.gl/maps/3FPYbuNdiLgSkTVy9"
   address: >-

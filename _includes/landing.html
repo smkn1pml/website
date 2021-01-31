@@ -69,13 +69,16 @@
                     </span>
                     <div class="card-body p-0 content">
                         <h5>Misi</h5>
-                        <!-- <p class="para text-muted mb-0"></p> -->
-                        <ol class="para text-muted mb-0 pl-3">
-                            {% assign mission = site.data.settings.school.mission | split: "," %}
-                            {% for misi in mission %}
-                                <li>{{ misi | strip }}.</li>
-                            {% endfor %}
-                        </ol>
+                        {% assign mission = site.data.settings.school.mission %}
+                        {% if mission.size > 1 %}
+                            <ol class="para text-muted mb-0 pl-3">
+                                {% for misi in mission %}
+                                    <li>{{ misi.content | strip }}</li>
+                                {% endfor %}
+                            </ol>
+                        {% else %}
+                            <p class="para text-muted mb-0">{{ mission[0].content }}</p>
+                        {% endif %}
                     </div>
                 </div>
             </div>
@@ -88,7 +91,16 @@
                     </span>
                     <div class="card-body p-0 content">
                         <h5>Tujuan</h5>
-                        <p class="para text-muted mb-0">{{ site.data.settings.school.goal }}</p>
+                        {% assign goal = site.data.settings.school.goal %}
+                        {% if goal.size > 1 %}
+                            <ol class="para text-muted mb-0 pl-3">
+                                {% for misi in goal %}
+                                    <li>{{ misi.content | strip }}</li>
+                                {% endfor %}
+                            </ol>
+                        {% else %}
+                            <p class="para text-muted mb-0">{{ goal[0].content }}</p>
+                        {% endif %}
                     </div>
                 </div>
             </div>
