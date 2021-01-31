@@ -5,11 +5,9 @@ category: Uncategorized
 tags:
   - first
   - perdana
-thumbnail: /uploads/background.jpeg
+thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1612078707/background_vjqweg.jpg
 author: Administrator
 ---
 Selamat datang di Website baru SMK Negeri 1 Pemalang.
 
-
-
-:3
+🥰
