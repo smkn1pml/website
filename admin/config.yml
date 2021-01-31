@@ -314,7 +314,7 @@ collections:
         file: "_data/landing/history.yml"
         fields:
           - label: "Thumbnail Sejarah"
-            name: "history_image"
+            name: "image"
             widget: "image"
             media_library:
               config:
