@@ -1,7 +1,7 @@
 ---
 title: Teknik Komputer dan Jaringan
-slug: "tkj"
-color: "orange"
+slug: tkj
+color: orange
 ---
 ### Tujuan
 
@@ -18,7 +18,7 @@ Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan secara umum mengacu pada
 
 ### Tim Pengajar
 
-![Guru TKJ](https://res.cloudinary.com/smkn1pml/image/upload/v1612078632/whatsapp-image-2020-12-16-at-09.27.52_x2d6es.jpg)
+![Guru TKJ](https://res.cloudinary.com/smkn1pml/image/upload/v1612078632/whatsapp-image-2020-12-16-at-09.27.52_x2d6es.jpg "Guru TKJ")
 
 Tim Pengajar Kompetensi Keahlian Teknik Komputer Jaringan
 
@@ -110,13 +110,13 @@ Selain bekerja, lulusan kami juga banyak yang melanjutkan kuliah antara lain di
 
 ### Hasil Karya Siswa TKJ SMK Negeri 1 Pemalang
 
-1. OSEMKA<br>
+1. OSEMKA
    OSEMKA adalah sebuah sistem operasi berbasis linuk yang dikembangkan oleh siswa Jurusan TKJ SMK Negeri 1 Pemalang. dikembangkan oleh Bara Ramadhan, Ahmad Muzaki, Zakki Nur Ali, Safuan Adi Saputra, Ade Fitriadin dengan bimbingan guru-guru TKJ.
-2. Pemalang Guide<br>
+2. Pemalang Guide
    Sebuah aplikasi berbasis android tentang Kabupaten Pemalang. Dibuat Oleh Ahmad Muzaki dengan bimbingan guru-guru TKJ
-3. TOIEC<br>
+3. TOIEC
    Sebuah aplikasi untuk siswa SMK belajar Bahasa Inggris. Dibuat oleh Zakky Nur Ali dengan bimbingan guru-guru TKJ
-4. Teks Lampu Berjalan<br>
+4. Teks Lampu Berjalan
    Perangkat ini dkembangkan oleh Ade Fitriadin dan Bara Ramadhan dengan bimbingan guru-guru TKJ
-5. Lampu LED dari Lampu Bekas<br>
+5. Lampu LED dari Lampu Bekas
    Memanfaatkan lampu bekas yang sudah rusak, siswa tkj membuat lampu LED. dengan bimbingan bapak Suherman, S.Si
