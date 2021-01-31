@@ -9,8 +9,6 @@ media_library:
     api_key: 558871483499323
 media_folder: "uploads"
 public_folder: "/uploads"
-site_url: "https://smkn1pml.sch.id"
-display_url: "https://smkn1pml.sch.id"
 logo_url: "/uploads/logo.png"
 collections:
   - name: "posts"
