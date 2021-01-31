@@ -145,13 +145,6 @@ collections:
               config:
                 multiple: false
             default: "/uploads/background.jpeg"
-          - label: "Thumbnail Sejarah"
-            name: "history_image"
-            widget: "image"
-            media_library:
-              config:
-                multiple: false
-            default: "/uploads/background.jpeg"
           - label: "Embed Google Maps (HTML)"
             name: "maps_embed"
             widget: "text"
@@ -320,6 +313,13 @@ collections:
         name: "history"
         file: "_data/landing/history.yml"
         fields:
+          - label: "Thumbnail Sejarah"
+            name: "history_image"
+            widget: "image"
+            media_library:
+              config:
+                multiple: false
+            default: "/uploads/background.jpeg"
           - label: "URL Halaman"
             name: "page"
             widget: "string"
