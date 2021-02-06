@@ -1,0 +1,150 @@
+.bday-container {
+    /* height: 100vh; */
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.bday-container .balloon {
+    display: inline-block;
+    width: 75px;
+    height: 95px;
+    background: #85d6ff;
+    border-radius: 80%;
+    position: fixed;
+    -webkit-box-shadow: inset -10px -10px 0 rgba(0, 0, 0, 0.07);
+    box-shadow: inset -10px -10px 0 rgba(0, 0, 0, 0.07);
+    margin: 20px 30px;
+    -webkit-transition: -webkit-transform 0.5s ease;
+    transition: -webkit-transform 0.5s ease;
+    -o-transition: transform 0.5s ease;
+    transition: transform 0.5s ease;
+    transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+    z-index: 99999999;
+    -webkit-animation: balloons 4s ease-in-out infinite normal;
+    animation: balloons 4s ease-in-out infinite normal;
+    -webkit-transform-origin: bottom center;
+    -ms-transform-origin: bottom center;
+    transform-origin: bottom center;
+}
+
+.bday-container .balloon:before {
+    content: "▲";
+    font-size: 20px;
+    color: #85d6ff;
+    display: block;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: -12px;
+    z-index: 99999999;
+}
+
+.bday-container .balloon:after {
+    display: inline-block;
+    top: 101px;
+    position: absolute;
+    height: 140px;
+    width: 1px;
+    margin: 0 auto;
+    content: "";
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.bday-container .balloon:nth-child(2) {
+    background: #deb3ff;
+    -webkit-animation-duration: 3.5s;
+    animation-duration: 3.5s;
+}
+
+.bday-container .balloon:nth-child(2):before {
+    color: #d8b8ff;
+}
+
+.bday-container .balloon:nth-child(3) {
+    background: #4dff52;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+}
+
+.bday-container .balloon:nth-child(3):before {
+    color: #4dff52;
+}
+
+.bday-container .balloon:nth-child(4) {
+    background: #42f2ff;
+    -webkit-animation-duration: 4.5s;
+    animation-duration: 4.5s;
+}
+
+.bday-container .balloon:nth-child(4):before {
+    color: #42f2ff;
+}
+
+.bday-container .balloon:nth-child(5) {
+    background: #ce8355;
+    -webkit-animation-duration: 4s;
+    animation-duration: 4s;
+}
+
+.bday-container .balloon:nth-child(5):before {
+    color: #a96942;
+}
+
+.bday-container .balloon:nth-child(6) {
+    background: #ffd6e7;
+    -webkit-animation-duration: 5.5s;
+    animation-duration: 5.5s;
+}
+
+.bday-container .balloon:nth-child(6):before {
+    color: #ffd6e7;
+}
+
+.bday-container .balloon:nth-child(7) {
+    background: #ffa352;
+    -webkit-animation-duration: 2.9s;
+    animation-duration: 2.9s;
+}
+
+.bday-container .balloon:nth-child(7):before {
+    color: #ffa352;
+}
+
+.bday-container .balloon:nth-child(8) {
+    background: #ffff47;
+    -webkit-animation-duration: 6s;
+    animation-duration: 6s;
+}
+
+.bday-container .balloon:nth-child(8):before {
+    color: #ffff47;
+}
+
+@-webkit-keyframes balloons {
+    0% {
+        top: 100%;
+        -webkit-transform: rotate(-4deg);
+        transform: rotate(-4deg);
+    }
+
+    100% {
+        top: -100%;
+        -webkit-transform: rotate(4deg);
+        transform: rotate(4deg);
+    }
+}
+
+@keyframes balloons {
+    0% {
+        top: 100%;
+        -webkit-transform: rotate(-4deg);
+        transform: rotate(-4deg);
+    }
+
+    100% {
+        top: -100%;
+        -webkit-transform: rotate(4deg);
+        transform: rotate(4deg);
+    }
+}

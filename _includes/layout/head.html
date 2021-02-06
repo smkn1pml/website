@@ -100,4 +100,9 @@
     <!-- ShareThis -->
     <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=600c65b9fe6fa50012b7b7e8&product=inline-share-buttons' async='async'></script>
 
+    {% assign this_month = 'now' | date: "%-m" %}
+    {% if this_month == '2' and page.is_landing == true %}
+        <link rel="stylesheet" href="{{ '/assets/bday/balloons.css' | relative_url }}">
+    {% endif %}
+
 </head>

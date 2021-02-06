@@ -1,6 +1,6 @@
 primary_button:
   url: /page/ppdb/
-  title: PPDB
+  title: Info PPDB
 secondary_button:
   url: /page/profil/
-  title: Profil
+  title: Profil Sekolah

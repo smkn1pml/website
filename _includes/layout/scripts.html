@@ -26,3 +26,8 @@
 <!-- Cloudflare Web Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f15c13dabfff4f17b0f1d40cdd540e08"}'></script>
 <!-- End Cloudflare Web Analytics -->
+{% assign this_month = 'now' | date: "%-m" %}
+{% if this_month == '2' and page.is_landing == true %}
+    <script src="{{ '/assets/bday/balloons.js' | relative_url }}"></script>
+    <script src="{{ '/assets/bday/bday.js' | relative_url }}"></script>
+{% endif %}
