@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /author/sprodev/
+permalink: /author/sooluh/
 title: "Suluh Sulistiawan"
 ---
 
