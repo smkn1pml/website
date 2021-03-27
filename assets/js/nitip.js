@@ -188,8 +188,29 @@ $(document).ready(function () {
             var checker = $('#id_checker').val(),
                 id_game = $('#game_id').val(),
                 server = $('#server');
+
+            // Ragnarok M Eternal Love
             if (server.length) {
                 var id_server = server.val();
+            }
+
+            // Mobile Legends: Bang Bang
+            if (checker == '3') {
+                var mlbb = id_game.split('(')
+                id_game = mlbb[0].trim()
+
+                if (mlbb[1] === undefined) {
+                    Swal.fire({
+                        icon: 'error',
+                        text: 'ID Game tidak dapat ditemukan',
+                        didOpen: () => {
+                            Swal.hideLoading();
+                        }
+                    });
+
+                    return;
+                }
+                var id_server = mlbb[1].split(')')[0].trim()
             }
 
             if (id_game !== null && id_game.trim() !== '') {
