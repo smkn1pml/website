@@ -269,13 +269,21 @@ $(document).ready(function () {
                         }
                     },
                     error: function (error) {
-                        console.log(error);
                         Swal.close();
 
-                        Swal.fire({
-                            icon: 'error',
-                            html: 'Terjadi kesalahan pada server<br>Silahkan hubungi administrator'
-                        });
+                        if (error.status !== 400) {
+                            console.log(error.statusText)
+
+                            Swal.fire({
+                                icon: 'error',
+                                html: 'Terjadi kesalahan pada server<br>Silahkan hubungi administrator'
+                            });
+                        } else {
+                            Swal.fire({
+                                icon: 'error',
+                                text: error.responseJSON.message
+                            });
+                        }
                     }
                 });
             }
