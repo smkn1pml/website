@@ -196,8 +196,8 @@ $(document).ready(function () {
 
             // Mobile Legends: Bang Bang
             if (checker == '3') {
-                var mlbb = id_game.split('(')
-                id_game = mlbb[0].trim()
+                var mlbb = id_game.split('(');
+                id_game = mlbb[0].trim();
 
                 if (mlbb[1] === undefined) {
                     Swal.fire({
@@ -210,7 +210,7 @@ $(document).ready(function () {
 
                     return;
                 }
-                var id_server = mlbb[1].split(')')[0].trim()
+                var id_server = mlbb[1].split(')')[0].trim();
             }
 
             if (id_game !== null && id_game.trim() !== '') {
@@ -272,7 +272,7 @@ $(document).ready(function () {
                         Swal.close();
 
                         if (error.status !== 400) {
-                            console.log(error.statusText)
+                            console.log(error.statusText);
 
                             Swal.fire({
                                 icon: 'error',
