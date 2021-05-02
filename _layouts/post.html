@@ -8,7 +8,6 @@
     {% include layout/loader.html %}
     {% include layout/navbar.html %}
 
-    <!-- Hero Start -->
     <section class="bg-half bg-light d-table w-100">
         <div class="container">
             <div class="row justify-content-center">
@@ -31,16 +30,10 @@
                         </div>
                     </div>
                 </div>
-                <!--end col-->
             </div>
-            <!--end row-->
         </div>
-        <!--end container-->
     </section>
-    <!--end section-->
-    <!-- Hero End -->
 
-    <!-- Shape Start -->
     <div class="position-relative">
         <div class="shape overflow-hidden text-white">
             <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -48,13 +41,10 @@
             </svg>
         </div>
     </div>
-    <!--Shape End-->
 
-    <!-- Blog Start -->
     <section class="section">
         <div class="container">
             <div class="row">
-                <!-- Blog Start -->
                 <div class="col-lg-8 col-md-6">
                     <div class="card blog blog-detail border-0 shadow rounded">
                         {% if page.thumbnail != site.defaults[2].values.thumbnail %}
@@ -154,24 +144,17 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!--end col-->
                                     {% endfor %}
                                 </div>
-                                <!--end row-->
                             </div>
                         </div>
                     {% endif %}
                 </div>
-                <!-- Blog End -->
 
                 {% include layout/sidebar.html %}
             </div>
-            <!--end row-->
         </div>
-        <!--end container-->
     </section>
-    <!--end section-->
-    <!-- Blog End -->
 
     {% include layout/footer.html %}
     {% include layout/analytics.html %}

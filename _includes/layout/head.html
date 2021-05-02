@@ -78,26 +78,18 @@
     <meta itemprop="description" content="{{ site.data.settings.general.meta_description | escape }}" />
     <meta itemprop="image" content="{{ site.data.settings.general.meta_image | escape }}" />
 
-    <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.data.settings.general.favicon | escape }}">
-    <!-- RSS -->
     <link rel="alternate" href="{{ 'feed.xml' | relative_url }}" type="application/rss+xml" title="{{ site.data.settings.school.name }}">
-    <!-- Bootstrap -->
     <link href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" type="text/css" />
-    <!-- Icons -->
     <link href="{{ '/assets/css/materialdesignicons.min.css' | relative_url }}" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css">
-    <!-- Slider -->
     <link rel="stylesheet" href="{{ '/assets/css/owl.carousel.min.css' | relative_url }}" />
     <link rel="stylesheet" href="{{ '/assets/css/owl.theme.default.min.css' | relative_url }}" />
-    <!-- Magnific -->
     <link href="{{ '/assets/css/magnific-popup.css' | relative_url }}" rel="stylesheet" type="text/css" />
-    <!-- Main css -->
     <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet" type="text/css" id="theme-opt" />
     <link href="{{ '/assets/css/colors/default.css' | relative_url }}" rel="stylesheet" id="color-opt">
     <link href="{{ '/assets/css/custom.css' | relative_url }}" rel="stylesheet" id="color-opt">
 
-    <!-- ShareThis -->
     <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=600c65b9fe6fa50012b7b7e8&product=inline-share-buttons' async='async'></script>
 
     {% assign this_month = 'now' | date: "%-m" %}

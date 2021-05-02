@@ -9,7 +9,7 @@ media_library:
     api_key: 558871483499323
 media_folder: "uploads"
 public_folder: "/uploads"
-logo_url: "/uploads/logo.png"
+logo_url: "/assets/images/logo.png"
 collections:
   - name: "posts"
     label: "Artikel"
@@ -37,7 +37,7 @@ collections:
       - label: "Thumbnail"
         name: "thumbnail"
         widget: "image"
-        default: "/uploads/no_image.png"
+        default: "/assets/images/no_image.png"
         media_library:
           config:
             multiple: false
@@ -130,21 +130,21 @@ collections:
             media_library:
               config:
                 multiple: false
-            default: "/uploads/favicon.png"
+            default: "/assets/images/favicon.png"
           - label: "Logo"
             name: "logo"
             widget: "image"
             media_library:
               config:
                 multiple: false
-            default: "/uploads/logo.png"
+            default: "/assets/images/logo.png"
           - label: "Background Header"
             name: "hero_background"
             widget: "image"
             media_library:
               config:
                 multiple: false
-            default: "/uploads/background.jpeg"
+            default: "/assets/images/background.jpeg"
           - label: "Embed Google Maps (HTML)"
             name: "maps_embed"
             widget: "text"
@@ -154,7 +154,7 @@ collections:
             media_library:
               config:
                 multiple: false
-            default: "/uploads/background.jpeg"
+            default: "/assets/images/background.jpeg"
       - label: "Sekolah"
         name: "school"
         file: "_data/settings/school.yml"
@@ -319,7 +319,7 @@ collections:
             media_library:
               config:
                 multiple: false
-            default: "/uploads/background.jpeg"
+            default: "/assets/images/background.jpeg"
           - label: "URL Halaman"
             name: "page"
             widget: "string"

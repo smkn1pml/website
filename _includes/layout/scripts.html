@@ -1,31 +1,30 @@
-<!-- javascript -->
 <script src="{{ '/assets/js/jquery-3.5.1.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/jquery.easing.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/scrollspy.min.js' | relative_url }}"></script>
-<!-- SLIDER -->
+
 <script src="{{ '/assets/js/owl.carousel.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/owl.init.js' | relative_url }}"></script>
-<!-- Magnific -->
+
 <script src="{{ '/assets/js/jquery.magnific-popup.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/isotope.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/portfolio.init.js' | relative_url }}"></script>
-<!-- Icons -->
+
 <script src="{{ '/assets/js/feather.min.js' | relative_url }}"></script>
 <script src="https://unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js"></script>
-<!-- Main Js -->
+
 <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 {% if page.type %}
     <script src="{{ '/assets/js/pagination.js' | relative_url }}"></script>
 {% endif %}
-<!-- Disqus -->
+
 {% if page.comments != false and jekyll.environment == "production" %}
     <script id="dsq-count-scr" src="//{{ site.disqus.shortname }}.disqus.com/count.js" async></script>
 {% endif %}
-<!-- Cloudflare Web Analytics -->
+
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f15c13dabfff4f17b0f1d40cdd540e08"}'></script>
-<!-- End Cloudflare Web Analytics -->
+
 {% assign this_month = 'now' | date: "%-m" %}
 {% if this_month == '2' and page.is_landing == true %}
     <script src="{{ '/assets/bday/balloons.js' | relative_url }}"></script>

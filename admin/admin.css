@@ -1,4 +1,4 @@
-@media(max-width: 799px) {
+@media (max-width: 799px) {
     .css-u4olba-SidebarContainer-card,
     .css-1gj57a0-SidebarContainer-card {
         position: static;
@@ -44,7 +44,7 @@
 
     .css-5wgw3f-ListCard-card,
     .css-p5sjac-CollectionControlsContainer {
-        width: 100%
+        width: 100%;
     }
 
     /* Media */
@@ -132,6 +132,6 @@
 
     .css-osnbqe-ToolbarToggle {
         flex-direction: column;
-    };
+    }
     /* End Blog */
 }

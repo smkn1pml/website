@@ -65,7 +65,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      thumbnail: "/uploads/no_image.png"
+      thumbnail: "/assets/images/no_image.png"
       comments: true # Set to true to enable disqus comments
 
 # Jekyll Minifier

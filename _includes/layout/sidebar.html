@@ -1,8 +1,6 @@
-<!-- START SIDEBAR -->
 <div class="col-lg-4 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
     <div class="card border-0 sidebar sticky-bar rounded shadow">
         <div class="card-body">
-            <!-- SEARCH -->
             <div class="widget mb-0 pb-2">
                 <h4 class="widget-title">Pencarian</h4>
                 <div id="search2" class="widget-search mt-4 mb-0">
@@ -14,24 +12,11 @@
                     </form>
                 </div>
                 <div class="mt-3" style="display: none;" id="search-results">
-                    <!-- <div class="clearfix post-recent">
-                        <div class="post-recent-thumb float-left">
-                            <a href="http://school.suluh.pro/read/8/sample-post-1">
-                                <img src="http://school.suluh.pro/media_library/posts/medium/e3c44f471d00b059e612ba6ff8ad929a.png" class="img-fluid rounded" alt="Sample Post 1">
-                            </a>
-                        </div>
-                        <div class="post-recent-content float-left">
-                            <a href="http://school.suluh.pro/read/8/sample-post-1">Sample Post 1</a>
-                            <span class="text-muted mt-2">02/01/2021 20:47</span>
-                        </div>
-                    </div> -->
                 </div>
             </div>
-            <!-- SEARCH -->
 
             <div id="search-outside">
                 {% if site.categories.size > 0 %}
-                <!-- CATAGORIES -->
                 <div class="widget mt-4 pb-2">
                     <h4 class="widget-title">Kategori</h4>
                     <ul class="list-unstyled mt-4 mb-0 blog-catagories">
@@ -43,12 +28,10 @@
                         {% endfor %}
                     </ul>
                 </div>
-                <!-- CATAGORIES -->
                 {% endif %}
 
                 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
                 {% for year in posts_by_year limit: 1 %}
-                    <!-- ARCHIVE -->
                     <div class="widget mt-4 pb-2">
                         <h4 class="widget-title">Arsip {{ year.name }}</h4>
                         <ul class="list-unstyled mt-4 mb-0 blog-catagories">
@@ -85,13 +68,11 @@
                             {% endfor %}
                         </ul>
                     </div>
-                    <!-- ARCHIVE -->
                 {% endfor %}
 
                 {% assign num_post = site.posts | size %}
                 {% assign shuffle_post = site.posts | sample: num_post %}
                 {% if shuffle_post.size > 0 %}
-                <!-- RANDOM POSTS -->
                 <div class="widget mt-4 pb-2">
                     <h4 class="widget-title">Baca Juga</h4>
                     <div class="mt-4">
@@ -110,11 +91,8 @@
                         {% endfor %}
                     </div>
                 </div>
-                <!-- RANDOM POSTS -->
                 {% endif %}
             </div>
         </div>
     </div>
 </div>
-<!--end col-->
-<!-- END SIDEBAR -->

@@ -33,11 +33,9 @@
             </div>
         </div>
     </div>
-    <!--end col-->
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}
-    <!-- PAGINATION START -->
     <div class="col-12">
         <ul class="pagination justify-content-center mb-0">
             {% if paginator.previous_page %}
@@ -62,8 +60,7 @@
                 <li class="page-item"><a class="page-link" href="javascript:void(0)" aria-label="Next">Next</a></li>
             {% endif %}
         </ul>
-    </div><!--end col-->
-    <!-- PAGINATION END -->
+    </div>
     {% endif %}
 {% else %}
     {% include element/404_article.html %}
