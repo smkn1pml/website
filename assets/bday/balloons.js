@@ -1,0 +1,1 @@
+const bdayBallons=function(){const t=8,e=document.createElement("div");e.classList.add("bday-container"),document.body.append(e);let n=document.body.clientWidth;for(let d=0;d<t;d++){let t=Math.floor(Math.random()*(n-45-1))+1;const d=document.createElement("div");d.classList.add("balloon"),d.setAttribute("style","left: "+t+"px"),e.append(d)}};

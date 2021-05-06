@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /api/
+Disallow: /author/
+Disallow: /tag/
+Disallow: /category/
+Disallow: /2021/
+
+Sitemap: https://smkn1pml.sch.id/sitemap.xml
