@@ -7,6 +7,4 @@ tags:
 thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1612078707/background_vjqweg.jpg
 author: Administrator
 ---
-Selamat datang di Website baru SMK Negeri 1 Pemalang Jl. Gatot SUbroto NO 31.
-
-🥰
+Selamat datang di website baru SMK Negeri 1 Pemalang.
