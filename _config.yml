@@ -97,6 +97,7 @@ include:
 # Exclude from processing
 exclude:
   - README.md
+  - LICENSE
   - "*.log"
   - .sass-cache/
   - .jekyll-cache/
