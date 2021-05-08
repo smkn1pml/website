@@ -7,16 +7,10 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
 ## Status
 
 #### Workflow Status:
-
 [![Workflow Status](https://github.com/smkn1pml/website/actions/workflows/publish.yml/badge.svg)](https://github.com/smkn1pml/website/actions/workflows/publish.yml)
 
 #### Deploy Status:
-
-[![Deploy Status](https://badgen.net/github/status/smkn1pml/website/main)](https://github.com/smkn1pml/website/actions)
-
-#### GitHub Pages Status:
-
-[![gh-pages Status](https://badgen.net/github/status/smkn1pml/website/gh-pages)](https://github.com/smkn1pml/website/tree/gh-pages)
+[![Deploy Status](https://github.com/smkn1pml/website/actions/workflows/publish.yml/badge.svg?event=watch)](https://github.com/smkn1pml/website/actions/workflows/publish.yml)
 
 ## Development
 
@@ -24,7 +18,7 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
 
 - [Ruby](https://www.ruby-lang.org/en/downloads/)
 - [RubyGems](https://rubygems.org/pages/download/)
-- [GCC](https://gcc.gnu.org/install/) dan [Make](https://www.gnu.org/software/make/)
+- [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/)
 - [Jekyll](https://jekyllrb.com/docs/installation/)
 
 ### Installation
