@@ -2,6 +2,7 @@
 layout: null
 ---
 User-agent: *
+
 Disallow: /assets/
 Disallow: /admin/
 Disallow: /api/

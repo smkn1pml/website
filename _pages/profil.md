@@ -75,7 +75,7 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
     <tr>
         <td>Website</td>
-<td>&nbsp; : &nbsp;</td>
+        <td>&nbsp; : &nbsp;</td>
         <td><a href="https://smkn1pml.sch.id" target="_blank">smkn1pml.sch.id</a></td>
     </tr>
     <tr>

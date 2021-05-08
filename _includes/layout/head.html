@@ -42,7 +42,15 @@
         {% if page.author == blank %}
             {{ site.data.settings.general.meta_description | escape | strip }}
         {% else %}
-            {{ description | escpae | strip }}
+            {{ description | escape | strip }}
+        {% endif %}
+    {% endcapture %}
+
+    {% capture meta_image %}
+        {% if page.thumbnail == blank %}
+            {{ site.data.settings.general.meta_image | escape }}
+        {% else %}
+            {{ page.thumbnail | escape }}
         {% endif %}
     {% endcapture %}
 
@@ -88,7 +96,7 @@
     <meta name="google-site-verification" content="J61GZ3fJ-haar2tsfmm-K_LKdv40kPks-ZgkSq7Pj-s" />
     <meta itemprop="name" content="{{ site.data.settings.school.name | escape }}" />
     <meta itemprop="description" content="{{ metadesc | strip }}" />
-    <meta itemprop="image" content="{{ site.data.settings.general.meta_image | escape }}" />
+    <meta itemprop="image" content="{{ meta_image | strip }}" />
 
     <link rel="shortcut icon" href="{{ site.data.settings.general.favicon | escape }}">
     <link rel="alternate" href="{{ 'feed.xml' | relative_url }}" type="application/rss+xml" title="{{ site.data.settings.school.name }}">

@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
 
     spec.summary                    = "A beautiful school Jekyll theme."
     spec.homepage                   = "https://github.com/smkn1pml/website"
-    spec.license                    = "MIT"
+    spec.license                    = "Apache-2.0"
 
     spec.metadata["plugin_type"]    = "theme"
 

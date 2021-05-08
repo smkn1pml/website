@@ -1,12 +1,3 @@
-/* Template Name: Landrick - Saas & Software Landing Page Template
-   Author: Shreethemes
-   E-mail: shreethemes@gmail.com
-   Created: August 2019
-   Version: 2.5
-   Updated: July 2020
-   File Description: Main JS file of the template
-*/
-
 /****************************/
 /*         INDEX            */
 /*===========================
