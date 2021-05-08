@@ -1,16 +1,14 @@
-# NEPAL Main Site
+# Main Website
 
 ![Website Screenshot](assets/images/screenshot.png)
 
+<p align="center">
+    <a href="https://github.com/smkn1pml/website/actions/workflows/publish.yml">
+        <img alt="Workflow Status" src="https://github.com/smkn1pml/website/actions/workflows/publish.yml/badge.svg">
+    </a>
+</p>
+
 Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netlify CMS as a Content Management System.
-
-## Status
-
-#### Workflow Status:
-[![Workflow Status](https://github.com/smkn1pml/website/actions/workflows/publish.yml/badge.svg)](https://github.com/smkn1pml/website/actions/workflows/publish.yml)
-
-#### Deploy Status:
-[![Deploy Status](https://github.com/smkn1pml/website/actions/workflows/publish.yml/badge.svg?event=watch)](https://github.com/smkn1pml/website/actions/workflows/publish.yml)
 
 ## Development
 
