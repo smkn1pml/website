@@ -3,6 +3,7 @@ layout: null
 ---
 User-agent: *
 Disallow: /assets/
+Disallow: /admin/
 Disallow: /api/
 Disallow: /author/
 Disallow: {{ site.jekyll-archives.permalinks.tag | replace: ':name/', '' }}
