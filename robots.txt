@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /assets/
+Disallow: /admin/
 Disallow: /api/
 Disallow: /author/
 Disallow: /tag/
