@@ -1,7 +1,8 @@
 backend:
   name: github
-  branch: main
   repo: smkn1pml/website
+  branch: main
+  base_url: https://smkn1pml.vercel.app
 media_library:
   name: cloudinary
   config:
