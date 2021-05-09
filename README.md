@@ -26,7 +26,7 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
    git clone https://github.com/smkn1pml/website.git
    ```
 
-2. Change current directory to repository folder
+2. Change current directory to this repository folder
    ```
    cd website
    ```
@@ -36,14 +36,14 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
    bundle install
    ```
 
-4. Run jekyll
+4. Run Jekyll
    
-   - Live Development (Auto Reload)
+   - Live development (auto reload)
         ```
         bundle exec jekyll serve
         ```
         
-   - Build Static Site
+   - Build static site
        ```
        bundle exec jekyll build
        ```
@@ -54,7 +54,7 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
 
 Copyright (c) 2021 SMK Negeri 1 Pemalang.
 
-Developed by [Shafima Dev.](https://github.com/sProDev)
+Developed by [Shafima Dev](https://github.com/sProDev).
 
 ### License
 

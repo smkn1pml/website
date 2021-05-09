@@ -87,7 +87,7 @@
                                     <li class="list-inline-item">
                                         <a href="javascript:void(0)" class="text-muted comments">
                                             <i class="mdi mdi-comment-outline mr-1"></i>
-                                            <span class="disqus-comment-count" data-disqus-url="{{ page.url | relative_url }}">0</span>
+                                            <span class="disqus-comment-count" data-disqus-url="{{ page.url | absolute_url }}">0</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -131,7 +131,7 @@
                                                             <li class="list-inline-item">
                                                                 <a href="javascript:void(0)" class="text-muted comments">
                                                                     <i class="mdi mdi-comment-outline mr-1"></i>
-                                                                    <span class="disqus-comment-count" data-disqus-url="{{ post.url | relative_url }}">0</span>
+                                                                    <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}">0</span>
                                                                 </a>
                                                             </li>
                                                         </ul>
