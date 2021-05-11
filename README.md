@@ -22,29 +22,29 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
 ### Installation
 
 1. Clone this repository
-   ```
+   ```bash
    git clone https://github.com/smkn1pml/website.git
    ```
-
+   
 2. Change current directory to this repository folder
-   ```
+   ```bash
    cd website
    ```
-
+   
 3. Install dependencies from Gemfile
-   ```
+   ```bash
    bundle install
    ```
-
+   
 4. Run Jekyll
    
    - Live development (auto reload)
-        ```
+        ```bash
         bundle exec jekyll serve
         ```
         
    - Build static site
-       ```
+       ```bash
        bundle exec jekyll build
        ```
 
