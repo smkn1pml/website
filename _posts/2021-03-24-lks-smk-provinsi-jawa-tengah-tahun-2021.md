@@ -9,32 +9,53 @@ author: Administrator
 ---
 SMK Negeri 1 Pemalang pada tanggal 22-25 maret 2021 mengikuti LKS tingkat Jawa Tengah bidang yg diikuti antara lain
 
-1. IT Network Administration
+1\. IT Network Administration
 
-Peserta -> Ivan Rizkya Susanto
+![Ivan Rizkya Susanto](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_1_dwcbzm.jpg "Ivan Rizkya Susanto")
 
-Pembimbing -> Agung Sugiarto, S.Kom
+**Peserta**\
+Ivan Rizkya Susanto
 
-2. Graphic Design Technology
+**Pembimbing**\
+Agung Sugiarto, S.Kom
 
-Peserta -> Dera Andifa Fadillah
+2\. Graphic Design Technology
 
-Pembimbing -> Bayu Ganjar Hudoyo, S.E
+![Dera Andifa Fadillah](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/1_xdym6u.jpg "Dera Andifa Fadillah")
 
-3. 3D Game Art
+**Peserta**\
+Dera Andifa Fadillah
 
-Peserta -> Biantoro Dony Teguh Sutrisno
+**Pembimbing**\
+Bayu Ganjar Hudoyo, S.E
 
-Pembimbing -> Dyah Fatwawati, S.Kom
+3\. 3D Game Art
 
-4. Artificial Intelligence
+![Biantoro Dony Teguh Sutrisno](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_jhadfe.jpg "Biantoro Dony Teguh Sutrisno")
 
-Peserta -> Lasmana Adi Nugraha dan Wike Laelatunuji
+**Peserta**\
+Biantoro Dony Teguh Sutrisno
 
-Pembimbing -> Agung Wicaksono, S.Pd, M.Pd
+**Pembimbing**\
+Dyah Fatwawati, S.Kom
 
-5. Digital Marketing
+4\. Artificial Intelligence
 
-Peserta -> Karmila
+![Lasmana Adi Nugraha & Wike Laelatunuji](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_2_ggeygf.jpg "Lasmana Adi Nugraha & Wike Laelatunuji")
 
-Pembimbing -> Nurul Fuadah, S.Pd
+**Peserta**\
+1. Lasmana Adi Nugraha\
+2. Wike Laelatunuji
+
+**Pembimbing**\
+Agung Wicaksono, S.Pd, M.Pd
+
+5\. Digital Marketing
+
+![Karmila](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.56_v8vtjj.jpg "Karmila")
+
+**Peserta**\
+Karmila
+
+**Pembimbing**\
+Nurul Fuadah, S.Pd
