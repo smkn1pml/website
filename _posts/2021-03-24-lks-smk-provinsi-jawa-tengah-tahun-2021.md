@@ -43,7 +43,7 @@ Dyah Fatwawati, S.Kom
 
 ![Lasmana Adi Nugraha & Wike Laelatunuji](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_2_ggeygf.jpg "Lasmana Adi Nugraha & Wike Laelatunuji")
 
-**Peserta**<br />
+**Peserta**
 1. Lasmana Adi Nugraha
 2. Wike Laelatunuji
 
