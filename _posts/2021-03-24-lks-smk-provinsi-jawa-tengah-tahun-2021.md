@@ -13,49 +13,49 @@ SMK Negeri 1 Pemalang pada tanggal 22-25 maret 2021 mengikuti LKS tingkat Jawa T
 
 ![Ivan Rizkya Susanto](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_1_dwcbzm.jpg "Ivan Rizkya Susanto")
 
-**Peserta**\
+**Peserta**<br />
 Ivan Rizkya Susanto
 
-**Pembimbing**\
+**Pembimbing**<br />
 Agung Sugiarto, S.Kom
 
 2\. Graphic Design Technology
 
 ![Dera Andifa Fadillah](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/1_xdym6u.jpg "Dera Andifa Fadillah")
 
-**Peserta**\
+**Peserta**<br />
 Dera Andifa Fadillah
 
-**Pembimbing**\
+**Pembimbing**<br />
 Bayu Ganjar Hudoyo, S.E
 
 3\. 3D Game Art
 
 ![Biantoro Dony Teguh Sutrisno](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_jhadfe.jpg "Biantoro Dony Teguh Sutrisno")
 
-**Peserta**\
+**Peserta**<br />
 Biantoro Dony Teguh Sutrisno
 
-**Pembimbing**\
+**Pembimbing**<br />
 Dyah Fatwawati, S.Kom
 
 4\. Artificial Intelligence
 
 ![Lasmana Adi Nugraha & Wike Laelatunuji](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.57_2_ggeygf.jpg "Lasmana Adi Nugraha & Wike Laelatunuji")
 
-**Peserta**\
-1. Lasmana Adi Nugraha\
+**Peserta**<br />
+1. Lasmana Adi Nugraha
 2. Wike Laelatunuji
 
-**Pembimbing**\
+**Pembimbing**<br />
 Agung Wicaksono, S.Pd, M.Pd
 
 5\. Digital Marketing
 
 ![Karmila](https://res.cloudinary.com/smkn1pml/image/upload/v1616560162/LKS%202021/WhatsApp_Image_2021-03-24_at_10.47.56_v8vtjj.jpg "Karmila")
 
-**Peserta**\
+**Peserta**<br />
 Karmila
 
-**Pembimbing**\
+**Pembimbing**<br />
 Nurul Fuadah, S.Pd
