@@ -39,7 +39,7 @@
     {% capture description %}{% assign desctext = content | strip_html | newline_to_br | split: "<br />" %}{% for desc in desctext %}{% if desc != blank %}{{ desc | strip }} {% endif %}{% endfor %}{% endcapture %}
 
     {% capture metadesc %}
-        {% if page.author == blank %}
+        {% if page.slug == blank %}
             {{ site.data.settings.general.meta_description | escape | strip }}
         {% else %}
             {{ description | escape | strip }}
