@@ -82,12 +82,12 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title | strip | escape }}">
     <meta property="og:description" content="{{ metadesc | strip }}">
-    <meta property="og:image" content="{{ meta_image | strip }}">
+    <meta property="og:image" content="{{ meta_image | strip | absolute_url }}">
 
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:title" content="{{ title | strip | escape }}">
     <meta property="twitter:description" content="{{ metadesc | strip }}">
-    <meta property="twitter:image" content="{{ meta_image | strip }}">
+    <meta property="twitter:image" content="{{ meta_image | strip | absolute_url }}">
 
     <meta name="category" content="Education" />
     <meta name="coverage" content="Worldwide" />
@@ -106,7 +106,7 @@
     <meta name="google-site-verification" content="J61GZ3fJ-haar2tsfmm-K_LKdv40kPks-ZgkSq7Pj-s" />
     <meta itemprop="name" content="{{ site.data.settings.school.name | escape }}" />
     <meta itemprop="description" content="{{ metadesc | strip }}" />
-    <meta itemprop="image" content="{{ meta_image | strip }}" />
+    <meta itemprop="image" content="{{ meta_image | strip | absolute_url }}" />
 
     <link rel="shortcut icon" href="{{ site.data.settings.general.favicon | escape }}">
     <link rel="alternate" href="{{ '/feed.xml' | relative_url }}" type="application/rss+xml" title="{{ site.data.settings.school.name }}">
