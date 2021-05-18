@@ -79,6 +79,16 @@
     <meta name="url" content="{{ site.data.author.website | escape }}" />
     <meta name="identifier-URL" content="{{ site.data.author.website | escape }}" />
 
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title | strip | escape }}">
+    <meta property="og:description" content="{{ metadesc | strip }}">
+    <meta property="og:image" content="{{ meta_image | strip }}">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="{{ title | strip | escape }}">
+    <meta property="twitter:description" content="{{ metadesc | strip }}">
+    <meta property="twitter:image" content="{{ meta_image | strip }}">
+
     <meta name="category" content="Education" />
     <meta name="coverage" content="Worldwide" />
     <meta name="distribution" content="Global" />
@@ -99,7 +109,7 @@
     <meta itemprop="image" content="{{ meta_image | strip }}" />
 
     <link rel="shortcut icon" href="{{ site.data.settings.general.favicon | escape }}">
-    <link rel="alternate" href="{{ 'feed.xml' | relative_url }}" type="application/rss+xml" title="{{ site.data.settings.school.name }}">
+    <link rel="alternate" href="{{ '/feed.xml' | relative_url }}" type="application/rss+xml" title="{{ site.data.settings.school.name }}">
     <link href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" type="text/css" />
     <link href="{{ '/assets/css/materialdesignicons.min.css' | relative_url }}" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.9/css/unicons.css">
