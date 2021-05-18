@@ -18,6 +18,7 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
 - [RubyGems](https://rubygems.org/pages/download/)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/)
 - [Jekyll](https://jekyllrb.com/docs/installation/)
+- [NodeJS](https://nodejs.org/en/download/)
 
 ### Installation
 
