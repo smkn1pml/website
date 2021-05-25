@@ -3,7 +3,7 @@ title: Informasi PPDB
 slug: ppdb
 date: 2021-05-25T02:54:30.688Z
 ---
-### [](bit.ly/infoppdbsmkn1pml)PPDB SMK Negeri 1 Pemalang 2021 akan dilaksanakan pada tanggal-tangggal berikut ini :
+PPDB SMK Negeri 1 Pemalang 2021 akan dilaksanakan pada tanggal-tangggal berikut ini :
 
 1. Verifikasi Berkas Pendaftaran dan Penerimaan Token : 14 - 19 Juni 2021
 2. Pendaftaran , 21 - 24 Juni 2021
@@ -29,7 +29,7 @@ Jalur seleksi SMK berbeda dengan SMK, yaitu sebagai berikut :
 
 1. Keluarga Kurang Mampu, Anak dari Panti Asuhan dan/atau Anak Dari Tenaga Medis (bibuktikan dengan surat keterangan)
 2. Domisili Terdekat
-3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot.
+3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot
 
 ### Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
 
@@ -37,6 +37,6 @@ Jalur seleksi SMK berbeda dengan SMK, yaitu sebagai berikut :
 2. Login dan mulai memilih sekolah dan jurusan pilihan
 3. Cetak Bukti Pendaftaran
 4. Selesai
-5. Memantau hasil seleksi di website yang sama.
+5. Memantau hasil seleksi di website yang sama
 
-   Untuk info lengkapnya silakan download brosur informasi PPDB SMK Negeri 1 Pemalang di link berikut : [bit.ly/infoppdbsmkn1pml](bit.ly/infoppdbsmkn1pml)
+Untuk info lengkapnya silakan download brosur informasi PPDB SMK Negeri 1 Pemalang di link berikut : [bit.ly/infoppdbsmkn1pml](https://bit.ly/infoppdbsmkn1pml)
