@@ -12,7 +12,7 @@ PPDB SMK Negeri 1 Pemalang 2021 akan dilaksanakan pada tanggal-tangggal berikut 
 5. Daftar Ulang : 28 Juni - 2 Juli 2021
 6. Awal Tahun Ajaran Baru : 12 Juli 2021
 
-## Persyaratan Umum yang Perlu Disiapkan.
+### Persyaratan Umum yang Perlu Disiapkan.
 
 Beberapa dokumen atau berkas yang perlu dipersiapkan oleh pendaftar adalah sebagai berikut :
 
@@ -23,7 +23,7 @@ Beberapa dokumen atau berkas yang perlu dipersiapkan oleh pendaftar adalah sebag
 5. KIP atau PIP jika ada
 6. Sertifikat atau Piagam Berjenjang jika ada
 
-## Jalur Seleksi PPDB SMK 2021
+### Jalur Seleksi PPDB SMK 2021
 
 Jalur seleksi SMK berbeda dengan SMK, yaitu sebagai berikut :
 
@@ -33,7 +33,7 @@ Jalur seleksi SMK berbeda dengan SMK, yaitu sebagai berikut :
 
 Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
 
-1. Membuka website ppdb.jatengprov.go.id
+1. Membuka website [ppdb.jatengprov.go.id](https://ppdb.jatengprov.go.id)
 2. Login dan mulai memilih sekolah dan jurusan pilihan
 3. Cetak Bukti Pendaftaran
 4. Selesai
