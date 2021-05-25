@@ -8,8 +8,6 @@ tags:
 thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1621909909/ppdb-online1_obzr5j.jpg
 author: Administrator
 ---
-![Gambar : PPDB Online](https://res.cloudinary.com/smkn1pml/image/upload/v1621909909/ppdb-online1_obzr5j.jpg "Logo PPDB Online")
-
 PPDB SMK Negeri 1 Pemalang 2021 akan dilaksanakan pada tanggal-tangggal berikut ini :
 
 1. Verifikasi Berkas Pendaftaran dan Penerimaan Token : 14 - 19 Juni 2021
