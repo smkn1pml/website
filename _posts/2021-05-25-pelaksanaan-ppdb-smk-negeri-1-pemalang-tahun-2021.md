@@ -1,13 +1,14 @@
 ---
 title: Pelaksanaan PPDB SMK Negeri 1 Pemalang Tahun 2021
-date: 2021-03-24T04:15:55.426Z
+date: 2021-05-25T03:00:50.170Z
 category: Berita
 tags:
+  - ppdb
   - ppdb2021
 thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1621909909/ppdb-online1_obzr5j.jpg
 author: Administrator
 ---
-![]()
+![Gambar : PPDB Online](https://res.cloudinary.com/smkn1pml/image/upload/v1621909909/ppdb-online1_obzr5j.jpg "Logo PPDB Online")
 
 PPDB SMK Negeri 1 Pemalang 2021 akan dilaksanakan pada tanggal-tangggal berikut ini :
 
