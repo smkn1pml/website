@@ -31,7 +31,9 @@ Jalur seleksi SMK berbeda dengan SMK, yaitu sebagai berikut :
 2. Domisili Terdekat
 3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot
 
-### Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
+### Alur Pendaftaran PPDB
+
+Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
 
 1. Membuka website [ppdb.jatengprov.go.id](https://ppdb.jatengprov.go.id)
 2. Login dan mulai memilih sekolah dan jurusan pilihan
