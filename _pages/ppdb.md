@@ -25,7 +25,7 @@ Beberapa dokumen atau berkas yang perlu dipersiapkan oleh pendaftar adalah sebag
 
 ### Jalur Seleksi PPDB SMK 2021
 
-Jalur seleksi SMK berbeda dengan SMK, yaitu sebagai berikut :
+Jalur seleksi SMK berbeda dengan SMA, yaitu sebagai berikut :
 
 1. Keluarga Kurang Mampu, Anak dari Panti Asuhan dan/atau Anak Dari Tenaga Medis (bibuktikan dengan surat keterangan)
 2. Domisili Terdekat
