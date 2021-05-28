@@ -59,4 +59,4 @@ Developed by [Shafima Dev](https://github.com/sProDev).
 
 ### License
 
-Code licensed under [Apache 2.0 License](LICENSE).
+Code licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](LICENSE.md).
