@@ -18,7 +18,8 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
 - [RubyGems](https://rubygems.org/pages/download/)
 - [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/)
 - [Jekyll](https://jekyllrb.com/docs/installation/)
-- [NodeJS](https://nodejs.org/en/download/)
+
+If you are using [Docker](#docker) then you don't need the requirements listed above.
 
 ### Installation
 
@@ -39,15 +40,35 @@ Built using Jekyll as a Static Site Generator, GitHub Pages as its CDN, and Netl
    
 4. Run Jekyll
    
-   - Live development (auto reload)
+   - Live development
         ```bash
         bundle exec jekyll serve
         ```
         
    - Build static site
        ```bash
-       bundle exec jekyll build
+       JEKYLL_ENV=production bundle exec jekyll build
        ```
+
+#### Troubleshooting
+
+If you encounter problems during the installation process, please check the official Jekyll troubleshooting page [here](https://jekyllrb.com/docs/troubleshooting/).
+
+### Docker
+
+- Live development
+  ```bash
+  docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:4.2.0 jekyll serve
+  ```
+- Build static site
+  ```bash
+  docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=production -p 4000:4000 jekyll/jekyll:4.2.0 jekyll build
+  ```
+
+**References**
+
+- [Compile a Jekyll project without installing Jekyll or Ruby by using Docker](https://dev.to/michael/compile-a-jekyll-project-without-installing-jekyll-or-ruby-by-using-docker-4184)
+- [Jekyll Docker](https://github.com/envygeeks/jekyll-docker)
 
 ## Additional Information
 
