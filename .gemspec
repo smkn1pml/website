@@ -1,17 +1,17 @@
 Gem::Specification.new do |spec|
     spec.name                       = "ayo-jekyll-theme"
-    spec.version                    = "1.0.0"
+    spec.version                    = "1.0.1"
     spec.authors                    = ["Suluh Sulistiawan"]
     spec.email                      = ["kuy@suluh.my.id"]
 
     spec.summary                    = "A beautiful school Jekyll theme."
     spec.homepage                   = "https://github.com/smkn1pml/website"
-    spec.license                    = "Apache-2.0"
+    spec.license                    = "CC BY-NC-ND 4.0"
 
     spec.metadata["plugin_type"]    = "theme"
 
     spec.files                      = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
-    
+
     spec.add_runtime_dependency     "jekyll", "~> 4.2.0"
     spec.add_runtime_dependency     "jekyll-feed", "~> 0.15.1"
     spec.add_runtime_dependency     "jekyll-minifier", "~> 0.1.10"
