@@ -41,18 +41,13 @@ Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
 4. Selesai;
 5. Memantau hasil seleksi di website yang sama.
 
-
-
 ### Pengumuman Daftar Ulang
 
 Silakan bagi siswa yang diterima, supaya buka link ini [https://bit.ly/3quMjLb](https://bit.ly/3quMjLb?fbclid=IwAR09LJRCCsgeKb9D-kinWriuQjBIubDKku9rNS2geOvNIKICs-lfJRymkaE) untuk mendownload berkas :
 
 1. Persyaratan Daftar Ulang
-
 2. Jadwal Daftar Ulang
-
 3. Formulir isi Data (di print dan diisi)
-
 4. Surat Pernyataan Sehat (Di print dan diisi)
 
 Guna mendapatkan info lebih lanjut mengenai daftar ulang
