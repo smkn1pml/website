@@ -2,6 +2,7 @@
 title: Teknik Komputer dan Jaringan
 slug: tkj
 color: orange
+external: ""
 ---
 ### Tujuan
 
