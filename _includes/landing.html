@@ -110,8 +110,15 @@
 
         <div class="row">
             {% for major in site.majors %}
+				{% capture major_target %}
+					{% if major.external %}
+						{{ 'target="_blank"' }}
+					{% else %}
+						{{ '' }}
+					{% endif %}
+				{% endcapture %}
                 <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
-                    <a href="{{ major.url }}">
+                    <a href="{{ major.external | default: major.url }}" {{ major_target | strip }}>
                         <div class="media key-feature align-items-center p-3 rounded shadow bg-white" style="border: 1px solid {{ major.color }}">
                             <div class="media-body ml-3">
                                 <h4 class="title mb-0 text-dark">{{ major.slug | upcase }}</h4>

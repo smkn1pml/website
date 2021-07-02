@@ -1,8 +1,9 @@
 ---
 title: Info Daftar Ulang PPDB 2021
 date: 2021-06-26T16:02:21.624Z
-category: Berita PPDB2021
+category: Berita
 tags:
+  - ppdb
   - ppdb2021
 thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1624723396/Screenshot_from_2021-06-26_22-48-13_zctsao.png
 author: Administrator
