@@ -111,7 +111,7 @@
         <div class="row">
             {% for major in site.majors %}
 				{% capture major_target %}
-					{% if major.external %}
+					{% if major.external && major.external != '' %}
 						{{ 'target="_blank"' }}
 					{% else %}
 						{{ '' }}
