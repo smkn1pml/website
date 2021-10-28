@@ -1,5 +1,5 @@
 ---
-title: Hello SMK Negeri 1 Pemalang
+title: Halo SMK Negeri 1 Pemalang
 date: 2021-01-18T15:47:52.291Z
 category: Uncategorized
 tags:
