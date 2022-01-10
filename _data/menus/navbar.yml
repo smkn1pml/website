@@ -21,11 +21,11 @@ items:
   - title: Galeri
     url: /gallery/
     children: null
-  - title: Hubungi Kami
-    url: /contact/
-    children: null
   - title: Kelas Industri
     url: "#"
     children:
       - title: Mikrotik Academy
-        url: "#"
+        url: /mikrotikacademy
+  - title: Hubungi Kami
+    url: /contact/
+    children: null
