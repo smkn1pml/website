@@ -1,26 +1,31 @@
 items:
-  - title: "Beranda"
-    url: "/"
-    children:
-  - title: "Artikel"
-    url: "/articles/"
-    children:
-  - title: "Profil"
+  - title: Beranda
+    url: /
+    children: null
+  - title: Artikel
+    url: /articles/
+    children: null
+  - title: Profil
     url: "#"
     children:
-      - title: "Sejarah Sekolah"
-        url: "/page/sejarah/"
-      - title: "Visi & Misi"
-        url: "/page/visi-misi/"
-      - title: "Fasilitas Sekolah"
-        url: "/page/fasilitas/"
-      - title: "Profil Sekolah"
-        url: "/page/profil/"
-      - title: "Struktur Organisasi"
-        url: "/page/struktur-organisasi/"
-  - title: "Galeri"
-    url: "/gallery/"
+      - title: Sejarah Sekolah
+        url: /page/sejarah/
+      - title: Visi & Misi
+        url: /page/visi-misi/
+      - title: Fasilitas Sekolah
+        url: /page/fasilitas/
+      - title: Profil Sekolah
+        url: /page/profil/
+      - title: Struktur Organisasi
+        url: /page/struktur-organisasi/
+  - title: Galeri
+    url: /gallery/
+    children: null
+  - title: Hubungi Kami
+    url: /contact/
+    children: null
+  - title: Kelas Industri
+    url: "#"
     children:
-  - title: "Hubungi Kami"
-    url: "/contact/"
-    children:
+      - title: Mikrotik Academy
+        url: "#"
