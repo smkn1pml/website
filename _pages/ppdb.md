@@ -3,14 +3,16 @@ title: Informasi PPDB
 slug: ppdb
 date: 2021-05-25T02:54:30.688Z
 ---
-PPDB SMK Negeri 1 Pemalang 2021 akan dilaksanakan pada tanggal-tangggal berikut ini :
+### **Jadwal PPD SMK 2022**
 
-1. Verifikasi Berkas Pendaftaran dan Penerimaan Token : 14 - 19 Juni 2021
-2. Pendaftaran, 21 - 24 Juni 2021
-3. Evaluasi, Pemeringkatan dan Penyaluran : 25 - 26 Juni 2021
-4. Pengumuman Hasil Seleksi : 26 Juni 2021 (selambat-lambatnya pukul 23.55 WIB)
-5. Daftar Ulang : 28 Juni - 2 Juli 2021
-6. Awal Tahun Ajaran Baru : 12 Juli 2021
+PPDB SMK Negeri 1 Pemalang 2022 akan dilaksanakan pada tanggal-tangggal berikut ini :
+
+1. Pengajuan akun, aktivasi akun, dan verifikasi berkas : **15 - 28 Juni 2022**
+2. Pendaftaran (pilih sekolah dan jurusan), **29 - 1 Juli 2022**
+3. Validasi dan Evaluasi : **2 - 3 Juli 2022**
+4. Pengumuman Hasil Seleksi : **4 Juli 2022** (selambat-lambatnya pukul 23.55 WIB)
+5. Daftar Ulang : **5 - 7 Juli 2022**
+6. Awal Tahun Ajaran Baru : **11 Juli 2022**
 
 ### Persyaratan Umum yang Perlu Disiapkan
 
@@ -19,27 +21,37 @@ Beberapa dokumen atau berkas yang perlu dipersiapkan oleh pendaftar adalah sebag
 1. Akta
 2. Kartu Keluarga
 3. NISN
-4. Surat Keterangan Lulus Dari SMP
-5. KIP atau PIP, jika ada
-6. Sertifikat atau Piagam Berjenjang, jika ada
+4. Surat Keterangan Nilai Rapot Dari SMP
+5. Buku Rapot SMP Semester 1 - 5
+6. KIP atau PIP, jika ada
+7. Sertifikat atau Piagam, jika ada
+8. Surat keterangan sehat dari dokter
 
 ### Jalur Seleksi PPDB
 
 Jalur seleksi PPDB SMK 2021 berbeda dengan SMA, yaitu sebagai berikut :
 
-1. Keluarga Kurang Mampu, Anak dari Panti Asuhan dan/atau Anak Dari Tenaga Medis (dibuktikan dengan surat keterangan)
-2. Domisili Terdekat
-3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot
+1. Keluarga Kurang Mampu, Anak dari Panti Asuhan dan/atau Anak Dari Tenaga Medis (dibuktikan dengan surat keterangan) = 15%
+2. Domisili Terdekat = 10%
+3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot = 75%
+
+
 
 ### Alur Pendaftaran PPDB
 
 Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
 
-1. Membuka website [ppdb.jatengprov.go.id](https://ppdb.jatengprov.go.id);
-2. Login dan mulai memilih sekolah dan jurusan pilihan;
-3. Cetak Bukti Pendaftaran;
-4. Selesai;
-5. Memantau hasil seleksi di website yang sama.
+1. CPD menyiapkan berkas persyaratan
+2. CPD baru akses laman situs PPDB Online (ppdb.jatengprov.go.id)
+3. CPD baru mengisi formulir ajuan akun, melakukan aktivasi akun secara online menggunakan nomor peserta berupa NISN dan password
+4. CPD menginput data pribadi sesuai alur dalam sistem aplikasi PPDB
+5. CPD baru menggunggah atau mengupload dokumen persyaratan
+6. CPD melakukan verifikasi dokumen secara luring di SMA/SMK N terdekat, dengan membawa berkas pendaftaran
+7. Berkas akan diverifikasi oleh sekolah dan CPD mendapatkan token untuk mendaftar berupa print out
+8. CPD melakukan pendaftaran meliputi pemilihan sekolah dan jurusan
+9. CPD baru melihat hasil seleksi dan pengumuman secara online di laman situs (**ppdb.jatengprov.go.id**)
+
+
 
 ### Pengumuman Daftar Ulang
 
