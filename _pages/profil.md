@@ -1,7 +1,7 @@
 ---
 title: Profil Sekolah
-date: 2021-01-18T05:43:02.885Z
 slug: profil
+date: 2021-01-18T05:43:02.885Z
 ---
 <p><center><b>KATA PENGANTAR</b></center></p>
 
@@ -37,6 +37,7 @@ Di SMEA Negeri pernah untuk mendirikan SMA PGRI Pemalang (Tahun 1981) dan SMEA P
 Tahun 1996 SMEA Negeri Pemalang menjadi SMK Negeri 1 Pemalang sampai sekarang. Tahun 2020 SMK Negeri 1 Pemalang sudah mempunyai 6 program studi atau program keahlian yaitu Akuntansi dan Keuangan Lembaga (AKL), Otomatisasi dan Tata Kelola Perkantoran (OTKP), Bisnis Daring Pemasaran (BDP), Teknik Komputer dan Jaringan (TKJ), Teknik Kendaraan Ringan Otomotif (TKRO), dan Teknik dan Bisnis Sepeda Motor (TBSM).
 
 Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
+
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Lokasi</td>
@@ -100,7 +101,8 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
 </table>
 
-1\. <b>Lembaga :</b>
+1. <b>Lembaga :</b>
+
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Nama Lembaga</td>
@@ -149,22 +151,22 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
 </table>
 
-2\. <b>Bidang kegiatan/usaha :</b>
+2. <b>Bidang kegiatan/usaha :</b>
 
-Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lanjutan Tingkat Atas (SLTA) dengan lama pendidikan selama 3 (_tiga_) tahun.
+Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lanjutan Tingkat Atas (SLTA) dengan lama pendidikan selama 3 (*tiga*) tahun.
 
-3\. <b>Tujuan SMK Negeri 1 Pemalang :</b>
+3. <b>Tujuan SMK Negeri 1 Pemalang :</b>
 
 1. Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
 2. Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
 3. Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
 4. Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
 
-4\. <b>Visi Sekolah</b>
+4. <b>Visi Sekolah</b>
 
 Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
-5\. <b>Misi Sekolah</b>
+5. <b>Misi Sekolah</b>
 
 1. Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
 2. Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
@@ -173,36 +175,38 @@ Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, ko
 
 **Tenaga Pendidik / Sumber Daya Manusia (SDM) Guru :**
 
-A. <b>Plt. Kepala Sekolah</b>
+A. <b>Kepala Sekolah</b>
+
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Nama</td>
         <td>&nbsp; : &nbsp;</td>
-        <td>Dra. Lutfah Barliana, M.Pd</td>
+        <td>Drs. Susilohadi, M.Pd</td>
     </tr>
     <tr>
         <td>NIP</td>
         <td>&nbsp; : &nbsp;</td>
-        <td>19701127 199802 2 005</td>
+        <td>19681010 200003 1 011</td>
     </tr>
     <tr>
         <td>Tempat, Tanggal Lahir</td>
         <td>&nbsp; : &nbsp;</td>
-        <td>Tegal, 27 Nopember 1970</td>
+        <td>-</td>
     </tr>
     <tr>
         <td>Pangkat / Jabatan</td>
         <td>&nbsp; : &nbsp;</td>
-        <td>Pembina Tingkat I (IV B) / Guru Madya</td>
+        <td>-</td>
     </tr>
     <tr>
         <td>Pendidikan</td>
         <td>&nbsp; : &nbsp;</td>
-        <td>S2 (UNNES) Magister Pendidikan Bahasa Indonesia tahun 2015</td>
+        <td>-</td>
     </tr>
 </table>
 
 B. <b>Tenaga Pendidik / Guru yang mengajar</b>
+
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Guru PNS</td>
@@ -217,6 +221,7 @@ B. <b>Tenaga Pendidik / Guru yang mengajar</b>
 </table>
 
 C. <b>Tenaga Kependidikan</b>
+
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
         <td>Tata Usaha PNS</td>
