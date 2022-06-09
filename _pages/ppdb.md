@@ -3,7 +3,7 @@ title: Informasi PPDB
 slug: ppdb
 date: 2021-05-25T02:54:30.688Z
 ---
-### **Jadwal PPD SMK 2022**
+### **Jadwal PPDB SMK 2022**
 
 PPDB SMK Negeri 1 Pemalang 2022 akan dilaksanakan pada tanggal-tangggal berikut ini :
 
@@ -35,8 +35,6 @@ Jalur seleksi PPDB SMK 2021 berbeda dengan SMA, yaitu sebagai berikut :
 2. Domisili Terdekat = 10%
 3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot = 75%
 
-
-
 ### Alur Pendaftaran PPDB
 
 Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
@@ -50,8 +48,6 @@ Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
 7. Berkas akan diverifikasi oleh sekolah dan CPD mendapatkan token untuk mendaftar berupa print out
 8. CPD melakukan pendaftaran meliputi pemilihan sekolah dan jurusan
 9. CPD baru melihat hasil seleksi dan pengumuman secara online di laman situs (**ppdb.jatengprov.go.id**)
-
-
 
 ### Pengumuman Daftar Ulang
 
