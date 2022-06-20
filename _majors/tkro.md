@@ -6,11 +6,17 @@ color: yellow
 ---
 ##### PROFILE TEKNIK KENDARAAN RINGAN OTOMOTIF (TKRO)
 
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1655717016/Jurusan/TKRO/tkro2_pijf0w.png)
+
 ##### Ketua Kompetensi TKRO Yosam Saktiawan, S. Pd.
 
 TKRO adalah ilmu yang mempelajari tentang alat-alat transportasi darat yang menggunakan mesin/engine, terutama mobil yang mulai berkembang sebagai cabang ilmu seiring dengan diciptakannya mesin mobil. 
 
 **VISI TKRO SMKN 1 PEMALANG:**
+
+
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1655716903/Jurusan/TKRO/tkro1_kaqmp9.png)
+
 Menyiapkan Tenaga Teknik dan Kewirausahaan Tingkat Menengah yang bertakwa, inovatif dan Profesional.
 MISI TKRO SMKN 1 PEMALANG:
 
