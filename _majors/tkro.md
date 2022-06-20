@@ -18,7 +18,9 @@ TKRO adalah ilmu yang mempelajari tentang alat-alat transportasi darat yang meng
 ![](https://res.cloudinary.com/smkn1pml/image/upload/v1655716903/Jurusan/TKRO/tkro1_kaqmp9.png)
 
 Menyiapkan Tenaga Teknik dan Kewirausahaan Tingkat Menengah yang bertakwa, inovatif dan Profesional.
-MISI TKRO SMKN 1 PEMALANG:
+
+
+**MISI TKRO SMKN 1 PEMALANG:**
 
 1. Menyiapkan tamatan untuk memasuki lapangan kerja di bidang mekanik dan atau tenaga operasional teknik
 2. Menyiapkan siswa mampu memilih karir dan mampu berkompetisi di dunia industri atau sektor ekonomi kreatif kewirausahaan
