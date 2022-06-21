@@ -86,22 +86,22 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
     <tr>
         <td>Telepon</td>
-		<td>&nbsp; : &nbsp;</td>
+	<td>&nbsp; : &nbsp;</td>
         <td>(0284) 321386</td>
     </tr>
     <tr>
         <td>Faximile</td>
-		<td>&nbsp; : &nbsp;</td>
+	<td>&nbsp; : &nbsp;</td>
         <td>(0284) 323376</td>
     </tr>
     <tr>
-        <td>Plt. Kepala Sekolah</td>
+        <td>Kepala Sekolah</td>
         <td>&nbsp; : &nbsp;</td>
-        <td>Dra. Lutfah Barliana, M.Pd</td>
+        <td>Drs. Susilohadi, M.Pd</td>
     </tr>
 </table>
 
-1. <b>Lembaga :</b>
+1\. <b>Lembaga :</b>
 
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
@@ -111,7 +111,7 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
     <tr>
         <td>Nomor Pokok Sekolah Nasional (NPSN)</td>
-		<td>&nbsp; : &nbsp;</td>
+	<td>&nbsp; : &nbsp;</td>
         <td><b>20324238</b></td>
     </tr>
     <tr>
@@ -151,22 +151,22 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
 </table>
 
-2. <b>Bidang kegiatan/usaha :</b>
+2\. <b>Bidang kegiatan/usaha :</b>
 
 Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lanjutan Tingkat Atas (SLTA) dengan lama pendidikan selama 3 (*tiga*) tahun.
 
-3. <b>Tujuan SMK Negeri 1 Pemalang :</b>
+3\. <b>Tujuan SMK Negeri 1 Pemalang :</b>
 
 1. Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
 2. Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
 3. Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
 4. Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
 
-4. <b>Visi Sekolah</b>
+4\. <b>Visi Sekolah</b>
 
 Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
-5. <b>Misi Sekolah</b>
+5\. <b>Misi Sekolah</b>
 
 1. Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
 2. Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
