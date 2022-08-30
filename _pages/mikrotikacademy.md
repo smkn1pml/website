@@ -5,6 +5,8 @@ date: 2022-01-10T08:04:01.613Z
 ---
 ![](https://mikrotik.com/img/mtv2/newlogo.svg)
 
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1661837221/mikacademy_tc82hu.png)
+
 MikroTik adalah perusahaan yang berasal dari Latvia yang didirikan pada tahun 1996 untuk mengembangkan router dan sistem ISP nirkabel. MikroTik sekarang menyediakan perangkat keras dan perangkat lunak untuk konektivitas Internet diberbagai negara di dunia. Pengalaman mikrotik dalam memproduksi perangkat keras PC standar industri dan sistem routing yang lengkap memungkinkan mikrotik untuk membuat sistem perangkat lunak RouterOS yang menyediakan stabilitas, kontrol, dan fleksibilitas ekstensif untuk semua jenis antarmuka data dan routing pada tahun 1997. Pada tahun 2002 mikrotik memutuskan untuk membuat perangkat keras sendiri, dan merek RouterBOARD lahir. Perusahaan mikrotik terletak di Riga, ibu kota Latvia dan memiliki lebih dari 280 karyawan. (mikrotik.com)
 
 **Mikrotik Academy**
