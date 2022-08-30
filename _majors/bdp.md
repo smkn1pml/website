@@ -1,7 +1,7 @@
 ---
 title: Pemasaran
 slug: pe
-external: Pemasaran
+external: bdp
 color: green
 ---
 ![](https://res.cloudinary.com/smkn1pml/image/upload/v1661839338/Jurusan/PE/TUNFADILAH_qrpk65.jpg "KEPALA KOMPETENSI BDP: TUN FADILAH, S.Pd")
