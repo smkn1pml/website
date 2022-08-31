@@ -83,6 +83,7 @@ collections:
         name: "slug"
         widget: "string"
       - label: "Tautan Eksternal (Opsional)"
+        required: false
         name: "external"
         widget: "string"
       - label: "Warna"
