@@ -1,7 +1,7 @@
 ---
 title: Desain Komunikasi Visual
 slug: dkv
-external: /
+external: ""
 color: "#ac00ac"
 ---
 dkv
