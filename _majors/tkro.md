@@ -1,7 +1,7 @@
 ---
 title: Teknik Kendaraan Ringan Otomotif
 slug: tkro
-external: tkro
+external: ""
 color: yellow
 ---
 ##### **PROFILE TEKNIK KENDARAAN RINGAN OTOMOTIF (TKRO)**
