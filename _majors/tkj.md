@@ -23,14 +23,16 @@ Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan secara umum mengacu pada
 
 Tim Pengajar Kompetensi Keahlian Teknik Komputer Jaringan
 
-1. d
-2. Dyah Fatwawati, S.Kom
-3. Bayu Ganjar Hudoyo, S.E
+1. Dyah Fatwawati, S.Kom (Kepala Program)
+2. Agung Wicaksono, M.Pd
+3. Suherman, S.Si
 4. Ika Widyantika, S.Kom
-5. Suherman S.Si
-6. Zayyin Irsyadi, S.T
-7. Agung Sugiarto, S.Kom
-8. Feny Nurvita Arifany, M.Kom
+5. Agung Sugiarto, S.Kom
+6. Feny Nurvita Arifany, M.Kom
+7. Ahmad Faisal Amin, S.Pd
+8. Dedy Setiono, S.Pd
+9. Duddy Mulyawan, S.Pd
+10. Anton Kurniawan (Teknisi)
 
 ### Laboratorium yang Dimiliki
 
@@ -121,3 +123,11 @@ Selain bekerja, lulusan kami juga banyak yang melanjutkan kuliah antara lain di
    Perangkat ini dkembangkan oleh Ade Fitriadin dan Bara Ramadhan dengan bimbingan guru-guru TKJ
 5. Lampu LED dari Lampu Bekas<br>
    Memanfaatkan lampu bekas yang sudah rusak, siswa tkj membuat lampu LED. dengan bimbingan bapak Suherman, S.Si
+
+
+
+**G﻿alery TJKT SMK Negeri 1 Pemalang**
+
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1654735866/IMG_20220131_075226_kidri5.jpg)
+
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1662518680/Jurusan/TJKT/1_acfhcs.jpg)
