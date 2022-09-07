@@ -1,7 +1,7 @@
 ---
 title: Pemasaran
 slug: pe
-color: "#57ff09"
+color: "#3bba00"
 ---
 
 
