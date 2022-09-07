@@ -4,8 +4,6 @@ slug: akl
 external: ""
 color: red
 ---
-![]( "Kepala Program Keahlian AKL")
-
 **AKUNTANSI DAN KEUANGAN LEMBAGA (AKL)**
 
 Program Keahlian Akuntansi dan Keuangan Lembaga secara umum memberikan keterampilan kepada peserta didik untuk mengelola dan melakukan pencatatan keuangan secara manual maupun komputerisasi, dan membekali peserta dengan keterampilan akuntansi, mengelola transaksi keuangan, pajak dan membentuk siswa yang bersikap mandiri dan berkarakter sehingga lulusannya dapat menjadi staff accounting yang handal.
