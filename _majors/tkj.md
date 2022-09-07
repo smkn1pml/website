@@ -4,6 +4,10 @@ slug: tkj
 external: ""
 color: orange
 ---
+
+
+Teknik Jaringan Komputer dan Telekomunikasi (TJKT) merupakan program keahlian yang membekali peserta didik dengan keterampilan, pengetahuan, dan sikap agar kompeten dalam merakit, menginstall program, merawat dan memperbaiki komputer serta jaringannya. Lulusan program keahlian ini memiliki kemampuan melakukan installasi jaringan komputer, baik itu jaringan komputer dalam rumah /kantor, antar kantor, antar kota, antar provinsi, bahkan antar negara.
+
 ### Tujuan
 
 Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan secara umum mengacu pada isi Undang Undang Sistem Pendidikan Nasional (UU SPN) pasal 3 mengenai Tujuan Pendidikan Nasional dan penjelasan pasal 15 yang menyebutkan bahwa pendidikan kejuruan merupakan pendidikan menengah yang mempersiapkan peserta didik terutama untuk bekerja dalam bidang tertentu. Secara khusus Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan adalah membekali peserta didik dalam keterampilan, pengetahuan dan sikap agar komopeten:
