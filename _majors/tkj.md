@@ -1,8 +1,8 @@
 ---
 title: Teknik Komputer dan Jaringan
 slug: tkj
-color: orange
 external: ""
+color: orange
 ---
 ### Tujuan
 
@@ -19,11 +19,11 @@ Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan secara umum mengacu pada
 
 ### Tim Pengajar
 
-![Guru TKJ](https://res.cloudinary.com/smkn1pml/image/upload/v1612078632/whatsapp-image-2020-12-16-at-09.27.52_x2d6es.jpg "Guru TKJ")
+![Guru TKJ](https://res.cloudinary.com/smkn1pml/image/upload/v1662518166/Jurusan/TJKT/WhatsApp_Image_2022-09-07_at_09.32.35_prgi20.jpg "Guru TKJ")
 
 Tim Pengajar Kompetensi Keahlian Teknik Komputer Jaringan
 
-1. Agung Wicaksono, S.Pd, M.Pd (Ketua Kompetensi Keahlian)
+1. d
 2. Dyah Fatwawati, S.Kom
 3. Bayu Ganjar Hudoyo, S.E
 4. Ika Widyantika, S.Kom
