@@ -34,7 +34,7 @@ Tim Pengajar Kompetensi Keahlian Teknik Komputer Jaringan
 7. Ahmad Faisal Amin, S.Pd
 8. Dedy Setiono, S.Pd
 9. Duddy Mulyawan, S.Pd
-10. Anton Kurniawan, SM (Teknisi)
+10. Anton Kurniawan, S.M (Teknisi)
 
 ### Laboratorium yang Dimiliki
 
