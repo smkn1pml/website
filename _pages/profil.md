@@ -34,7 +34,7 @@ Tahun 1969 pindah dari SMA Negeri 1 Pemalang ke gedung SMEA Negeri Pemalang. JL 
 
 Di SMEA Negeri pernah untuk mendirikan SMA PGRI Pemalang (Tahun 1981) dan SMEA PGRI Pemalang (thn 1989), dua sekolah tersebut sudah pindah dari SMEA Negeri Pemalang. SMA PGRI Pemalang dan SMEA PGRI Pemalang sekarang di Jl. Dr Wahidin Sudirohusodo Taman, saling bersebelahan.
 
-Tahun 1996 SMEA Negeri Pemalang menjadi SMK Negeri 1 Pemalang sampai sekarang. Tahun 2020 SMK Negeri 1 Pemalang sudah mempunyai 6 program studi atau program keahlian yaitu Akuntansi dan Keuangan Lembaga (AKL), Otomatisasi dan Tata Kelola Perkantoran (OTKP), Bisnis Daring Pemasaran (BDP), Teknik Komputer dan Jaringan (TKJ), Teknik Kendaraan Ringan Otomotif (TKRO), dan Teknik dan Bisnis Sepeda Motor (TBSM).
+Tahun 1996 SMEA Negeri Pemalang menjadi SMK Negeri 1 Pemalang sampai sekarang. Tahun 2022 SMK Negeri 1 Pemalang sudah mempunyai 6 program studi atau program keahlian yaitu Akuntansi dan Keuangan Lembaga (AKL), Manajemen Perkantoran Lembaga Binis (MPLB), Pemasaran (PE), Teknik Jaringan Komputer dan Telekomunikasi (TJKT), Teknik Kendaraan Ringan Otomotif (TKRO), dan Teknik dan Bisnis Sepeda Motor (TBSM), Desain Komunikasi Visual (DKV), dan Pengembangan Perangkat Lunak dan Gim (PPLG).
 
 Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
 
@@ -101,7 +101,7 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
 </table>
 
-1\. <b>Lembaga :</b>
+1. <b>Lembaga :</b>
 
 <table style="margin-bottom: 20px;margin-top: 0;">
     <tr>
@@ -151,27 +151,24 @@ Adapun sebagai data penunjang alamat selengkapnya sebagai berikut :
     </tr>
 </table>
 
-2\. <b>Bidang kegiatan/usaha :</b>
+2. <b>Bidang kegiatan/usaha :</b>
 
 Jasa Pendidikan Kejuruaan/ Sekolah Menengah Kejuruan (SMK) Setingkat Sekolah Lanjutan Tingkat Atas (SLTA) dengan lama pendidikan selama 3 (*tiga*) tahun.
 
-3\. <b>Tujuan SMK Negeri 1 Pemalang :</b>
-
-1. Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
-2. Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
-3. Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
-4. Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
-
-4\. <b>Visi Sekolah</b>
+3. <b>Tujuan SMK Negeri 1 Pemalang :</b>
+4. Menghasilkan lulusan yang bertaqwa dan beriman kepada Tuhan Yang Maha Esa.
+5. Tercapainya lulusan yang mandiri dan dapat mengisi lapangan pekerjaan Dunia usaha dan dunia Industri serta mampu melanjutkan pendidikan ke jenjang yang lebih tinggi.
+6. Tercapainya proses pembelajaran secara efektif dan efisien dalam menjawab tantangan global.
+7. Menghasilkan lulusan yang mampu menguasai ilmu pengetahuan, teknologi dan seni.
+8. <b>Visi Sekolah</b>
 
 Mewujudkan lembaga pendidikan vokasi yang lulusannya bertaqwa, berdaya saing, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni serta berjiwa wirausaha.
 
-5\. <b>Misi Sekolah</b>
-
-1. Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
-2. Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
-3. Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri
-4. Mewujudkan sekolah sebagai wadah kreasi dan inovasi
+5. <b>Misi Sekolah</b>
+6. Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
+7. Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
+8. Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha dan dunia industri
+9. Mewujudkan sekolah sebagai wadah kreasi dan inovasi
 
 **Tenaga Pendidik / Sumber Daya Manusia (SDM) Guru :**
 
