@@ -21,22 +21,20 @@ Pada tahun 2022 SMKN 1 Pemalang memperoleh Izin Perubahan Satuan Pendidikan Mene
 
 <p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>Visi dan Misi Program Keahlian Desain Komunikasi Visual SMKN 1 Pemalang</strong></span></span></p>
+<p style="text-align:center"><strong>Visi dan Misi Program Keahlian Desain Komunikasi Visual SMKN 1 Pemalang</strong></p>
 
-<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>VISI :</strong></span></span></p>
+<p style="text-align:center"><strong>VISI :</strong></p>
 
-<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&ldquo;Terwujud Lulusan berkarakter mulia, kompeten sesuai tuntutan teknologi dan industri serta berjiwa wirausaha di bidang Desain Komunikasi Visual&rdquo;</span></span></p>
+<p style="text-align:center">&ldquo;Terwujud Lulusan berkarakter mulia, kompeten sesuai tuntutan teknologi dan industri serta berjiwa wirausaha di bidang Desain Komunikasi Visual&rdquo;</p>
 
-<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong>MISI :</strong></span></span></p>
+<p style="text-align:center"><strong>MISI :</strong></p>
 
-<ol>
-	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Melaksanakan pembelajaran dengan pembinaan karakter Profil Pelajar Pancasila di Bidang Desain Komunikasi Visual</span></span></li>
-	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Menyelenggarakan pembelajaran Desain Komunikasi Visual berbasis kreatifitas, inovatif dan teknologi yang berorientasi internasional</span></span></li>
-	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Mempersiapkan lulusan yang memiliki kemampuan profesional dalam bidang Desain Komunikasi Visual sesuai tuntutan dunia industri</span></span></li>
-	<li style="text-align:justify"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Mempersiapkan lulusan yang mandiri serta mampu membuat peluang wirausaha di bidang Desain Komunikasi Visual</span></span></li>
+<ol style="margin-left:120px">
+	<li>Melaksanakan pembelajaran dengan pembinaan karakter Profil Pelajar Pancasila di Bidang Desain Komunikasi Visual</li>
+	<li>Menyelenggarakan pembelajaran Desain Komunikasi Visual berbasis kreatifitas, inovatif dan teknologi yang berorientasi internasional</li>
+	<li>Mempersiapkan lulusan yang memiliki kemampuan profesional dalam bidang Desain Komunikasi Visual sesuai tuntutan dunia industri</li>
+	<li>Mempersiapkan lulusan yang mandiri serta mampu membuat peluang wirausaha di bidang Desain Komunikasi Visual</li>
 </ol>
-
-<p style="text-align:justify">&nbsp;</p>
 
 **Tujuan Program Keahlian Desain Komunikasi Visual SMKN 1 Pemalang**
 
