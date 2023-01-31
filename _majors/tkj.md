@@ -4,8 +4,6 @@ slug: tkj
 external: ""
 color: orange
 ---
-
-
 Teknik Jaringan Komputer dan Telekomunikasi (TJKT) merupakan program keahlian yang membekali peserta didik dengan keterampilan, pengetahuan, dan sikap agar kompeten dalam merakit, menginstall program, merawat dan memperbaiki komputer serta jaringannya. Lulusan program keahlian ini memiliki kemampuan melakukan installasi jaringan komputer, baik itu jaringan komputer dalam rumah /kantor, antar kantor, antar kota, antar provinsi, bahkan antar negara.
 
 ### Tujuan
@@ -36,7 +34,7 @@ Tim Pengajar Kompetensi Keahlian Teknik Komputer Jaringan
 7. Ahmad Faisal Amin, S.Pd
 8. Dedy Setiono, S.Pd
 9. Duddy Mulyawan, S.Pd
-10. Anton Kurniawan (Teknisi)
+10. Anton Kurniawan, SM (Teknisi)
 
 ### Laboratorium yang Dimiliki
 
@@ -127,8 +125,6 @@ Selain bekerja, lulusan kami juga banyak yang melanjutkan kuliah antara lain di
    Perangkat ini dkembangkan oleh Ade Fitriadin dan Bara Ramadhan dengan bimbingan guru-guru TKJ
 5. Lampu LED dari Lampu Bekas<br>
    Memanfaatkan lampu bekas yang sudah rusak, siswa tkj membuat lampu LED. dengan bimbingan bapak Suherman, S.Si
-
-
 
 **G﻿alery TJKT SMK Negeri 1 Pemalang**
 
