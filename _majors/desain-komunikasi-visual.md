@@ -4,7 +4,7 @@ slug: dkv
 external: ""
 color: "#ac00ac"
 ---
-**Profil Program Keahlian DKV**
+<p style="text-align:center"><span style="font-size:26px"><span style="font-family:Calibri,sans-serif"><strong>Profil Program Keahlian DKV</strong></span></span></p>
 
 ![](https://res.cloudinary.com/smkn1pml/image/upload/v1675169195/Jurusan/DKV/dkv_ydwlqa.jpg)
 
@@ -13,13 +13,9 @@ color: "#ac00ac"
 Istilah Desain Komunikasi Visual, terdiri kata desain, komunikasi, dan visual. Kata desain berasal dari bahasa Perancis “desiner” yang berarti menggambar, merancang, menciptakan bentuk pola dua maupun tiga dimensi. Adapun, komunikasi (Latin: Communis) yang artinya memberitahukan, yaitu memberikan dan menyebarkan informasi, berita, pesan, ide-ide. Sedangkan, visual merupakan bentuk nyata, yang bisa dilihat dan bisa didengar. Sehingga Desain Komunikasi Visual (DKV) dapat diartikan sebagai cabang ilmu desain yang mempelajari konsep komunikasi dan ungkapan kreatif, teknik dan media dengan memanfaatkan elemen-elemen visual ataupun rupa untuk menyampaikan pesan untuk tujuan tertentu. 
 Desain komunikasi visual dalam pengertian yang luas adalah berbagai kegiatan komunikasi yang menggunakan media dua dimensi maupun tiga dimensi, baik statis maupun dinamis, seperti produk percetakan, televisi, film, animasi, dan internet. Tujuan utama desain komunikasi visual, adalah menciptakan atau perencanaan media yang bersifat informatif, komunikatif dan estetik, serta persuasif karena dilengkapi dengan unsur psikologi massa dan teori pemasaran.
 
-
-
 **Sejarah Program Keahlian DKV SMKN 1 pemalang**
 
 Pada tahun 2022 SMKN 1 Pemalang memperoleh Izin Perubahan Satuan Pendidikan Menengah Kejuruan berdasarkan Keputusan Kepala Dinas Penanaman Modal Dan Pelayanan Terpadu Satu Pintu Provinsi Jawa Tengah Nomor 503/5391/2022 tertanggal 20 Juni 2022. Dengan adanya surat tersebut SMKN 1 Pemalang secara resmi terdapat Bidang Keahlian Seni dan Ekonomi Kreatif dengan Program Keahlian Desain Komunikasi Visual.
-
-
 
 <p style="text-align:justify">&nbsp;</p>
 
@@ -41,7 +37,6 @@ Pada tahun 2022 SMKN 1 Pemalang memperoleh Izin Perubahan Satuan Pendidikan Mene
 </ol>
 
 <p style="text-align:justify">&nbsp;</p>
-
 
 **Tujuan Program Keahlian Desain Komunikasi Visual SMKN 1 Pemalang**
 
