@@ -4,7 +4,7 @@ date: 2023-05-05T07:26:53.566Z
 category: Berita
 tags:
   - kelulusan
-thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1683271838/WhatsApp_Image_2023-05-05_at_14.30.20_pgdf0b.jpg
+thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1612078637/logo_uwki9y.png
 author: Administrator
 ---
 <p style="text-align:center"><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/WhatsApp%20Image%202023-05-05%20at%2014_30_20.jpeg" style="height:282px; width:200px" /></p>
