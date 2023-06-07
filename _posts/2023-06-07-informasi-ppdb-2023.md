@@ -76,100 +76,113 @@ author: Administrator
 <hr />
 <h3><strong>JADWAL PPDB SMK NEGERI 1 PEMALANG</strong></h3>
 
-<table>
+<table border="1">
 	<tbody>
 		<tr>
-			<td>1</td>
-			<td>Pengumuman Informasi PPDB</td>
-			<td>:</td>
-			<td>Tanggal&nbsp;<strong>12 Juni 2023</strong></td>
+			<td style="width:23px">1</td>
+			<td style="width:141px">Pengumuman Informasi PPDB</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li>Tanggal&nbsp;<strong>12 Juni 2023</strong></li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>2</td>
-			<td>Pengajuan akun dan verfikasi berkas</td>
-			<td>:</td>
-			<td>Tanggal&nbsp;<strong>15 s.d 23 Juni 2023</strong><br />
-			<br />
-			Pengajuan akun secara dari pukul 00.00 s.d 23.00 WIB setiap harinya sesuai jadwal.<br />
-			<br />
-			Verifikasi berkas (setelah pengajuan akun) mulai 15 Juni &ndash; 23 Juni 2023 di SMAN atau SMKN di Jawa Tengah. Jam Layanan : hari Senin &ndash; Kamis pukul 08.00 s.d 15.30 WIB, Istirahat pukul 12.00 &ndash; 13.00 WIB, dan hari Jumat pukul 08.00 s.d 15.00 WIB, Istirahat pukul 11.30 -13.00 WIB.<br />
-			<br />
-			Dibuka mulai tanggal 15 Juni 2023 pukul 00.00 WIB hingga tanggal 27 Juni 2023 pukul 15.00 WIB.<br />
-			<br />
-			Verifikasi berkas dilaksanakan pada jam kerja di Satuan Pendidikan SMA Negeri/SMK Negeri.</td>
+			<td style="width:23px">2</td>
+			<td style="width:141px">Pengajuan akun dan verfikasi berkas</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li>Tanggal&nbsp;<strong>15 s.d 23 Juni 2023</strong></li>
+				<li>Pengajuan akun secara dari pukul 00.00 s.d 23.00 WIB setiap harinya sesuai jadwal.</li>
+				<li>Verifikasi berkas (setelah pengajuan akun) mulai 15 Juni &ndash; 23 Juni 2023 di SMAN atau SMKN di Jawa Tengah. Jam Layanan : hari Senin &ndash; Kamis pukul 08.00 s.d 15.30 WIB, Istirahat pukul 12.00 &ndash; 13.00 WIB, dan hari Jumat pukul 08.00 s.d 15.00 WIB, Istirahat pukul 11.30 -13.00 WIB.</li>
+				<li>Dibuka mulai tanggal 15 Juni 2023 pukul 00.00 WIB hingga tanggal 27 Juni 2023 pukul 15.00 WIB.</li>
+				<li>Verifikasi berkas dilaksanakan pada jam kerja di Satuan Pendidikan SMA Negeri/SMK Negeri.</li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>3</td>
-			<td>Aktivasi Akun</td>
-			<td>:</td>
-			<td><strong>Tanggal 15 &ndash; 27 Juni 2023</strong>, dapat dilakukan secara daring pukul 00.00 &ndash; 23.00 WIB<br />
-			<br />
-			Khusus tanggal 27 Juni 2023, ditutup pada pukul 15.30 WIB.</td>
+			<td style="width:23px">3</td>
+			<td style="width:141px">Aktivasi Akun</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li><strong>Tanggal 15 &ndash; 27 Juni 2023</strong>, dapat dilakukan secara daring pukul 00.00 &ndash; 23.00 WIB</li>
+				<li>Khusus tanggal 27 Juni 2023, ditutup pada pukul 15.30 WIB.</li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>4</td>
-			<td>Pendaftaran dan perubahan pilihan</td>
-			<td>:</td>
-			<td><strong>Tanggal 23 &ndash; 27 Juni 2023.</strong><br />
-			<br />
-			Secara daring mulai tanggal 23 Juni 2023 pukul 06.00 WIB s.d pukul 23.59 WIB.<br />
-			<br />
-			Khusus tanggal 27 Juni 2023, pendaftaran ditutup pada pukul 17.00 WIB.</td>
+			<td style="width:23px">4</td>
+			<td style="width:141px">Pendaftaran dan perubahan pilihan</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li><strong>Tanggal 23 &ndash; 27 Juni 2023.</strong></li>
+				<li>Secara daring mulai tanggal 23 Juni 2023 pukul 06.00 WIB s.d pukul 23.59 WIB.</li>
+				<li>Khusus tanggal 27 Juni 2023, pendaftaran ditutup pada pukul 17.00 WIB.</li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>5</td>
-			<td>Masa Tenang</td>
-			<td>:</td>
-			<td>Tanggal 28 s.d 29 Juni 2023</td>
+			<td style="width:23px">5</td>
+			<td style="width:141px">Masa Tenang</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li>Tanggal 28 s.d 29 Juni 2023</li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>6</td>
-			<td>Pengumuman Hasil</td>
-			<td>:</td>
-			<td>Tanggal 30 Juni 2023, selambatnya pukul 23.55 WIB</td>
+			<td style="width:23px">6</td>
+			<td style="width:141px">Pengumuman Hasil</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li>Tanggal 30 Juni 2023, selambatnya pukul 23.55 WIB</li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>7</td>
-			<td>Daftar Ulang</td>
-			<td>:</td>
-			<td>Tanggal 3 s.d 6 Juli 2023</td>
+			<td style="width:23px">7</td>
+			<td style="width:141px">Daftar Ulang</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li>Tanggal 3 s.d 6 Juli 2023</li>
+			</ul>
+			</td>
 		</tr>
 		<tr>
-			<td>8</td>
-			<td>Awal Tahun Ajaran Baru 2023/2024</td>
-			<td>:</td>
-			<td>Tanggal 17 Juli 2023</td>
+			<td style="width:23px">8</td>
+			<td style="width:141px">Awal Tahun Ajaran Baru 2023/2024</td>
+			<td style="width:12px">:</td>
+			<td style="width:983px">
+			<ul>
+				<li>Tanggal 17 Juli 2023</li>
+			</ul>
+			</td>
 		</tr>
 	</tbody>
 </table>
 
 <hr />
+<h3>&nbsp;</h3>
+
 <h3><strong>TATA CARA PENDAFTARAN</strong></h3>
 
 <ol>
-	<li>Calon Peserta Didik Baru menyiapkan berkas persyaratan pendaftaran.</li>
-	<li>Membuka situs PPDB Daring dengan alamat&nbsp;<a href="https://smkn1gombong.sch.id/%20/ppdb.jatengprov.go.id" rel="noreferrer noopener" target="_blank">https:/ /ppdb.jatengprov.go.id</a>.</li>
-	<li>Calon Peserta Didik Baru mengisi formulir ajuan akun.</li>
-	<li>Menginput data pribadi dan nilai rapor sesuai alur dalam sistem aplikasi PPDB.</li>
-	<li>Calon Peserta Didik Baru menggunggah (upload):<br />
-	a.&nbsp;<strong>scan Pakta Integritas</strong><strong>&nbsp;</strong>atau&nbsp;<strong>Surat Pernyataan Kebeneraan Dokumen</strong>,<br />
-	b.&nbsp;<strong>Scan Kartu Keluarga</strong>,<br />
-	c.&nbsp;<strong>Scan Surat Keterangan Nilai Rapor Sem 1-5</strong>,<br />
-	d.&nbsp;<strong>Scan Kartu Indonesia Pintar/DTKS</strong>&nbsp;&mdash;&nbsp;<em>jika memiliki<strong>&nbsp;</strong>(Bagi siswa dari keluarga ekonomi tidak mampu)</em>,<br />
-	e.&nbsp;<strong>Scan Surat surat keterangan Kepala Desa/Lurah dan diketahui/disahkan oleh Camat di wilayah ATS yang bersangkutan berdomisili, dilampiri Ijazah jenjang SMP/sederajat dengan tahun kelulusan sebelum tahun ajaran 2022/2023</strong>&nbsp;&mdash;&nbsp;<em>Bagi CPD&nbsp;<strong>ATS (Anak Tidak Sekolah</strong></em><strong>)</strong>, dan<br />
-	f.&nbsp;<strong>Scan Piagam Kejuaraan</strong>&nbsp;<strong>dan Dilampiri Surat Keterangan&nbsp;</strong><strong>Kebenaran Prestasi Peserta Didik Dalam Kejuaraan Akademik dan Non Akademik</strong>&nbsp;yang ditandatangani Kepala SMP/Mts/Sederajat &mdash;&nbsp;<em>jika memiliki</em>.</li>
-	<li>Setelah pengajuan akun, Calon Peserta Didik mencetak&nbsp;<strong>BUKTI PENGAJUAN AKUN</strong>.</li>
-	<li>Calon Peserta Didik Baru melakukan verifikasi berkas pendaftaran secara luring (<strong>DATANG KE SEKOLAH</strong>) pada Satuan Pendidikan SMA Negeri atau SMK Negeri terdekat atau yang dipilih dengan membawa&nbsp;<strong>berkas pendaftaran</strong>&nbsp;yang ditentukan serta hasil&nbsp;<strong>cetak Bukti Pengajuan Akun</strong>.</li>
-	<li>Berkas-berkas pendaftaran diverifikasi oleh Satuan Pendidikan SMA Negeri atau SMK Negeri terdekat dan apabila berkas dimaksud telah sesuai dengan ketentuan, maka Calon Peserta Didik akan memperoleh Token untuk melakukan aktivasi akun, sedangkan yang belum memenuhi syarat wajib memperbaiki/memenuhi persyaratan yang diperlukan.<br />
-	<br />
-	<strong>Jadwal Pengajuan Akun dan Verifikasi Berkas dimulai tanggal 15 Juni s.d 23 Juni 2023</strong><br />
-	<br />
-	<strong>Jadwal Aktivasi Akun dimulai tanggal 15 Juni s.d 27 Juni 2023</strong></li>
-	<li>Calon Peserta Didik melakukan Pendaftaran/memilih sekolah dan memilih Program Keahlian dengan login mengunakan NISN dan Password yang telah dibuat saat aktivasi akun serta unggah dokumen Surat Pernyataan (yang menerangkan kondisi kesehatan Calon Peserta Didik).&nbsp;<strong>Mulai tanggal 23 s.d 27 Juni 2023.</strong></li>
+	<li>Calon Peserta Didik menyiapkan berkas persyaratan pendaftaran.</li>
+	<li>Membuka situs PPDB Daring dengan alamat https://ppdb.jatengprov.go.id.</li>
+	<li>Calon Peserta Didik mengisi formulir ajuan akun, dan melakukan aktivasi akun secara daring dengan login menggunakan nomor peserta berupa NISN dan password.</li>
+	<li>Menginput data pribadi sesuai alur dalam sistem aplikasi PPDB.</li>
+	<li>Calon Peserta Didik menggunggah (upload) dokumen persyaratan sebagaimana ditentukan dalam sistem aplikasi.</li>
+	<li>Calon Peserta Didik melakukan verifikasi berkas pendaftaran secara langsung/luring pada Satuan Pendidikan SMA Negeri atau SMK Negeri terdekat atau yang dipilih dengan membawa berkas pendaftaran sebagaimana ketentuan Bab IV huruf D tersebut di atas.</li>
+	<li>Berkas-berkas pendaftaran diverifikasi oleh Satuan Pendidikan SMA Negeri atau SMK Negeri terdekat dan apabila berkas dimaksud telah sesuai dengan ketentuan, maka Calon Peserta Didik akan memperoleh Token untuk melakukan pendaftaran, sedangkan yang belum memenuhi syarat wajib memperbaiki/memenuhi persyaratan yang diperlukan.</li>
 	<li>Calon Peserta Didik yang telah melakukan pendaftaran secara daring akan memperoleh nomor pendaftaran.</li>
-	<li>Calon Peserta Didik dapat mengubah pilihan sekolah dan pilihan Program Keahlian selama waktu pendaftaran (<strong>tanggal 23 s.d 27 Juni 2023</strong>)</li>
 	<li>Jurnal dan hasil seleksi dapat dilihat pada sistem aplikasi PPDB dengan nomor pendaftaran peserta PPDB.</li>
-	<li>Pengumuman PPDB SMK Negeri di Jawa Tengah pada&nbsp;<strong>Tanggal 30 Juni 2023, selambatnya pukul 23.55 WIB</strong></li>
 </ol>
 
 <p>&nbsp;</p>
@@ -196,7 +209,45 @@ Setelah dinyatakan diterima, pada saat Daftar Ulang, dokumen di Foto Copy dan di
 <hr />
 <h3><strong>SELEKSI PPDB</strong></h3>
 
-<h4><strong>1. Seleksi Domisili Terdekat</strong></h4>
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">PPDB SMK Negeri tidak menerapkan jalur sebagaimana pada PPDB SMA Negeri namun menggunakan sistem seleksi :</span></span></p>
+
+<p>1.&nbsp;&nbsp; &nbsp;Seleksi Prestasi&nbsp;</p>
+
+<ul>
+	<li>Nilai rapor dan bobot nilai prestasi bidang akademik dan non akademik pada kejuaraan berjenjang dan tidak berjenjang.&nbsp;</li>
+	<li>Nilai rapor didasarkan atas Nilai Rapor Semester I s.d V SMP/MTs atau yang sederajat, yaitu nilai mata pelajaranPABP, PPKn, Bahasa Indonesia, Matematika, IPA, IPS dan Bahasa Inggris.&nbsp;</li>
+	<li>Nilai dikonversi menjadi rentang nilai 0 (nol) sampai dengan 10 (sepuluh) hingga 2 (dua) digit di belakang koma.</li>
+	<li>Nilai merupakan nilai rata&ndash;rata pada aspek kompetensi pengetahuan dan kompetensi keterampilan</li>
+	<li>Calon Peserta Didik dengan prestasi Juara I, II, dan III Internasional dan Juara I Nasional dari kejuaran yang diselenggarakan secara berjenjang diberikan prioritas langsung diterima.</li>
+	<li>Bobot nilai prestasi ditentukan berdasarkan bobot nilai prestasi tertinggi :</li>
+	<li style="margin-left: 40px;">Bukti atas prestasi diterbitkan paling singkat 6 (enam) bulan dan paling lama 3 (tiga) tahun yang dihitung sampai dengan tanggal akhir pendaftaran PPDB, dan prestasi tersebut diperoleh pada jenjang pendidikan SMP/sederajat.&nbsp;</li>
+	<li style="margin-left: 40px;">Bukti prestasi harus didukung dengan Surat Keterangan Kepala Satuan Pendidikan SMP/sederajat yang menerangkan kebenaran bukti prestasi</li>
+	<li style="margin-left: 40px;">Bukti prestasi bagi Calon Peserta Didik yang berasal dari Satuan Pendidikan SMP/sederajat yang berasal dari luar Provinsi Jawa Tengah dilakukan verifikasi bukti penghargaan dan/atau pengujian kompetensi prestasi yang diraih oleh Satuan Pendidikan yang dituju sebelum ditetapkan bobot nilainya.</li>
+	<li style="margin-left: 40px;">Penghitungan nilai adalah nilai rapor ditambah dengan bobot nilai prestasi bidang akademik dan non akademik pada kejuaraan berjenjang dan tidak berjenjang.</li>
+</ul>
+
+<p>2.&nbsp;&nbsp; &nbsp;Seleksi Calon Peserta Didik dari keluarga miskin, yatim dan/atau piatu yaitu CPD yang sudah tidak memiliki ayah dan/atau ibu akibat ayah dan/atau ibu Calon Peserta Didik yang bersangkutan meninggal dunia akibat terpapar COVID-19, dan Anak Tidak Sekolah (ATS)&nbsp;</p>
+
+<ul>
+	<li>Kuota CPD dari keluarga miskin, yatim dan/atau piatu, anak panti, serta ATS paling sedikit 15% (lima belas persen) dari daya tampung sekolah. CPD yang berasal dari keluarga ekonomi tidak mampu terdata pada Data Terpadu Kesejahteraan Sosial (DTKS) yang dikelola/ditetapkan oleh Dinas Sosial Provinsi Jawa Tengah</li>
+	<li>CPD yatim dan/atau piatu, sudah tidak memiliki ayah dan/atau ibu akibat ayah dan/atau ibu Calon Peserta Didik yang bersangkutan meninggal dunia akibat terpapar COVID-19 paling banyak 2%. dari jumlah daya tampung seleksi afirmasi.</li>
+	<li>CPD anak panti paling banyak 2% (dua persen) dari jumlah daya tampung sekolah pada seleksi PPDB Afirmasi.&nbsp;</li>
+	<li>CPD ATS paling banyak 3% (tiga persen) dari jumlah daya tampung sekolah pada seleksi PPDB Afirmasi.</li>
+</ul>
+
+<p>3.&nbsp;&nbsp; <strong>&nbsp;Seleksi CPD domisili terdekat&nbsp;</strong></p>
+
+<ul>
+	<li>Kuota CPD dengan domisili terdekat paling banyak 10% (sepuluh persen) dari daya tampung sekolah.</li>
+	<li>Jarak domisili terdekat dimaksud adalah dihitung berdasarkan jarak (radius) domisili sesuai alamat pada Kartu Keluarga dengan Satuan Pendidikan.</li>
+	<li>Titik ordinat CPD berdasarkan alamat domisili Kartu Keluarga yang diterbitkan dan/atau telah tinggal paling singkat 1 (satu) tahun yang dihitung sampai dengan tanggal akhir pendaftaran PPDB berdasarkan data administrasi kependudukan yang diselenggarakan oleh Dinas Pemberdayaan Masyarakat, Desa, Kependudukan dan Pencatatan Sipil Provinsi Jawa Tengah.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>1. Seleksi Domisili Terdekat</strong></p>
 
 <p>Daya tampung seleksi domisili terdekat dengan satuan Pendidikan paling banyak 10% dari daya tampung.</p>
 
@@ -272,43 +323,43 @@ Setelah dinyatakan diterima, pada saat Daftar Ulang, dokumen di Foto Copy dan di
 
 <h4><strong>1.3 Pembobotan Nilai Prestasi Berjenjang</strong></h4>
 
-<table border="1">
+<table border="1" style="width:428.6px">
 	<tbody>
 		<tr>
 			<th rowspan="2">NO</th>
-			<th rowspan="2">TINGKATAN EVENT</th>
-			<th colspan="3">BOBOT NILAI</th>
+			<th rowspan="2" style="width: 128px;">TINGKATAN EVENT</th>
+			<th colspan="3" style="width: 259px;">BOBOT NILAI</th>
 		</tr>
 		<tr>
-			<th>JUARA I</th>
-			<th>JUARA II</th>
-			<th>JUARA III</th>
+			<th style="width: 115px;">JUARA I</th>
+			<th style="width: 62px;">JUARA II</th>
+			<th style="width: 72px;">JUARA III</th>
 		</tr>
 		<tr>
 			<td>a.</td>
-			<td>Tingkat Internasional</td>
-			<th colspan="3">Langsung diterima</th>
+			<td style="width:128px">Tingkat Internasional</td>
+			<th colspan="3" style="width: 259px;">Langsung diterima</th>
 		</tr>
 		<tr>
 			<td>b.</td>
-			<td>Tingkat Nasional</td>
-			<th>Langsung diterima</th>
-			<td>5,00</td>
-			<td>4,00</td>
+			<td style="width:128px">Tingkat Nasional</td>
+			<th style="width: 115px;">Langsung diterima</th>
+			<td style="text-align:center; width:62px">5,00</td>
+			<td style="text-align:center; width:72px">4,00</td>
 		</tr>
 		<tr>
 			<td>c.</td>
-			<td>Tingkat Provinsi</td>
-			<td>3,00</td>
-			<td>2,75</td>
-			<td>2,50</td>
+			<td style="width:128px">Tingkat Provinsi</td>
+			<td style="text-align:center; width:115px">3,00</td>
+			<td style="text-align:center; width:62px">2,75</td>
+			<td style="text-align:center; width:72px">2,50</td>
 		</tr>
 		<tr>
 			<td>d.</td>
-			<td>Tingkat Kab/Kota</td>
-			<td>2,25</td>
-			<td>2,00</td>
-			<td>1,75</td>
+			<td style="width:128px">Tingkat Kab/Kota</td>
+			<td style="text-align:center; width:115px">2,25</td>
+			<td style="text-align:center; width:62px">2,00</td>
+			<td style="text-align:center; width:72px">1,75</td>
 		</tr>
 	</tbody>
 </table>
@@ -317,45 +368,45 @@ Setelah dinyatakan diterima, pada saat Daftar Ulang, dokumen di Foto Copy dan di
 
 <p><strong>Kejuaraan tidak berjenjang</strong>&nbsp;merupakan prestasi&nbsp;<strong>selain&nbsp;</strong>sebagaimana tersebut dalam&nbsp;<strong>kejuaraan berjenjang</strong>. Dengan pembobotan nilai sebagai berikut :</p>
 
-<table border="1">
+<table border="1" style="width:355.6px">
 	<tbody>
 		<tr>
 			<th rowspan="2">NO</th>
-			<th rowspan="2">TINGKATAN EVENT</th>
-			<th colspan="3">BOBOT NILAI</th>
+			<th rowspan="2" style="width: 133px;">TINGKATAN EVENT</th>
+			<th colspan="3" style="width: 183px;">BOBOT NILAI</th>
 		</tr>
 		<tr>
-			<th>JUARA I</th>
-			<th>JUARA II</th>
-			<th>JUARA III</th>
+			<th style="width: 54px;">JUARA I</th>
+			<th style="width: 58px;">JUARA II</th>
+			<th style="width: 61px;">JUARA III</th>
 		</tr>
 		<tr>
 			<td>a.</td>
-			<td>Tingkat Internasional</td>
-			<td>3,00</td>
-			<td>2,75</td>
-			<td>2,50</td>
+			<td style="width:133px">Tingkat Internasional</td>
+			<td style="text-align:center; width:54px">3,00</td>
+			<td style="text-align:center; width:58px">2,75</td>
+			<td style="text-align:center; width:61px">2,50</td>
 		</tr>
 		<tr>
 			<td>b.</td>
-			<td>Tingkat Nasional</td>
-			<td>2,25</td>
-			<td>2,00</td>
-			<td>1,75</td>
+			<td style="width:133px">Tingkat Nasional</td>
+			<td style="text-align:center; width:54px">2,25</td>
+			<td style="text-align:center; width:58px">2,00</td>
+			<td style="text-align:center; width:61px">1,75</td>
 		</tr>
 		<tr>
 			<td>c.</td>
-			<td>Tingkat Provinsi</td>
-			<td>1,50</td>
-			<td>1,25</td>
-			<td>1,00</td>
+			<td style="width:133px">Tingkat Provinsi</td>
+			<td style="text-align:center; width:54px">1,50</td>
+			<td style="text-align:center; width:58px">1,25</td>
+			<td style="text-align:center; width:61px">1,00</td>
 		</tr>
 		<tr>
 			<td>d.</td>
-			<td>Tingkat Kab/Kota</td>
-			<td>0,75</td>
-			<td>0,50</td>
-			<td>0,25</td>
+			<td style="width:133px">Tingkat Kab/Kota</td>
+			<td style="text-align:center; width:54px">0,75</td>
+			<td style="text-align:center; width:58px">0,50</td>
+			<td style="text-align:center; width:61px">0,25</td>
 		</tr>
 	</tbody>
 </table>
