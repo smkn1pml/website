@@ -3,16 +3,16 @@ title: Informasi PPDB
 slug: ppdb
 date: 2021-05-25T02:54:30.688Z
 ---
-### **Jadwal PPDB SMK 2022**
+### **Jadwal PPDB SMK 2023**
 
-PPDB SMK Negeri 1 Pemalang 2022 akan dilaksanakan pada tanggal-tangggal berikut ini :
+PPDB SMK Negeri 1 Pemalang 2023 akan dilaksanakan pada tanggal-tangggal berikut ini :
 
-1. Pengajuan akun, aktivasi akun, dan verifikasi berkas : **15 - 28 Juni 2022**
-2. Pendaftaran (pilih sekolah dan jurusan), **29 - 1 Juli 2022**
-3. Validasi dan Evaluasi : **2 - 3 Juli 2022**
-4. Pengumuman Hasil Seleksi : **4 Juli 2022** (selambat-lambatnya pukul 23.55 WIB)
-5. Daftar Ulang : **5 - 7 Juli 2022**
-6. Awal Tahun Ajaran Baru : **11 Juli 2022**
+1. Pengajuan akun dan verifikasi berkas : **15 - 23 Juni 2023**
+2. A﻿ktivasi akun : **15 - 27 Juni 2023**
+3. Pendaftaran (pilih sekolah dan jurusan) dan perubahan pilihan : **23 - 27 Juli 2023**
+4. Pengumuman Hasil Seleksi : **30 Juni 2023** (selambat-lambatnya pukul 23.55 WIB)
+5. Daftar Ulang : **3 - 6 Juli 2023**
+6. Awal Tahun Ajaran Baru : **17 Juli 2023**
 
 ### Persyaratan Umum yang Perlu Disiapkan
 
@@ -37,7 +37,7 @@ Jalur seleksi PPDB SMK 2021 berbeda dengan SMA, yaitu sebagai berikut :
 
 ### Alur Pendaftaran PPDB
 
-Alur Pendaftaran PPDB SMK 2021 secara umum, seperti berikut :
+Alur Pendaftaran PPDB SMK 2023 secara umum, seperti berikut :
 
 1. CPD menyiapkan berkas persyaratan
 2. CPD baru akses laman situs PPDB Online (ppdb.jatengprov.go.id)
