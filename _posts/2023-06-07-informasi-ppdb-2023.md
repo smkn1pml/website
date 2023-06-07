@@ -4,7 +4,7 @@ date: 2023-06-07T01:21:17.330Z
 category: Berita
 tags:
   - ppdb
-thumbnail: /assets/images/no_image.png
+thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1686102080/LOGO_PPDBNEPAL_2023_fg3js8.png
 author: Administrator
 ---
 <h3><strong>PROGRAM KEAHLIAN, KONSENTRASI KEAHLIAN, &nbsp;DAN DAYA TAMPUNG</strong></h3>
