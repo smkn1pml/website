@@ -60,10 +60,6 @@ Silakan bagi siswa yang diterima, supaya buka link ini [https://bit.ly/3quMjLb](
 3. Formulir isi Data (di print dan diisi)
 4. Surat Pernyataan Sehat (Di print dan diisi)
 
-Guna mendapatkan info lebih lanjut mengenai daftar ulang
 
-Silakan untuk datang ke sekolah sesuai jadwal yang ditetapkan
-
-link : [https://bit.ly/3quMjLb](https://bit.ly/3quMjLb?fbclid=IwAR09LJRCCsgeKb9D-kinWriuQjBIubDKku9rNS2geOvNIKICs-lfJRymkaE)
 
 Untuk info lengkapnya silakan download brosur informasi PPDB SMK Negeri 1 Pemalang di link berikut : **https://bit.ly/ppdbsmkn1pml2023**[](https://bit.ly/infoppdbsmkn1pml)
