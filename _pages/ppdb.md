@@ -25,17 +25,21 @@ Beberapa dokumen atau berkas yang perlu dipersiapkan oleh pendaftar adalah sebag
 5. Buku Rapot SMP Semester 1 - 5
 6. KIP atau PIP, jika ada
 7. Sertifikat atau Piagam, jika ada
-8. Surat keterangan sehat dari dokter
+8. Surat pernyataan sehat bagi calon peserta didik yang akan mendaftar di SMK Negeri sebagai berikut :
+
+   \- AKL, MPLB dan PE               : Sehat Pendengaran
+
+   \- TJKT, OTO, PPLG dan DKV  : Tidak buta warna dan sehat pendengaran
 
 ### Jalur Seleksi PPDB
 
 Jalur seleksi PPDB SMK 2023 berbeda dengan SMA, yaitu sebagai berikut :
 
-1. A﻿firmasi = 15 %
+1. A﻿firmasi minimal 15 %
 
    (﻿Siswa Miskin paling sedikit 8%, Yatim Piatu paling banyak 2%, Anak Panti paling banyak 2%, ATS (Anak Tidak Sekolah) 3%.
-2. Domisili Terdekat = 10%
-3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot = 75%
+2. Domisili Terdekat paling banyak 10%
+3. Jalur Prestasi, yaitu jalur seleksi yang menggunakan nilai rapot paling sedikit 75%
 
 ### Alur Pendaftaran PPDB
 
