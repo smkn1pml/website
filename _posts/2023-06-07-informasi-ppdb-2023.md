@@ -398,7 +398,7 @@ Setelah dinyatakan diterima, pada saat Daftar Ulang, dokumen di Foto Copy dan di
 <ol>
 	<li>Penetapan hasil seleksi dapat diakses melalui laman web&nbsp;<strong><a href="https://ppdb.jatengprov.go.id/" rel="noreferrer noopener" target="_blank">https://ppdb.jatengprov.go.id</a></strong>&nbsp; dan papan pengumuman pada Satuan Pendidikan.</li>
 	<li>Peserta didik yang diterima di Satuan Pendidikan wajib melakukan daftar ulang dan bagi yang tidak melakukan daftar ulang dianggap mengundurkan diri.</li>
-	<li>Pada saat daftar ulang membawa berkas&nbsp;<a href="https://smkn1gombong.sch.id/stemsago/ppdb/#berkas">persyaratan PPDB</a>.</li>
+	<li>Pada saat daftar ulang membawa berkas persyaratan PPDB.</li>
 </ol>
 
 <p>&nbsp;</p>
