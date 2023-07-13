@@ -4,7 +4,7 @@ date: 2023-07-13T07:42:17.072Z
 category: Berita
 tags:
   - ppdb
-thumbnail: https://drive.google.com/file/d/1pnpxaFcl93NjUqiFpkXyHgk1Moz6FmSb/view
+thumbnail: https://ibb.co/CngxXP6
 author: Administrator
 ---
 P﻿ENGUMUMAN !!!
