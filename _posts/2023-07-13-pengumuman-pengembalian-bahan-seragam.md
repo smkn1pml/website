@@ -4,7 +4,7 @@ date: 2023-07-13T07:42:17.072Z
 category: Berita
 tags:
   - ppdb
-thumbnail: https://ibb.co/CngxXP6
+thumbnail: https://i.ibb.co/CngxXP6/Whats-App-Image-2023-07-13-at-14-30-49.jpg
 author: Administrator
 ---
 P﻿ENGUMUMAN !!!
