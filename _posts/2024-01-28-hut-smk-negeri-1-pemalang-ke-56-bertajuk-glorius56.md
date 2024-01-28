@@ -1,5 +1,5 @@
 ---
-title: HUT SMK Negeri 1 Pemalang ke 56 bertajuk "GLORIUS56"
+title: HUT SMK Negeri 1 Pemalang ke 56 Bertajuk "GLORIUS56"
 date: 2024-01-28T10:10:44.112Z
 category: Berita
 tags:
@@ -9,4 +9,6 @@ author: Administrator
 ---
 SMK Negeri 1 Pemalang pada tahun 2024 bulan Februari ini, genap berusia 56 tahun. Seperti halnya, tahun-tahun sebelumnya, SMK Negeri 1 Pemalang melakukan peringatan Hari Ulang Tahun dengan cara menampilkan karya-karya siswa serta hiburan untuk warga sekolah.
 
-Tema HUT SMK Negeri 1 Pemalang kali ini adalah, "GLORIUS56, WUJUDKAN KEMULIAN DALAM KEBERSAMAAN MENUJU NEPAL IS THE BEST"
+Tema HUT SMK Negeri 1 Pemalang kali ini adalah, "GLORIUS56, WUJUDKAN KEMULIAN DALAM KEBERSAMAAN MENUJU NEPAL IS THE BEST".
+
+Acara peringatan HUT SMK Negeri 1 Pemalang tahun ini rencananya akan dilaksanakan pada tanggal 5-7 Februari 2024.
