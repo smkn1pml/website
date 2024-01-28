@@ -6,7 +6,6 @@ Disallow: /api/
 Disallow: /author/
 Disallow: /tag/
 Disallow: /category/
-Disallow: /2024/
 Disallow: /2023/
 Disallow: /2022/
 Disallow: /2021/
