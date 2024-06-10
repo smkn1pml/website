@@ -1,11 +1,11 @@
 ---
 title: Siswa SMKN 1 Pemalang Raih Juara 1 Pencak Silat di Jakarta National
   Championship II 2024!
-date: 2024-06-10T04:12:53.691Z
+date: 2024-05-20T04:12:53.691Z
 category: Berita
 tags:
   - berita
-thumbnail: /assets/images/no_image.png
+thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1717993045/juaraaaa_oqrz7b.png
 author: Administrator
 ---
 <!--StartFragment-->
