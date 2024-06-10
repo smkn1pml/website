@@ -26,6 +26,8 @@ items:
     children:
       - title: Mikrotik Academy
         url: /page/mikrotikacademy/
+      - title: Bursa Kerja Khusu (BKK)
+        url: https://bkk.smkn1pml.sch.id
   - title: Hubungi Kami
     url: /contact/
     children: null
