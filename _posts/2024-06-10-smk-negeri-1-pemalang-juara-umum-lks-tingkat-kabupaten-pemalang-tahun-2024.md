@@ -1,5 +1,5 @@
 ---
-title: SMK Negeri 1 Pemalang Juara Umum LKS Tingkat Kabupaten Pemalang Tahun 2024
+title: SMK Negeri 1 Pemalang Raih Juara Umum LKS Kabupaten Pemalang 2024
 date: 2024-03-01T03:35:55.426Z
 category: Berita
 tags:
