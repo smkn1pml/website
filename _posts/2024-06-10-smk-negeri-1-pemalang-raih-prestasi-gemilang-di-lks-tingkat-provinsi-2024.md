@@ -11,7 +11,7 @@ author: Administrator
 
 ## SMK Negeri 1 Pemalang Raih Prestasi Gemilang di LKS Tingkat Provinsi 2024
 
-**Pemalang, 20 Februari 2024** - Kabar membanggakan datang dari SMKN 1 Pemalang. Dalam ajang Lomba Kompetensi Siswa (LKS) Tingkat Provinsi Tahun 2024, sekolah kembali menunjukkan prestasi gemilangnya dengan meraih dua juara bergengsi.
+**Pemalang, 5 Mei 2024** - Kabar membanggakan datang dari SMKN 1 Pemalang. Dalam ajang Lomba Kompetensi Siswa (LKS) Tingkat Provinsi Tahun 2024, sekolah kembali menunjukkan prestasi gemilangnya dengan meraih dua juara bergengsi.
 
 Annisa Rahmah Dukhari, siswi kelas XI MPLB 3, berhasil menorehkan prestasi dengan meraih Juara 2 dalam cabang lomba Bilingual Secretary. Di sisi lain, Amelia Amesti dari kelas XII TKJ 1 menunjukkan kemampuannya dengan meraih Juara 3 dalam cabang lomba Cloud Computing.
 
