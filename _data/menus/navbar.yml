@@ -24,6 +24,8 @@ items:
   - title: Program Sekolah
     url: "#"
     children:
+      - title: E-Learning
+        url: https://elearning.smkn1pml.sch.id
       - title: Mikrotik Academy
         url: /page/mikrotikacademy/
       - title: Bursa Kerja Khusu (BKK)
