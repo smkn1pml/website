@@ -4,18 +4,49 @@ slug: tkj
 external: ""
 color: orange
 ---
-Teknik Jaringan Komputer dan Telekomunikasi (TJKT) merupakan program keahlian yang membekali peserta didik dengan keterampilan, pengetahuan, dan sikap agar kompeten dalam merakit, menginstall program, merawat dan memperbaiki komputer serta jaringannya. Lulusan program keahlian ini memiliki kemampuan melakukan installasi jaringan komputer, baik itu jaringan komputer dalam rumah /kantor, antar kantor, antar kota, antar provinsi, bahkan antar negara.
+<!--StartFragment-->
 
-### Tujuan
+**SMK Negeri 1 Pemalang** membuka program keahlian Teknik Jaringan Komputer dan Telekomunikasi (TKJT) yang dirancang untuk membekali siswa dengan pengetahuan dan keterampilan yang dibutuhkan untuk bekerja di industri Teknologi Informasi dan Komunikasi (TIK) yang terus berkembang pesat. Lulusan TKJT memiliki peluang kerja yang luas di berbagai bidang industri TIK, seperti ISP, perusahaan IT, perkantoran, dan lain sebagainya.
 
-Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan secara umum mengacu pada isi Undang Undang Sistem Pendidikan Nasional (UU SPN) pasal 3 mengenai Tujuan Pendidikan Nasional dan penjelasan pasal 15 yang menyebutkan bahwa pendidikan kejuruan merupakan pendidikan menengah yang mempersiapkan peserta didik terutama untuk bekerja dalam bidang tertentu. Secara khusus Tujuan Kompetensi Keahlian Teknik Komputer dan Jaringan adalah membekali peserta didik dalam keterampilan, pengetahuan dan sikap agar komopeten:
+**Teknik Jaringan Komputer dan Telekomunikasi (TKJT)** adalah salah satu program keahlian di SMK yang memfokuskan pada penguasaan teknik dan keahlian dalam bidang instalasi, konfigurasi, dan pengelolaan jaringan komputer dan telekomunikasi. Program ini dirancang untuk membekali siswa dengan pengetahuan dan keterampilan yang dibutuhkan untuk bekerja di industri Teknologi Informasi dan Komunikasi (TIK) yang terus berkembang pesat.
 
-1. Meningkatkan keimanan dan ketaqwaan peserta diklat.
-2. Mendidik peserta diklat agar menjadi warga negara yang betanggung jawab.
-3. Mendidik peserta diklat agar dapat menerapkan hidup sehat, memiliki wawasan pengetahuan dan seni.
-4. Mendidik peserta diklat dengan keahlian dan keterampilan dalam bidang keahlian Teknologi Informasi dan Komunikasi khususnya Kompetensi Keahlian Teknik Komputer dan jaringan agar dapat bekerja baik secara mandiri atau mengisi lowongan pekerjaan yang ada di dunia usaha dan dunia industri sebagai tenaga kerja tingkat menengah.
-5. Mendidik peserta diklat agar mampu memilih karir, berkompetisi, dan mengembangkan sikap profesional dalam bidang keahlian Teknologi Informasi dan Komunikasi khususnya Kompetensi Keahlian Teknik Komputer dan Jaringan.
-6. Membekali peserta diklat dengan ilmu pengetahuan dan keterampilan sebagai bekal bagi yang berminat untuk melanjutkan pendidikan.
+**Berikut beberapa poin penting tentang program keahlian TKJT:**
+
+**Tujuan:**
+
+* Mempersiapkan siswa untuk menjadi teknisi jaringan komputer dan telekomunikasi yang kompeten dan profesional.
+* Membekali siswa dengan pengetahuan dan keterampilan yang dibutuhkan untuk bekerja di industri TIK.
+* Menumbuhkan jiwa wirausaha pada siswa agar mampu membuka usaha jasa instalasi dan pengelolaan jaringan komputer.
+
+**Materi Pembelajaran:**
+
+* Dasar-dasar Jaringan Komputer
+* Sistem Operasi Jaringan
+* Perangkat Keras Jaringan
+* Konfigurasi Jaringan
+* Keamanan Jaringan
+* Telekomunikasi
+* Praktek Instalasi dan Konfigurasi Jaringan
+* Praktek Pengelolaan Jaringan
+* Kewirausahaan
+
+**Keunggulan Program TKJT:**
+
+* Lulusan TKJT memiliki peluang kerja yang luas di berbagai bidang industri TIK, seperti ISP, perusahaan IT, perkantoran, dan lain sebagainya.
+* TKJT membekali siswa dengan keterampilan yang dibutuhkan untuk bekerja dengan teknologi terbaru di bidang jaringan komputer dan telekomunikasi.
+* TKJT memberikan kesempatan kepada siswa untuk mengembangkan jiwa wirausaha dan membuka usaha jasa instalasi dan pengelolaan jaringan komputer.
+
+**Prospek Kerja Lulusan TKJT:**
+
+* Teknisi Jaringan Komputer
+* Administrator Jaringan
+* Network Engineer
+* Network Security Engineer
+* Wiraswasta Jasa Instalasi dan Pengelolaan Jaringan
+
+<!--EndFragment-->
+
+
 
 #### Pada Tahun 2015 Program Keahlian Telah Mendapat Akreditasi A.
 
