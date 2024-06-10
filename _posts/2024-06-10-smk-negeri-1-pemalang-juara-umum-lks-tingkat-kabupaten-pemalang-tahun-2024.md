@@ -20,38 +20,27 @@ Torehan prestasi ini tidak lepas dari kerja keras dan dedikasi tinggi para guru,
 
 Sebagai juara umum, SMKN 1 Pemalang berhak atas piala bergilir dan hadiah lainnya. Prestasi ini menjadi bukti nyata bahwa SMKN 1 Pemalang merupakan sekolah yang berkualitas dan mampu mencetak siswa-siswi yang berprestasi.
 
-Siswa-siswi peserta LKS tingkat Kabupaten yang telah berhasil menjadi juara dan mengantarkan SMKN 1 Pemalang sebagai Juara Umum., sebagai berikut :\
-\
+Siswa-siswi peserta LKS tingkat Kabupaten yang telah berhasil menjadi juara dan mengantarkan SMKN 1 Pemalang sebagai Juara Umum., sebagai berikut :
+
 1. LKS Cyber Security\
-Juara 1: Naufal Akrom Dzamaar Kelas XII TKJ 3 dan Cici Rossa Natalia Kelas XI TKJ 1\
-\
+   Juara 1: Naufal Akrom Dzamaar Kelas XII TKJ 3 dan Cici Rossa Natalia Kelas XI TKJ 1
 2. LKS Cloud computing\
-Juara 1: Amelia Amesti Kelas XII TKJ 1\
-\
+   Juara 1: Amelia Amesti Kelas XII TKJ 1
 3. LKS 3D Game Art\
-Juara 1: Shasya Novalita Gusti Pamutri Kelas XI DKV\
-\
+   Juara 1: Shasya Novalita Gusti Pamutri Kelas XI DKV
 4. LKS Teknologi Desain Grafis\
-Juara 1: Meritza Yasmin Kelas XI DKV\
-\
+   Juara 1: Meritza Yasmin Kelas XI DKV
 5. LKS Accounting\
-Juara 2 Dian Cantika Nurul Inayah Kelas XII AKL 1\
-\
+   Juara 2 Dian Cantika Nurul Inayah Kelas XII AKL 1
 6. LKS Bilingual Secretary\
-Juara 1 Annisa Rahmah Dukhari Kelas XI MPLB 3\
-\
+   Juara 1 Annisa Rahmah Dukhari Kelas XI MPLB 3
 7. LKS Digital marketing\
-Juara 2 Chaerunnisa Putri Kinanthi Kelas XI PE2\
-\
+   Juara 2 Chaerunnisa Putri Kinanthi Kelas XI PE2
 8. LKS Web Technology\
-Juara 2 Fadlan Abduh Erman Nawa XI PPLG\
-\
+   Juara 2 Fadlan Abduh Erman Nawa XI PPLG
 9. IT software solution for bussiness\
-Juara 3 NATASYA REGITA PRAMESTY X TJKT 3\
-\
+   Juara 3 NATASYA REGITA PRAMESTY X TJKT 3
 10. LKS TBSM\
-Juara 2 Miko Junandar Nugroho kelas XII TBSM 2
-
-
+    Juara 2 Miko Junandar Nugroho kelas XII TBSM 2
 
 <!--EndFragment-->
