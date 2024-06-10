@@ -21,7 +21,7 @@ items:
   - title: Galeri
     url: /gallery/
     children: null
-  - title: Kelas Industri
+  - title: Program Sekolah
     url: "#"
     children:
       - title: Mikrotik Academy
