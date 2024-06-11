@@ -5,12 +5,21 @@ date: 2021-01-18T05:43:43.960Z
 ---
 ### Visi
 
-> Mewujudkan lembaga pendidikan kejuruan yang lulusannya bertaqwa, mampu berkolaborasi, kompeten sesuai perkembangan ilmu pengetahuan, teknologi dan seni, serta berjiwa wirausaha
+> <!--StartFragment-->
+>
+> TERWUJUD LULUSAN BERKARAKTER MULIA, KOMPETEN SESUAI TUNTUTAN TEKNOLOGI DAN INDUSTRI SERTA BERJIWA SOSIAL
+>
+> <!--EndFragment-->
 
 ### Misi
 
-1. Membentuk peserta didik yang berkarakter dan beriman kepada Tuhan Yang Maha Esa
-2. Menyiapkan peserta didik yang berkualitas dan mampu bersaing di era global
-3. Menyelenggarakan pembelajaran yang berorientasi kepada kebutuhan dunia usaha, dunia industri dan dunia kerja
-4. Mewujudkan peserta didik yang kreatif dan inovatif
-5. Menyiapkan wirausahawan di sektor ekonomi kreatif
+<!--StartFragment-->
+
+1. Melaksanakan pembelajaran dengan pembinaan karakter Profil Pelajar Pancasila
+2. Melaksanakan pembelajaran dengan sistim Teaching Factory sesuai tuntutan industri
+3. Mengembangkan minat, bakat dan potensi siswa sehingga mampu bersaing memanfaatkan peluang untuk bekerja/wirausaha atau melanjutkan
+4. Menyelenggarakan digitalisasi sekolah yang sesuai tuntutan teknologi informasi
+5. Menyelenggarakan sekolah yang indah dan menyenangkan, berwawasan lingkungan sesuai budaya industri
+6. Menjalin kerjasama yang harmonis antar warga sekolah dan masyarakat sekitar, stakeholder yang lain serta DU/DI
+
+<!--EndFragment-->
