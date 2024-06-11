@@ -3,6 +3,8 @@ title: Profil Sekolah
 slug: profil
 date: 2021-01-18T05:43:02.885Z
 ---
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1717989435/IMG_20220318_082250_zlopdx.jpg)
+
 <p><center><b>KATA PENGANTAR</b></center></p>
 
 Puji syukur kami panjatkan kehadirat Allah SWT karena atas kehendak-Nya kami bisa menyusun buku profil SMK Negeri 1 Pemalang.
