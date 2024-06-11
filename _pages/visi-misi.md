@@ -5,12 +5,6 @@ date: 2021-01-18T05:43:43.960Z
 ---
 ### Visi
 
-> <!--StartFragment-->
->
-> TERWUJUD LULUSAN BERKARAKTER MULIA, KOMPETEN SESUAI TUNTUTAN TEKNOLOGI DAN INDUSTRI SERTA BERJIWA SOSIAL
->
-> <!--EndFragment-->
-
 ### Misi
 
 <!--StartFragment-->
