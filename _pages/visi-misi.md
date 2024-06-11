@@ -3,6 +3,8 @@ title: Visi & Misi
 slug: visi-misi
 date: 2021-01-18T05:43:43.960Z
 ---
+![](https://res.cloudinary.com/smkn1pml/image/upload/v1717989835/IMG_20220318_082208_zaerbg.jpg)
+
 ### Visi
 
 <!--StartFragment-->
