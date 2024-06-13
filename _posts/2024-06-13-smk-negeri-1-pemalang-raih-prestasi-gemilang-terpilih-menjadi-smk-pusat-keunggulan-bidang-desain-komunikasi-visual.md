@@ -1,6 +1,6 @@
 ---
-title: "SMK Negeri 1 Pemalang Raih Prestasi Gemilang: Terpilih Menjadi SMK Pusat
-  Keunggulan Bidang Desain Komunikasi Visual!"
+title: SMK Negeri 1 Pemalang Terpilih Menjadi SMK Pusat Keunggulan Bidang Desain
+  Komunikasi Visual
 date: 2024-06-13T07:58:31.779Z
 category: Berita
 tags:
