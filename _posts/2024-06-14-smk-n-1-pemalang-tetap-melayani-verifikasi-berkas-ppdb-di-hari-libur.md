@@ -1,5 +1,5 @@
 ---
-title: SMK N 1 Pemalang Tetap Melayani Verifikasi Berkas PPDB di Hari Libur
+title: SMKN 1 Pemalang Tetap Melayani Verifikasi Berkas PPDB di Hari Libur
 date: 2024-06-14T12:30:01.809Z
 category: Berita
 tags:
