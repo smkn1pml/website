@@ -9,7 +9,7 @@ author: Administrator
 ---
 <!--StartFragment-->
 
-SMK Negeri 1 Pemalang **memberikan kemudahan ekstra** bagi para calon peserta didik baru. **Layanan verifikasi berkas PPDB tahun 2024** akan **dibuka pada hari libur**, yaitu **tanggal 15 dan 22 Juni 2024**.exclamation<!----><!---->
+SMK Negeri 1 Pemalang **memberikan kemudahan ekstra** bagi para calon peserta didik baru. **Layanan verifikasi berkas PPDB tahun 2024** akan **dibuka pada hari libur**, yaitu **tanggal 15 dan 22 Juni 2024**.
 
 Khusus di hari-hari tersebut, **layanan verifikasi berkas** akan **berlangsung di luar jam kerja reguler,** yaitu pada **pukul 08.00 - 13.00 WIB**.
 
