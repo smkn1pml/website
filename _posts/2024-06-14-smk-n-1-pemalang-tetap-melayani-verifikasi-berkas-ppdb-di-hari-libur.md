@@ -4,7 +4,7 @@ date: 2024-06-14T12:30:01.809Z
 category: Berita
 tags:
   - ppdb
-thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1718368288/Salinan_dari_Salinan_dari_Ungu_dan_Merah_Ilustrasi_3D_Pengumuman_Ujian_Instagram_Post_xt5olm.png
+thumbnail: https://res.cloudinary.com/smkn1pml/image/upload/v1718369213/Salinan_dari_Salinan_dari_Ungu_dan_Merah_Ilustrasi_3D_Pengumuman_Ujian_Instagram_Post_zb8mbz.png
 author: Administrator
 ---
 <!--StartFragment-->
