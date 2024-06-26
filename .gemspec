@@ -23,7 +23,7 @@ Gem::Specification.new do |spec|
     spec.add_runtime_dependency	"jekyll", "~> 4.2.0"
     spec.add_runtime_dependency	"jekyll-feed", "~> 0.15.1"
     spec.add_runtime_dependency	"jekyll-minifier", "~> 0.1.10"
-    spec.add_runtime_dependency	"jemoji", "~> 0.12.0"
+    spec.add_runtime_dependency	"jemoji", ">= 0.12", "< 0.14"
     spec.add_runtime_dependency	"jekyll-sitemap", "~> 1.4.0"
     spec.add_runtime_dependency	"jekyll-archives", "~> 2.2.1"
     spec.add_runtime_dependency	"jekyll-paginate", "~> 1.1.0"
