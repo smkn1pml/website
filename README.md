@@ -1,4 +1,4 @@
-# Main Website
+# Main Website (DISCONTINUED)
 
 ![Website Screenshot](assets/images/screenshot.png)
 
@@ -77,7 +77,7 @@ If you encounter problems during the installation process, please check the offi
 
 Copyright (c) 2021 SMK Negeri 1 Pemalang.
 
-Developed by [Shafima Dev](https://github.com/sProDev).
+Developed by [Qopiku](https://github.com/Qopiku).
 
 ### License
 
