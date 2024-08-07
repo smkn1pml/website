@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
         "source_code_uri"	=> "https://github.com/smkn1pml/website"
     }
 
-    spec.add_runtime_dependency	"jekyll", "~> 4.2.0"
+    spec.add_runtime_dependency	"jekyll", ">= 4.2", "< 4.4"
     spec.add_runtime_dependency	"jekyll-feed", "~> 0.15.1"
     spec.add_runtime_dependency	"jekyll-minifier", "~> 0.1.10"
     spec.add_runtime_dependency	"jemoji", "~> 0.12.0"
